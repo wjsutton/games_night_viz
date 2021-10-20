@@ -1,12 +1,18 @@
 # Level 1: Player Select
 
-Welcome! The theme for the first #GamesNightViz project is "Player Select", which follows the start of most games - choosing your character. 
+Welcome! 
+
+The theme for the first #GamesNightViz project is "Player Select", which follows the start of most games - choosing your character. 
+
+ADD MORE
 
 ---
 
 ## Data visualisation challenge
 
 Pick one of the data sets below and visualise it. 
+
+ADD MORE
 
 | Name | Difficulty | Source | Data |
 |---|---|---|---|
@@ -17,17 +23,38 @@ Pick one of the data sets below and visualise it.
 | Mario Kart 8, The best kart for each driver  | Heroic  | [MarioWiki.com](https://www.mariowiki.com/Mario_Kart_8_Deluxe_in-game_statistics) | [link](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/mario_kart_8_best_kart_per_driver.csv) |
 | The Top 100 Female Poker Players  | Heroic  | [TheHendonMob.com](https://pokerdb.thehendonmob.com/player.php?a=r&n=68149) | [link](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/top_female_poker_players_and_events.xlsx) |
 
-**Legendary pep talk**
+### Legendary difficulty - bring your own data
 
-**Inspiration from the community**
+INSERT PEP TALK
+
+### Inspiration from the Tableau community
+
+
+<a href='https://public.tableau.com/app/profile/yuzo.tokutani/viz/VizMario/Mario'>
+  <img src = "https://public.tableau.com/thumb/views/VizMario/Mario" width="30%">
+</a>
+<a href='https://public.tableau.com/app/profile/kevin.flerlage/viz/WinningestPokerTournamentPlayers/WinningestPokerTournamentPlayers'>
+  <img src = "https://public.tableau.com/thumb/views/WinningestPokerTournamentPlayers/WinningestPokerTournamentPlayers" width="30%">
+</a>
+<a href='https://public.tableau.com/app/profile/joti.gautam/viz/PokeMonPokeDex1-20ofGenOne/Dashboard2'>
+  <img src = "https://public.tableau.com/thumb/views/PokeMonPokeDex1-20ofGenOne/Dashboard2" width="30%">
+</a>
+<br>
+Mario by Yuzo Tokutani, Winningest Poker Tournament Players by Kevin Flerlage, & PokeMon: PokeDex (1-20) of Gen One by Joti Gautam
+
+ADD MORE
+
+https://public.tableau.com/app/profile/marcus.grant/viz/CurvedTimeline_1/31yearsofZelda
+
+
 
 ---
 
 ## Visual design challenge: Colour
 
-Colour is one of the most powerful tools for the data visualisator to connect with their readers/users. Colour allows us to distinguish and emphasize important parts of out data visualisation and well as creating atmosphere to the work.
+Colour is one of the most powerful tools for a data visualisation to connect with its readers/users. Colour allows us to distinguish and emphasize important parts of our data visualisation and well as creating an atmosphere for the work.
 
-Here's an example by Andy Cotgrave, a clever switch of colour to create [Same charts different message](https://gravyanecdote.com/data-2/changing-the-message-without-changing-the-data/)
+Here's an example by Andy Cotgrave, a clever switch of colour to create the [Same charts different message](https://gravyanecdote.com/data-2/changing-the-message-without-changing-the-data/)
 
 <p align="center">
 <a href='https://gravyanecdote.com/data-2/changing-the-message-without-changing-the-data/'>
@@ -43,17 +70,17 @@ Some of my favourites colour tools
 - [Datadam Colors](https://public.tableau.com/app/profile/ken.flerlage/viz/DatafamColors/StartPage)
 - [Pokemon Colour Palettes](https://public.tableau.com/app/profile/wjsutton/viz/PokemonColourPalettes/PokePalettes)
 
-For more on inspiration on colour tool, read this great article by Lisa Charlotte Muth, [Your Friendly Guide to Colors in Data Visualisation](https://blog.datawrapper.de/colorguide/)
+For more on inspiration on colour tools, read this great article by Lisa Charlotte Muth, [Your Friendly Guide to Colors in Data Visualisation](https://blog.datawrapper.de/colorguide/)
 
-Consider accessibility when experimenting with colour, you can create more accessible visualisations by:
+Consider accessibility when experimenting with colour, you can create more accessible visualisations:
 - using websafe contrasting colours: [WhoCanUse.com](https://whocanuse.com/)
-- checking how a colour blind person would see you viz: [Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/).
+- check how a colour blind person would see you viz: [Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/).
 
 ---
 
-## Data prepartion challenge: The best Mario Kart 
+## Data preparation challenge: The best Mario Kart 
 
-The holiday season is coming up, which means friends and relatives will be coming over and a chance you'll find yourself in a Mario Kart 8 tournament. To give myself the best possiblity of winning what's the best kart I could pick for my favourite character? Also what's the best kart whether everything has been unlocked or not? 
+The holiday season is coming up, which means friends and relatives will be coming over and a chance you'll find yourself in a Mario Kart 8 tournament. To give me the best possibility of winning what's the best kart I could pick for my favourite character? Also, what's the best kart whether everything has been unlocked or not? 
 
 For Mario Kart 8, at the start of the game you select:
 - A driver
@@ -66,17 +93,17 @@ For Mario Kart 8, at the start of the game you select:
 To work out the best combination of driver, body, tires and glider, we can source some data tables from [MarioWiki.com](https://www.mariowiki.com/Mario_Kart_8_Deluxe_in-game_statistics)
 
 1. Input the data
-2. Long pivot the Driver, Kart body, Tires and Gliders tabs so the each attribute becomes a row with the attribute value.
+2. Long pivot the Driver, Kart body, Tires and Gliders tabs so each attribute becomes a row with the attribute value.
 3. Join Driver, Kart body, Tires and Gliders together so we have 1 row per combination of driver, kart body, tires and glider
-4. Create a total value (sum of driver, kart body, tires and glider) for each attribute
+4. Create a total value (sum of the driver, kart body, tires and glider values) for each attribute
 5. Drop the individual component values and create a wide pivot of the data spreading attributes into columns displaying the total values for each kart combination
-6. Simplfy the attributes:
+6. Simplify the attributes:
 - Sum all attributes as the overall total
 - Sum all attributes starting with "S" for the overall speed
 - Sum all attributes starting with "T" for the overall handling
 
 7. Determine which components (driver, kart body, tires and glider) are available at the start of the game
-8. Create flag for any kart combination that requires an unlock, i.e. any components not available at the start of the game
+8. Create a flag for any kart combination that requires an unlock, i.e. any components not available at the start of the game
 9. Create a rank for each driver and if an unlock is required, ordered by the highest overall total descending, then by speed descending and handling descending
 10. Filter the data so just the best kart for each driver and if an unlock is required
 11. Optional: Join each component to an image so you know what to look out for in the game
