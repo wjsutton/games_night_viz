@@ -14,9 +14,9 @@ Working with datasets from your favourite games we'll build and develop a portfo
 Each month, we will have a theme and a range of datasets available, with a challenge to prepare one of the datasets and a principle of design to focus on. Datasets will come with a difficulty scale to help those newer to data visualisation or those with limited time to practice. We will be sharing our creations with the #datafam and the wider teaching community.
 
 **Difficulty scaled datasets** 
-- Casual - A small dataset 
-- Normal - A medium dataset
-- Heroic - A large dataset (may require joins)
+- Casual - For those new to data visualisation or with limited time available
+- Normal - A fair size data set that could create multiple data visualisations
+- Heroic - A large data set for those with more time available
 - Legendary - Bring your own data, [#IronQuest](https://sarahlovesdata.co.uk/category/iron-quest/) style
 
 There will also be two bonus 'Special Ops' tasks on:
@@ -40,23 +40,23 @@ Season 1 of #GamesNightViz will consist of 6 challenges released monthly.
 Click a card below to see the challenge.
 
 <a href='https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md'>
-  <img src = "/icons/Level%201.png" width="25%">
+  <img src = "/icons/Level%201.png" width="30%">
 </a>
 <a href='https://github.com/wjsutton/games_night_viz'>
-  <img src = "/icons/Coming%20soon.png" width="25%">
+  <img src = "/icons/Coming%20soon.png" width="30%">
 </a>
 <a href='https://github.com/wjsutton/games_night_viz'>
-  <img src = "/icons/Coming%20soon.png" width="25%">
+  <img src = "/icons/Coming%20soon.png" width="30%">
 </a>
 
 <a href='https://github.com/wjsutton/games_night_viz'>
-  <img src = "/icons/Coming%20soon.png" width="25%">
+  <img src = "/icons/Coming%20soon.png" width="30%">
 </a>
 <a href='https://github.com/wjsutton/games_night_viz'>
-  <img src = "/icons/Coming%20soon.png" width="25%">
+  <img src = "/icons/Coming%20soon.png" width="30%">
 </a>
 <a href='https://github.com/wjsutton/games_night_viz'>
-  <img src = "/icons/Coming%20soon.png" width="25%">
+  <img src = "/icons/Coming%20soon.png" width="30%">
 </a>
 
 ### Challenge List
