@@ -37,28 +37,30 @@ Submit your work on Twitter with the hashtag [#GamesNightViz](https://twitter.co
 
 Season 1 of #GamesNightViz will consist of 6 challenges released monthly.
 
+Click a card below to see the challenge.
+
 <a href='https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md'>
-  <img src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1b58fc05-b804-4a0b-a460-1463437e735b/d9zy956-88e69db4-b34d-4aa7-b9a0-e110d1f6ce8f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFiNThmYzA1LWI4MDQtNGEwYi1hNDYwLTE0NjM0MzdlNzM1YlwvZDl6eTk1Ni04OGU2OWRiNC1iMzRkLTRhYTctYjlhMC1lMTEwZDFmNmNlOGYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mZLlb5u1WwYNuLIyP8sYEJrpto5wqcSWgdqV-EVb2D0" width="30%">
+  <img src = "/icons/Level%201.png" width="25%">
 </a>
 <a href='https://github.com/wjsutton/games_night_viz'>
-  <img src = "https://t3.ftcdn.net/jpg/02/91/50/24/360_F_291502443_1h4oDbxKdgGavtlcNkQYwFquJKB2l9bd.jpg" width="30%">
+  <img src = "/icons/Coming%20soon.png" width="25%">
 </a>
 <a href='https://github.com/wjsutton/games_night_viz'>
-  <img src = "https://t3.ftcdn.net/jpg/02/91/50/24/360_F_291502443_1h4oDbxKdgGavtlcNkQYwFquJKB2l9bd.jpg" width="30%">
+  <img src = "/icons/Coming%20soon.png" width="25%">
 </a>
 
 <a href='https://github.com/wjsutton/games_night_viz'>
-  <img src = "https://t3.ftcdn.net/jpg/02/91/50/24/360_F_291502443_1h4oDbxKdgGavtlcNkQYwFquJKB2l9bd.jpg" width="30%">
+  <img src = "/icons/Coming%20soon.png" width="25%">
 </a>
 <a href='https://github.com/wjsutton/games_night_viz'>
-  <img src = "https://t3.ftcdn.net/jpg/02/91/50/24/360_F_291502443_1h4oDbxKdgGavtlcNkQYwFquJKB2l9bd.jpg" width="30%">
+  <img src = "/icons/Coming%20soon.png" width="25%">
 </a>
 <a href='https://github.com/wjsutton/games_night_viz'>
-  <img src = "https://t3.ftcdn.net/jpg/02/91/50/24/360_F_291502443_1h4oDbxKdgGavtlcNkQYwFquJKB2l9bd.jpg" width="30%">
+  <img src = "/icons/Coming%20soon.png" width="25%">
 </a>
 
-
-
+### Challenge List
+- [Level 1: Player Select](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md)
 
 ### Who am I?
 
