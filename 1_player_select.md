@@ -4,15 +4,23 @@ Welcome!
 
 The theme for the first #GamesNightViz project is "Player Select", which follows the start of most games - choosing your character. 
 
-ADD MORE
+Picking the right character can be a tricky decision, and we may want to bring in some data to help us select the best character for the job, we may want to know:
+- what skills does this character have?
+- what makes them different from everyone else?
+- how likely are they to succeed based on past performances?
+
+Below are **three challenges** for you to choose from:
+- **Visualising data** about our favourite CHARACTERS, with datasets ranging from gaming icons to top poker players
+- **Crafting designs** to explore COLOUR, with tools to help you create a unique colour palette
+- **Preparing data** to find the BEST MARIO KART driver and kart combination, with steps to follow along the way
 
 ---
 
 ## Data visualisation challenge
 
-Pick one of the data sets below and visualise it. 
+## Task
 
-ADD MORE
+Pick one of the data sets below, or a data set you've found, and visualise it. 
 
 | Name | Difficulty | Source | Data |
 |---|---|---|---|
@@ -25,10 +33,23 @@ ADD MORE
 
 ### Legendary difficulty - bring your own data
 
-INSERT PEP TALK
+For those considering the Legendary difficulty (bring your own data), here are a few ideas to get you started:
+- Do you have a favourite character?
+- Did they appear in multiple match/games or is there one particular match/game that was interesting?
+- Do they have particular strengths that gives them an advantage over others?
+
+Looking for data sets? [Check out Sarah Bartlett's Twitter thread for data sources](https://twitter.com/sarahlovesdata/status/1445006106116374539?ref_src=twsrc%5Etfw)
+
+| Data set Difficulty | Description |
+|---|---|
+| Casual | For those new to data visualisation or with limited time available |
+| Normal | A fair size data set that could create multiple data visualisations |
+| Heroic | A large data set for those with more time available  |
+| Legendary | Expand on the data provided by bringing new data to the project |
 
 ### Inspiration from the Tableau community
 
+Here are some vizzes you may want to check out for inspiration.
 
 <a href='https://public.tableau.com/app/profile/yuzo.tokutani/viz/VizMario/Mario'>
   <img src = "https://public.tableau.com/thumb/views/VizMario/Mario" width="30%">
@@ -39,14 +60,39 @@ INSERT PEP TALK
 <a href='https://public.tableau.com/app/profile/joti.gautam/viz/PokeMonPokeDex1-20ofGenOne/Dashboard2'>
   <img src = "https://public.tableau.com/thumb/views/PokeMonPokeDex1-20ofGenOne/Dashboard2" width="30%">
 </a>
+<a href='https://public.tableau.com/app/profile/marcus.grant/viz/CurvedTimeline_1/31yearsofZelda'>
+  <img src = "https://public.tableau.com/thumb/views/CurvedTimeline_1/31yearsofZelda" width="30%">
+</a>
+<a href='https://public.tableau.com/app/profile/fabio.fantoni/viz/VideogameFemaleCharacters/Arcade'>
+  <img src = "https://public.tableau.com/thumb/views/VideogameFemaleCharacters/Arcade" width="30%">
+</a>
+<a href='https://public.tableau.com/app/profile/smirkygraphs/viz/FireEmblemHeroesCharacterBreakdown/Dashboard1'>
+  <img src = "https://public.tableau.com/thumb/views/FireEmblemHeroesCharacterBreakdown/Dashboard1" width="30%">
+</a>
+</a>
+<a href='https://public.tableau.com/app/profile/david.callies/viz/Pac-ManDashboardViz/FinalDraft'>
+  <img src = "https://public.tableau.com/thumb/views/Pac-ManDashboardViz/FinalDraft" width="30%">
+</a>
+</a>
+<a href='https://public.tableau.com/app/profile/adrian.zinovei/viz/CardGameTrick/CardTrick'>
+  <img src = "https://public.tableau.com/thumb/views/CardGameTrick/CardTrick" width="30%">
+</a>
+</a>
+<a href='https://public.tableau.com/app/profile/mark.bradbourne/viz/LasVegasBlackjack/BlackjackinLasVegas'>
+  <img src = "https://public.tableau.com/thumb/views/LasVegasBlackjack/BlackjackinLasVegas" width="30%">
+</a>
 <br>
-Mario by Yuzo Tokutani, Winningest Poker Tournament Players by Kevin Flerlage, & PokeMon: PokeDex (1-20) of Gen One by Joti Gautam
 
-ADD MORE
-
-https://public.tableau.com/app/profile/marcus.grant/viz/CurvedTimeline_1/31yearsofZelda
-
-
+Vizzes and Authors:
+- Mario by Yuzo Tokutani
+- Winningest Poker Tournament Players by Kevin Flerlage
+- PokeMon: PokeDex (1-20) of Gen One by Joti Gautam
+- 31 years of The Legend of Zelda by Marcus Grant
+- Videogame Female Characters by Fabio Fantoni
+- Fire Emblem Heroes Character Breakdown by SmirkyGraphs
+- Pac-Man - The Top Grossing Arcade Game of All Time by David Callies
+- Card Game Trick by Adrian Zinovei
+- Las Vegas Blackjack by Mark Bradbourne
 
 ---
 
@@ -108,3 +154,11 @@ To work out the best combination of driver, body, tires and glider, we can sourc
 10. Filter the data so just the best kart for each driver and if an unlock is required
 11. Optional: Join each component to an image so you know what to look out for in the game
 12. Output the data
+
+--- 
+
+## How to Submit
+
+Submit your work on Twitter with the hashtag [#GamesNightViz](https://twitter.com/search?q=%23GamesNightViz&src=typed_query&f=top), and tag [@WJSutton12](https://twitter.com/WJSutton12) so I don't miss your great work!
+
+
