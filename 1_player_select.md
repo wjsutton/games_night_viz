@@ -113,7 +113,7 @@ Using a colour palette tool create a unique colour scheme for a data visualisati
 
 Some of my favourites colour tools
 - [Adobe Colour](https://color.adobe.com/create/color-wheel)
-- [Datadam Colors](https://public.tableau.com/app/profile/ken.flerlage/viz/DatafamColors/StartPage)
+- [Datafam Colors](https://public.tableau.com/app/profile/ken.flerlage/viz/DatafamColors/StartPage)
 - [Pokemon Colour Palettes](https://public.tableau.com/app/profile/wjsutton/viz/PokemonColourPalettes/PokePalettes)
 
 For more on inspiration on colour tools, read this great article by Lisa Charlotte Muth, [Your Friendly Guide to Colors in Data Visualisation](https://blog.datawrapper.de/colorguide/)
