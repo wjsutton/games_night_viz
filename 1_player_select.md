@@ -14,6 +14,11 @@ Below are **three challenges** for you to choose from:
 - **Crafting designs** to explore COLOUR, with tools to help you create a unique colour palette
 - **Preparing data** to find the BEST MARIO KART driver and kart combination, with steps to follow along the way
 
+Submissions 
+- Deadline is midnight PST 31st December 2021, level 2 will be released shortly afterwards
+- Post your submissions on Twitter with the hashtag [#GamesNightViz](https://twitter.com/search?q=%23GamesNightViz&src=typed_query&f=top), and tag [@WJSutton12](https://twitter.com/WJSutton12) so I don't miss your great work!
+- Submit your work the project tracker here: [https://docs.google.com/forms/d/e/1FAIpQLScqFaHnRcX2uBX7h5PkbigXim1kfQMsnC7ZloF8UvxzfRog4w/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLScqFaHnRcX2uBX7h5PkbigXim1kfQMsnC7ZloF8UvxzfRog4w/viewform?usp=sf_link)
+
 ---
 
 ## Data visualisation challenge
@@ -49,7 +54,9 @@ Looking for data sets? [Check out Sarah Bartlett's Twitter thread for data sourc
 
 ### Inspiration from the Tableau community
 
-Here are some vizzes you may want to check out for inspiration.
+Here are some vizzes to check out for inspiration. 
+
+Your content may be different but focus on the choices the authors have made in presenting the data, what would you do differently? And what aspects would you like to emulate?
 
 <a href='https://public.tableau.com/app/profile/yuzo.tokutani/viz/VizMario/Mario'>
   <img src = "https://public.tableau.com/thumb/views/VizMario/Mario" width="30%">
@@ -122,6 +129,18 @@ Consider accessibility when experimenting with colour, you can create more acces
 - using websafe contrasting colours: [WhoCanUse.com](https://whocanuse.com/)
 - check how a colour blind person would see you viz: [Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/).
 
+### Inspiration from the Tableau community
+
+Check out Louis Yu recent Viz of the Day (VOTD), Bringing back the CHARM to Baltimore!
+
+<p align="center">
+<a href='https://public.tableau.com/app/profile/louisyu/viz/BringingbacktheCHARMtoBalitmore/LivabilityScores'>
+  <img src = "https://public.tableau.com/thumb/views/BringingbacktheCHARMtoBalitmore/LivabilityScores" width="40%" class="center">
+</a>
+</p>
+
+Louis has taken colour design inspiration from The Sims to create a distinctive look and feel to the viz.
+
 ---
 
 ## Data preparation challenge: The best Mario Kart 
@@ -159,6 +178,7 @@ To work out the best combination of driver, body, tires and glider, we can sourc
 
 ## How to Submit
 
-Submit your work on Twitter with the hashtag [#GamesNightViz](https://twitter.com/search?q=%23GamesNightViz&src=typed_query&f=top), and tag [@WJSutton12](https://twitter.com/WJSutton12) so I don't miss your great work!
-
+- Deadline is midnight PST 31st December 2021, level 2 will be released shortly afterwards
+- Post your submissions on Twitter with the hashtag [#GamesNightViz](https://twitter.com/search?q=%23GamesNightViz&src=typed_query&f=top), and tag [@WJSutton12](https://twitter.com/WJSutton12) so I don't miss your great work!
+- Submit your work the project tracker here: [https://docs.google.com/forms/d/e/1FAIpQLScqFaHnRcX2uBX7h5PkbigXim1kfQMsnC7ZloF8UvxzfRog4w/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLScqFaHnRcX2uBX7h5PkbigXim1kfQMsnC7ZloF8UvxzfRog4w/viewform?usp=sf_link)
 
