@@ -60,7 +60,14 @@ Click a card below to see the challenge.
 </a>
 
 ### Challenge List
-- [Level 1: Player Select](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md)
+
+| Challenge | Deadline | 
+|---|---|
+| [Level 1: Player Select](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md) | 31st December 2021 |
+
+### Submissions 
+- Post your submissions on Twitter with the hashtag [#GamesNightViz](https://twitter.com/search?q=%23GamesNightViz&src=typed_query&f=top), and tag [@WJSutton12](https://twitter.com/WJSutton12) so I don't miss your great work!
+- Submit your work the project tracker here: [https://docs.google.com/forms/d/e/1FAIpQLScqFaHnRcX2uBX7h5PkbigXim1kfQMsnC7ZloF8UvxzfRog4w/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLScqFaHnRcX2uBX7h5PkbigXim1kfQMsnC7ZloF8UvxzfRog4w/viewform?usp=sf_link)
 
 ### Who am I?
 
