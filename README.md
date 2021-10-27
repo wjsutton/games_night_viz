@@ -29,7 +29,7 @@ For this project you can choose which challenges you undertake depending on what
 
 All of them! 
 
-At #GamesNightViz we love all types of games: card games, board games, video games, party games, gameshows, the list goes on!
+At #GamesNightViz we love all types of games: card games, board games, video games, party games, game shows, the list goes on!
 
 
 ### The Golden Rule
