@@ -25,6 +25,13 @@ There will also be two bonus 'Special Ops' tasks on:
 
 For this project you can choose which challenges you undertake depending on what you want to learn, e.g. you may want to focus on Design + a dataset, alternatively, you may want to just learn data preparation with a new coding language or tool. 
 
+### What Type of Games?
+
+All of them! 
+
+At #GamesNightViz we love all types of games: card games, board games, video games, party games, gameshows, the list goes on!
+
+
 ### The Golden Rule
 
 There's no expectation to complete all the tasks or participate every month. This project is designed to inspire you to develop new skills and build a portfolio showcasing what you've learnt, not be a chore or something that doesn't spark joy.    
@@ -69,16 +76,14 @@ Click a card below to see the challenge.
 - Post your submissions on Twitter with the hashtag [#GamesNightViz](https://twitter.com/search?q=%23GamesNightViz&src=typed_query&f=top), and tag [@WJSutton12](https://twitter.com/WJSutton12) so I don't miss your great work!
 - Submit your work the project tracker here: [https://docs.google.com/forms/d/e/1FAIpQLScqFaHnRcX2uBX7h5PkbigXim1kfQMsnC7ZloF8UvxzfRog4w/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLScqFaHnRcX2uBX7h5PkbigXim1kfQMsnC7ZloF8UvxzfRog4w/viewform?usp=sf_link)
 
-### Who am I?
+### Our Contributors 
 
 <a href="https://twitter.com/WJSutton12"><img align="right" src = "https://pbs.twimg.com/profile_images/1228767622432464896/wi01-oYY_400x400.jpg" width="30%"></a>
-I'm Will, an avid fan of games of all kinds. I've been working with data for over 10 years and now work as a Senior Data Analyst, working with data and stakeholders to inform business decisions. 
+**Will Sutton**<br>I'm Will, an avid fan of games of all kinds. I've been working with data for over 10 years and now work as a Senior Data Analyst, working with data and stakeholders to inform business decisions. 
 
 
 I owe a large amount of my career development down to passion projects; either part of the Tableau community, producing insights for my running club, or just questions I wanted to know the answers to. 
 
-You can check me and my work on:
-- [Twitter](https://twitter.com/WJSutton12)
-- [Tableau Public](https://public.tableau.com/app/profile/wjsutton)
-- [GitHub](https://github.com/wjsutton)
+You can check me and my work on:<br>
+[Twitter](https://twitter.com/WJSutton12) | [Tableau Public](https://public.tableau.com/app/profile/wjsutton) | [GitHub](https://github.com/wjsutton)
 
