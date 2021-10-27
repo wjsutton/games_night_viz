@@ -9,10 +9,12 @@ Picking the right character can be a tricky decision, and we may want to bring i
 - what makes them different from everyone else?
 - how likely are they to succeed based on past performances?
 
+## The Challenges
+
 Below are **three challenges** for you to choose from:
-- **Visualising data** about our favourite CHARACTERS, with datasets ranging from gaming icons to top poker players
-- **Crafting designs** to explore COLOUR, with tools to help you create a unique colour palette
-- **Preparing data** to find the BEST MARIO KART driver and kart combination, with steps to follow along the way
+- [**Visualising data**](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md#data-visualisation-challenge) about our favourite CHARACTERS, with datasets ranging from gaming icons to top poker players
+- [**Crafting designs**](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md#visual-design-challenge-colour) to explore COLOUR, with tools to help you create a unique colour palette
+- [**Preparing data**](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md#data-preparation-challenge-the-best-mario-kart) to find the BEST MARIO KART driver and kart combination, with steps to follow along the way
 
 Submissions 
 - Deadline is midnight PST 31st December 2021, level 2 will be released shortly afterwards
