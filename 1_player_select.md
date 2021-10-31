@@ -159,7 +159,7 @@ For Mario Kart 8, at the start of the game you select:
 
 To work out the best combination of driver, body, tires and glider, we can source some data tables from [MarioWiki.com](https://www.mariowiki.com/Mario_Kart_8_Deluxe_in-game_statistics)
 
-1. Input the data
+1. [Input the data](https://github.com/wjsutton/games_night_viz/blob/main/data_prep/input_level_1_mario_kart_8.xlsx)
 2. Long pivot the Driver, Kart body, Tires and Gliders tabs so each attribute becomes a row with the attribute value.
 3. Join Driver, Kart body, Tires and Gliders together so we have 1 row per combination of driver, kart body, tires and glider
 4. Create a total value (sum of the driver, kart body, tires and glider values) for each attribute
@@ -174,7 +174,7 @@ To work out the best combination of driver, body, tires and glider, we can sourc
 9. Create a rank for each driver and if an unlock is required, ordered by the highest overall total descending, then by speed descending and handling descending
 10. Filter the data so just the best kart for each driver and if an unlock is required
 11. Optional: Join each component to an image so you know what to look out for in the game
-12. Output the data
+12. [Output the data](https://github.com/wjsutton/games_night_viz/blob/main/data_prep/output_level_1_mario_kart_8.csv)
 
 --- 
 
