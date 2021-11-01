@@ -60,21 +60,25 @@ There's no expectation to complete all the tasks or participate every month. Thi
 ### Our Contributors 
 
 <a href="https://twitter.com/WJSutton12"><img align="right" src = "https://pbs.twimg.com/profile_images/1228767622432464896/wi01-oYY_400x400.jpg" width="25%"></a>
-**Will Sutton**<br>I'm Will, an avid fan of games of all kinds. I've been working with data for over 10 years and now work as a Senior Data Analyst, working with data and stakeholders to inform business decisions. 
+**Will Sutton**<br><br>I'm Will, an avid fan of games of all kinds. I've been working with data for over 10 years and now work as a Senior Data Analyst, working with data and stakeholders to inform business decisions. 
 
 I owe a large amount of my career development down to passion projects; either part of the Tableau community, producing insights for my running club, or just questions I wanted to know the answers to. 
 
 You can check out Will's work on:<br>
 [Twitter](https://twitter.com/WJSutton12) | [Tableau Public](https://public.tableau.com/app/profile/wjsutton) | [GitHub](https://github.com/wjsutton)
 <br><br>
+
 <a href="https://twitter.com/Visual_Endgame"><img align="left" src = "https://public.tableau.com/avatar/dd33027a-0223-40cd-89b8-669d06f246b4.jpeg" width="25%"></a>
-**Tina Covelli**<br>I'm Tina and I've been in the data visualization space since 2015 and a gamer for life! I joined the #datafam and Tableau Public community in 2021 and it has been such a welcoming experience.  I am very passionate about both topics and am excited at the opportunity to work with Will and Louis to bring this passion forward for all!
+**Tina Covelli**<br><br>I'm Tina and I've been in the data visualization space since 2015 and a gamer for life! I joined the #datafam and Tableau Public community in 2021 and it has been such a welcoming experience.  
+
+I am very passionate about both topics and am excited at the opportunity to work with Will and Louis to bring this passion forward for all!
 
 You can check out Tina's work on:<br>
 [Twitter](https://twitter.com/Visual_Endgame) | [Tableau Public](https://public.tableau.com/app/profile/tina1167)
-<br><br><br><br>
+<br><br>
+
 <a href="https://twitter.com/ninjavizlouis"><img align="right" src = "https://public.tableau.com/avatar/153cc112-c707-4f5a-a613-e19cffbb950e.jpeg" width="25%"></a>
-**Louis Yu**<br>Hi, Louis here! Have been working in various industries in the past decade but finally found my way into the video game industry as a Senior Data Analyst, driving customer insights and building dashboards for 2K Games.
+**Louis Yu**<br><br>Hi, Louis here! Have been working in various industries in the past decade but finally found my way into the video game industry as a Senior Data Analyst, driving customer insights and building dashboards for 2K Games.
 
 I spent a good chunk of my growing up playing games as I always enjoy a good jRPG or anything with an immersive narrative. Which probably explains why I am fascinated by the storytelling potential of data vizzes!
 
