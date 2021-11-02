@@ -33,16 +33,16 @@ At #GamesNightViz we love all types of games: card games, board games, video gam
 
 ### The Challenges 
 
-Season 1 of #GamesNightViz will consist of 6 challenges released monthly.
+Season 1 of #GamesNightViz will consist of 6 sets of challenges released monthly.
 
-|Challenge &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |Deadline|
-|:----|:---------|
-|[Level 1: Player Select](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md)|31st December 2021|
-|Level 2: Coming Soon! |31st January 2022|
-|Level 3: Coming Soon! |28th Febuary 2022|
-|Level 4: Coming Soon! |31st March 2022|
-|Level 5: Coming Soon! |30th April 2022|
-|Level 6: Coming Soon! |31st May 2022|
+|Challenge|Data Viz|Design|Data Prep|Deadline|
+|:----|:---------|:---------|:---------|:---------|
+|[Level 1: Player Select](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md) |[Choose Your Character](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md#data-visualisation-challenge)|[Experiment With Colour](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md#visual-design-challenge-colour)|[The Best Mario Kart](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md#data-preparation-challenge-the-best-mario-kart)|31st December 2021|
+|Level 2: Coming Soon! | | | |31st January 2022|
+|Level 3: Coming Soon! | | | |28th Febuary 2022|
+|Level 4: Coming Soon! | | | |31st March 2022|
+|Level 5: Coming Soon! | | | |30th April 2022|
+|Level 6: Coming Soon! | | | |31st May 2022|
 
 ### House Rules
 
