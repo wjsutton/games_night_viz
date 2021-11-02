@@ -18,7 +18,7 @@ Below are **three challenges** for you to choose from:
 
 Submissions 
 - Deadline is midnight PST 31st December 2021, level 2 will be released shortly afterwards
-- Post your submissions on Twitter with the hashtag [#GamesNightViz](https://twitter.com/search?q=%23GamesNightViz&src=typed_query&f=top), and tag [@WJSutton12](https://twitter.com/WJSutton12) so I don't miss your great work!
+- Post your submissions on Twitter with the hashtag [#GamesNightViz](https://twitter.com/search?q=%23GamesNightViz&src=typed_query&f=top), and tag the team [@WJSutton12](https://twitter.com/WJSutton12), [@Visual_Endgame](https://twitter.com/Visual_Endgame), [@ninjavizlouis](https://twitter.com/ninjavizlouis) so we don't miss your great work!
 - Submit your work the project tracker here: [https://docs.google.com/forms/d/e/1FAIpQLScqFaHnRcX2uBX7h5PkbigXim1kfQMsnC7ZloF8UvxzfRog4w/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLScqFaHnRcX2uBX7h5PkbigXim1kfQMsnC7ZloF8UvxzfRog4w/viewform?usp=sf_link)
 
 ---
@@ -133,7 +133,7 @@ Consider accessibility when experimenting with colour, you can create more acces
 
 ### Inspiration from the Tableau community
 
-Check out Louis Yu recent Viz of the Day (VOTD), Bringing back the CHARM to Baltimore!
+Check out Louis Yu's recent Viz of the Day (VOTD), Bringing back the CHARM to Baltimore!
 
 <p align="center">
 <a href='https://public.tableau.com/app/profile/louisyu/viz/BringingbacktheCHARMtoBalitmore/LivabilityScores'>
@@ -181,6 +181,6 @@ To work out the best combination of driver, body, tires and glider, we can sourc
 ## How to Submit
 
 - Deadline is midnight PST 31st December 2021, level 2 will be released shortly afterwards
-- Post your submissions on Twitter with the hashtag [#GamesNightViz](https://twitter.com/search?q=%23GamesNightViz&src=typed_query&f=top), and tag [@WJSutton12](https://twitter.com/WJSutton12) so I don't miss your great work!
+- Post your submissions on Twitter with the hashtag [#GamesNightViz](https://twitter.com/search?q=%23GamesNightViz&src=typed_query&f=top), and tag the team [@WJSutton12](https://twitter.com/WJSutton12), [@Visual_Endgame](https://twitter.com/Visual_Endgame), [@ninjavizlouis](https://twitter.com/ninjavizlouis) so we don't miss your great work!
 - Submit your work the project tracker here: [https://docs.google.com/forms/d/e/1FAIpQLScqFaHnRcX2uBX7h5PkbigXim1kfQMsnC7ZloF8UvxzfRog4w/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLScqFaHnRcX2uBX7h5PkbigXim1kfQMsnC7ZloF8UvxzfRog4w/viewform?usp=sf_link)
 
