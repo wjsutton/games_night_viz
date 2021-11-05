@@ -1,3 +1,5 @@
+<img src='https://github.com/wjsutton/games_night_viz/blob/main/icons/banner_icon.png?raw=true' width='100%'>
+
 # Level 1: Player Select
 
 Welcome! 
