@@ -1,3 +1,6 @@
+<img src='https://github.com/wjsutton/games_night_viz/blob/main/icons/banner_icon.png?raw=true' width='100%'>
+
+
 # Introducing #GamesNightViz
 
 #GamesNightViz is a monthly Tableau community project focusing on using data from your favourite games to improve your skills with data visualisation, data preparation and visual design, and maybe a winning strategy for your next game night (no guarantees! :wink:)
