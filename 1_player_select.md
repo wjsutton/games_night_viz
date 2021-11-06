@@ -34,11 +34,17 @@ Pick one of the data sets below, or a data set you've found, and visualise it.
 | Name | Difficulty | Source | Data |
 |---|---|---|---|
 | Mario Golf Super Rush Character Stats | Casual | [NintendoLife](https://www.nintendolife.com/guides/mario-golf-super-rush-full-character-roster-and-special-shot-list) | [link](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/mario_golf_super_rush_character_stats.csv) |
-| HowChoo's Top 50 Most Iconic Video Game Characters | Casual | [HowChoo.com](https://howchoo.com/gaming/iconic-video-game-characters) | [link](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/howchoos_top_50_most_iconic_video_game_character.csv)  |
-| Pokemon of the Year, 2020 | Normal | [Pokemon2020.com](https://pokemon2020.pokemon.com/en-us/) | [link](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/pokemon_of_the_year_2020.csv) |
+| HowChoo's Top 50 Most Iconic Video Game Characters | Casual | [HowChoo.com](https://howchoo.com/gaming/iconic-video-game-characters) & [VGChartz.com](https://www.vgchartz.com/) | [link](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/howchoos_top_50_most_iconic_video_game_character.csv)  |
+| Pokemon of the Year, 2020 | Normal | [Pokemon2020.com](https://pokemon2020.pokemon.com/en-us/) & [Kaggle](https://www.kaggle.com/maca11/all-pokemon-dataset) | [link](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/pokemon_of_the_year_2020.xlsx) |
 | Street Fighter Character Usage and Stats | Normal | [Capcom.com](https://game.capcom.com/cfn/sfv/stats/usagerate) & [streetfighter.fandom.com](https://streetfighter.fandom.com/wiki/Street_Fighter_V_Character_Gameplay_Stats) | [link](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/street_fighter_v_character_usage_and_stats.xlsx) |
 | Mario Kart 8, The best kart for each driver  | Heroic  | [MarioWiki.com](https://www.mariowiki.com/Mario_Kart_8_Deluxe_in-game_statistics) | [link](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/mario_kart_8_best_kart_per_driver.csv) |
 | The Top 100 Female Poker Players  | Heroic  | [TheHendonMob.com](https://pokerdb.thehendonmob.com/player.php?a=r&n=68149) | [link](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/top_female_poker_players_and_events.xlsx) |
+
+**Stuck for Ideas? Here are some questions you could try to answer:**
+- [Iconic Characters:](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/howchoos_top_50_most_iconic_video_game_character.csv) Are older video games characters more iconic than newer ones? Do good game sales make for an iconic character?
+- [Pokemon:](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/pokemon_of_the_year_2020.xlsx) Are people's favourite Pokemon the strongest? Do people prefer certain pokemon types (e.g. Legendaries, Fire types, Final evolutions) over others?
+- [Top Poker Players:](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/top_female_poker_players_and_events.xlsx) The players are ranked by total earnings, are there other attributes we can explore to better understand their careers? For example, they've earned millions of dollars but was it all in one go? How many years have they been playing poker? How regularly do they win? 
+
 
 ### Legendary difficulty - bring your own data
 
