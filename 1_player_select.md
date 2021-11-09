@@ -181,7 +181,7 @@ To work out the best combination of driver, body, tires and glider, we can sourc
 7. Determine which components (driver, kart body, tires and glider) are available at the start of the game
 8. Create a flag for any kart combination that requires an unlock, i.e. any components not available at the start of the game
 9. Create a rank for each driver and if an unlock is required, ordered by the highest overall total descending, then by speed descending and handling descending
-10. Filter the data so just the best kart for each driver and if an unlock is required
+10. Filter the data so just the best kart for each driver and if an unlock is required, split any ties so we end with 1 kart per driver
 11. Optional: Join each component to an image so you know what to look out for in the game
 12. [Output the data](https://github.com/wjsutton/games_night_viz/blob/main/data_prep/output_level_1_mario_kart_8.csv)
 
