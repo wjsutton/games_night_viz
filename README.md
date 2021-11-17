@@ -55,6 +55,18 @@ Season 1 of #GamesNightViz will consist of 6 sets of challenges released monthly
 
 There's no expectation to complete all the tasks or participate every month. This project is designed to inspire you to develop new skills and build a portfolio showcasing what you've learnt, not be a chore or something that doesn't spark joy.    
 
+### Feedback
+
+We want to have a safe and supportive place where everyone feels comfortable sharing their work regardless of their skills. So please be supportive to each other and keep feedback overall positive. 
+
+Please make yourselves familiar with two great resources from [Storytelling With Data](https://www.storytellingwithdata.com/):
+- [Ways to get good feedback](https://www.storytellingwithdata.com/blog/2021/4/20/get-good-feedback)
+- [Unsolicited feedback](https://www.storytellingwithdata.com/blog/2021/9/7/unsolicited-feedback)
+
+There are also #datafam initiatives around feedback you can look to:
+- [Michelle Frayman](https://twitter.com/maf2k) & [Zak Geis](https://twitter.com/ZaksViz) regularly host a [#VizOfficeHours](https://twitter.com/hashtag/vizofficehours)
+- [Sam Parsons](https://twitter.com/SParsonsDataViz) started [#datafamfeedback](https://www.reflectionsindesign.com/2020/07/datafamfeedback.html) for constructive feedback on Twitter or LinkedIn
+
 ### How to Get Involved
 
 - Post your submissions on Twitter with the hashtag [#GamesNightViz](https://twitter.com/search?q=%23GamesNightViz&src=typed_query&f=top), and tag the team [@WJSutton12](https://twitter.com/WJSutton12), [@Visual_Endgame](https://twitter.com/Visual_Endgame), [@ninjavizlouis](https://twitter.com/ninjavizlouis) so we don't miss your great work!
