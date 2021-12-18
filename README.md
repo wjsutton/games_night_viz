@@ -47,6 +47,9 @@ Season 1 of #GamesNightViz will consist of 6 sets of challenges released monthly
 |Level 5: Coming Soon! | | | |30th April 2022|
 |Level 6: Coming Soon! | | | |31st May 2022|
 
+**Bonus Levels**
+- [Notable Holiday Games](https://github.com/wjsutton/games_night_viz/blob/main/9_bonus_holidays_2021.md)
+
 ### House Rules
 
 - Make sure it 'sparks joy' 
