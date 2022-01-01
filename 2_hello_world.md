@@ -15,9 +15,9 @@ Finding our way around a new place can be challenging so any data we have would 
 ## The Challenges
 
 Below are **three challenges** for you to choose from:
-- [**Visualising data**]() about our various game **WORLDS**, with datasets ranging from the landscapes of minecraft to the depth of ocean warfare in battleship
-- [**Boldly**]() stepping into the world of **FONTS**, with tools to help you pick the perfect font combo and deploy it in your viz
-- [**Preparing data**]() to **SURVIVE** against CLiam Browns Battleship AI, with steps to follow along the way
+- [**Visualising data**](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md#data-visualisation-challenge) about our various game **WORLDS**, with datasets ranging from the landscapes of minecraft to the depth of ocean warfare in battleship
+- [**Boldly**](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md#visual-design-challenge-font) stepping into the world of **FONTS**, with tools to help you pick the perfect font combo and deploy it in your viz
+- [**Preparing data**](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md#data-preparation-challenge-cliam-brown-sunk-my-battleship) to **SURVIVE** against CLiam Browns Battleship AI, with steps to follow along the way
 
 Submissions 
 - Deadline is midnight PST 31st January 2022, level 3 will be released shortly afterwards
@@ -34,12 +34,12 @@ Pick one of the data sets below, or a data set you've found, and visualise it.
 
 | Name | Difficulty | Source | Data |
 |---|---|---|---|
-| Minecraft Block Landscape | Casual | [Github/0xTiger](https://github.com/0xTiger/blockheights) | [link](2_hello_world/minecraft_blocks_simplified_version) [full dataset](2_hello_world/minecraft_blocks_full_version) |
+| Minecraft Block Landscape | Casual | [Github/0xTiger](https://github.com/0xTiger/blockheights) | [link](2_hello_world/minecraft_blocks_simplified_version.csv) [full dataset](2_hello_world/minecraft_blocks_full_version.csv) |
 | The Population of Pokemon Red & Blue | Casual | [Reddit/u/L285](https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/)| [link](2_hello_world/pokemon_red_blue_population.csv)  |
 | The 8 Worlds of Super Mario Bros | Normal | [MarioWiki.com](https://www.mariowiki.com/Super_Mario_Bros) | [link](2_hello_world/super_mario_bros_levels.xlsx) |
 | CLiamBrown Sunk my Battleship | Normal | [Github/cliambrown](https://github.com/cliambrown/battleship-data) & [cliambrown.com/battleship](https://cliambrown.com/battleship/play.php) | [link](2_hello_world/cliam_brown_battleship.xlsx) |
 | PUBG’s Death Locations from 1000 Matches | Heroic  | [Kaggle/skihikingkevin](https://www.kaggle.com/skihikingkevin/pubg-match-deaths) | [link](2_hello_world/pubg_single_player_erangel_sample.csv) [map](2_hello_world/pubg_single_player_erangel_map.jpg) |
-| Skyrim’s First Population Census  | Heroic  | [uesp.net](https://en.uesp.net/wiki/Skyrim:NPCs) & [skyrimcommands.com](https://skyrimcommands.com/npcs) | [link](2_hello_world/Skyrim Population.xlsx) |
+| Skyrim’s First Population Census  | Heroic  | [uesp.net](https://en.uesp.net/wiki/Skyrim:NPCs) & [skyrimcommands.com](https://skyrimcommands.com/npcs) | [link](2_hello_world/Skyrim%20Population.xlsx) |
 
 **Stuck for Ideas? Here are some questions you could try to answer:**
 - [Minecraft:](2_hello_world/minecraft_blocks_simplified_version.csv) Where can you find the best resources in minecraft? Are there any potential dangers at these levels?
@@ -119,7 +119,9 @@ Vizzes and Authors:
 
 In this challenge we'll be **BOLDLY** stepping into the world of fonts.
 
-We’ve put together a blog post on how to use fonts intentionally and challenge you to try it out this month. Read Tina’s post [How to Pick the Perfect Font]https://visualendgame.wixsite.com/tinacovelli/post/how-to-pick-the-perfect-font)
+We’ve put together a blog post on how to use fonts intentionally and challenge you to try it out this month. 
+   
+Read Tina’s post [How to Pick the Perfect Font](https://visualendgame.wixsite.com/tinacovelli/post/how-to-pick-the-perfect-font)
 
 ### Task 
 
@@ -172,7 +174,7 @@ Special thanks to C.Liam Brown for supplying the data, if you haven't yet try a 
 
 ### Task
 
-Find the top 10 safest squares in Battleship, where safety is a square occupied by a player’s ship which has the highest win rate by the player.
+Find the top 10 safest squares in Battleship, where safety is a square occupied by a player’s ship which has the highest win rate by the player. An overview of the full dataset has been provided here: [Github/cliambrown](https://github.com/cliambrown/battleship-data), this task works from the battleship_game_squares.csv dataset.
 
 1. [Input the data](data_prep/input_level_2_battleship_squares.csv)
 2. Filter ai_mode_id = 3 (the AI Learning mode)
