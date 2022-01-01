@@ -15,7 +15,7 @@ Finding our way around a new place can be challenging so any data we have would 
 ## The Challenges
 
 Below are **three challenges** for you to choose from:
-- [**Visualising data**](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md#data-visualisation-challenge) about our various game **WORLDS**, with datasets ranging from the landscapes of minecraft to the depth of ocean warfare in battleship
+- [**Visualising data**](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md#data-visualisation-challenge) about our various game **WORLDS**, with datasets ranging from the landscapes of Minecraft to the depth of ocean warfare in battleship
 - [**Boldly**](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md#visual-design-challenge-font) stepping into the world of **FONTS**, with tools to help you pick the perfect font combo and deploy it in your viz
 - [**Preparing data**](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md#data-preparation-challenge-cliam-brown-sunk-my-battleship) to **SURVIVE** against CLiam Browns Battleship AI, with steps to follow along the way
 
@@ -42,9 +42,9 @@ Pick one of the data sets below, or a data set you've found, and visualise it.
 | Skyrim’s First Population Census  | Heroic  | [uesp.net](https://en.uesp.net/wiki/Skyrim:NPCs) & [skyrimcommands.com](https://skyrimcommands.com/npcs) | [link](2_hello_world/Skyrim%20Population.xlsx) |
 
 **Stuck for Ideas? Here are some questions you could try to answer:**
-- [Minecraft:](2_hello_world/minecraft_blocks_simplified_version.csv) Where can you find the best resources in minecraft? Are there any potential dangers at these levels?
+- [Minecraft:](2_hello_world/minecraft_blocks_simplified_version.csv) Where can you find the best resources in Minecraft? Are there any potential dangers at these levels?
 - [Super Mario Bros:](2_hello_world/super_mario_bros_levels.xlsx) How many enemies must Mario face to save the princess in Super Mario Bros?
-- [PUBG:](2_hello_world/pubg_single_player_erangel_sample.csv) Where are the most dangerous places to land in PUBG’s erangel map?
+- [PUBG:](2_hello_world/pubg_single_player_erangel_sample.csv) Where are the most dangerous places to land in PUBG’s Erangel map?
 
 
 ### Legendary difficulty - bring your own data
@@ -155,8 +155,8 @@ Check out the use of font in these three vizzes.
 
 Focus on the choices these authors have made to draw your attention by:
 - the style of font(s)
-- the font hierarcies
-- how colour has been incorporated
+- the font hierarchies
+- how color has been incorporated
 
 Vizzes and Authors:
 - Gaming On by David Borczuk 
@@ -169,7 +169,7 @@ Vizzes and Authors:
 
 C.Liam Brown has built an AI to play Battleship, and it's very effective, but can we learn from previous matches where the safest squares are to give us a better chance of winning?
 
-Special thanks to C.Liam Brown for supplying the data, if you haven't yet try a game against the AI: [https://cliambrown.com/battleship/play.php](https://cliambrown.com/battleship/play.php)
+Special thanks to C.Liam Brown for supplying the data, try a game against the AI: [https://cliambrown.com/battleship/play.php](https://cliambrown.com/battleship/play.php)
 
 
 ### Task
