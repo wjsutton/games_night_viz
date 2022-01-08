@@ -20,7 +20,7 @@ Below are **three challenges** for you to choose from:
 - [**Preparing data**](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md#data-preparation-challenge-cliam-brown-sunk-my-battleship) to **SURVIVE** against CLiam Browns Battleship AI, with steps to follow along the way
 
 Submissions 
-- Deadline is midnight PST 31st January 2022, level 3 will be released shortly afterwards
+- Deadline is midnight PST 13th February 2022, level 3 will be released shortly afterwards
 - Post your submissions on Twitter with the hashtag [#GamesNightViz](https://twitter.com/search?q=%23GamesNightViz&src=typed_query&f=top), and tag the team [@WJSutton12](https://twitter.com/WJSutton12), [@Visual_Endgame](https://twitter.com/Visual_Endgame), [@ninjavizlouis](https://twitter.com/ninjavizlouis) so we don't miss your great work!
 - Submit your work the project tracker here: [https://docs.google.com/forms/d/e/1FAIpQLScqFaHnRcX2uBX7h5PkbigXim1kfQMsnC7ZloF8UvxzfRog4w/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLScqFaHnRcX2uBX7h5PkbigXim1kfQMsnC7ZloF8UvxzfRog4w/viewform?usp=sf_link)
 
@@ -194,7 +194,7 @@ Find the top 10 safest squares in Battleship, where safety is a square occupied 
 
 ## How to Submit
 
-- Deadline is midnight PST 31st January 2021, level 3 will be released shortly afterwards
+- Deadline is midnight PST 13th February 2021, level 3 will be released shortly afterwards
 - Post your submissions on Twitter with the hashtag [#GamesNightViz](https://twitter.com/search?q=%23GamesNightViz&src=typed_query&f=top), and tag the team [@WJSutton12](https://twitter.com/WJSutton12), [@Visual_Endgame](https://twitter.com/Visual_Endgame), [@ninjavizlouis](https://twitter.com/ninjavizlouis) so we don't miss your great work!
 - Submit your work the project tracker here: [https://docs.google.com/forms/d/e/1FAIpQLScqFaHnRcX2uBX7h5PkbigXim1kfQMsnC7ZloF8UvxzfRog4w/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLScqFaHnRcX2uBX7h5PkbigXim1kfQMsnC7ZloF8UvxzfRog4w/viewform?usp=sf_link)
 
