@@ -41,13 +41,14 @@ Season 1 of #GamesNightViz will consist of 6 sets of challenges released monthly
 |Challenge|Data Viz|Design|Data Prep|Deadline|
 |:----|:---------|:---------|:---------|:---------|
 |[Level 1: Player Select](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md) |[Choose Your Character](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md#data-visualisation-challenge)|[Experiment With Colour](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md#visual-design-challenge-colour)|[The Best Mario Kart](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md#data-preparation-challenge-the-best-mario-kart)|31st December 2021|
-|[Level 2: Hello World](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md) |[Game Worlds](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md#data-visualisation-challenge)|[The World of Fonts](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md#visual-design-challenge-font)|[Survive in Battleship](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md#visual-design-challenge-font)|31st January 2022|
-|Level 3: Coming Soon! | | | |28th Febuary 2022|
-|Level 4: Coming Soon! | | | |31st March 2022|
-|Level 5: Coming Soon! | | | |30th April 2022|
-|Level 6: Coming Soon! | | | |31st May 2022|
+|[Level 2: Hello World](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md) |[Game Worlds](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md#data-visualisation-challenge)|[The World of Fonts](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md#visual-design-challenge-font)|[Survive in Battleship](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md#visual-design-challenge-font)|13th Febuary 2022|
+|Level 3: Coming Soon! | | | |31st March 2022|
+|Level 4: Coming Soon! | | | |15st May 2022|
+|Level 5: Coming Soon! | | | |30th June 2022|
+|Level 6: Coming Soon! | | | |???|
 
 **Bonus Levels**
+- [Preppin Data Collab with GamesNightViz](https://preppindata.blogspot.com/2021/11/2021-week-47-games-night-viz-collab.html)
 - [Notable Holiday Games](https://github.com/wjsutton/games_night_viz/blob/main/9_bonus_holidays_2021.md)
 
 ### House Rules
