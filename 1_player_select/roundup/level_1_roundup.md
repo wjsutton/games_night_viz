@@ -18,7 +18,7 @@ We received 25 visualisations covering several games but some popular choices in
 - Street Fighter V, 
 - and HowChoo.com's top video game icons
 
-Check out these great submissions :point_down:
+Check out these great vizzes :point_down:
 
 <strong>Aaron Fox - <a href='https://github.com/aaronsfox/games-night-viz/tree/master/data_viz/level_1/pokemon_stats'>Pokemon Generation 1</a><br><p align='center'><a href='https://github.com/aaronsfox/games-night-viz/tree/master/data_viz/level_1/pokemon_stats'>
   <img src = 'images/pokemon_stats.png' width='80%'>
