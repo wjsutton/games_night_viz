@@ -3,7 +3,7 @@
 
 # Introducing #GamesNightViz
 
-#GamesNightViz is a monthly Tableau community project focusing on using data from your favourite games to improve your skills with data visualisation, data preparation and visual design, and maybe a winning strategy for your next game night (no guarantees! :wink:)
+#GamesNightViz is a 6-weekly Tableau community project focusing on using data from your favourite games to improve your skills with data visualisation, data preparation and visual design, and maybe a winning strategy for your next game night (no guarantees! :wink:)
 
 ### The Goal
 
@@ -38,9 +38,9 @@ At #GamesNightViz we love all types of games: card games, board games, video gam
 
 Season 1 of #GamesNightViz will consist of 6 sets of challenges released monthly.
 
-|Challenge|Data Viz|Design|Data Prep|Deadline|
-|:----|:---------|:---------|:---------|:---------|
-|[Level 1: Player Select](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md) |[Choose Your Character](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md#data-visualisation-challenge)|[Experiment With Colour](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md#visual-design-challenge-colour)|[The Best Mario Kart](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md#data-preparation-challenge-the-best-mario-kart)|31st December 2021|
+|Challenge|Data Viz|Design|Data Prep|Deadline|Roundup|
+|:----|:---------|:---------|:---------|:---------|:---------|
+|[Level 1: Player Select](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md) |[Choose Your Character](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md#data-visualisation-challenge)|[Experiment With Colour](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md#visual-design-challenge-colour)|[The Best Mario Kart](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md#data-preparation-challenge-the-best-mario-kart)|31st December 2021|[Level 1](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/roundup/level_1_roundup.md)|
 |[Level 2: Hello World](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md) |[Game Worlds](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md#data-visualisation-challenge)|[The World of Fonts](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md#visual-design-challenge-font)|[Survive in Battleship](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md#visual-design-challenge-font)|13th Febuary 2022|
 |Level 3: Coming Soon! | | | |31st March 2022|
 |Level 4: Coming Soon! | | | |15st May 2022|
@@ -54,7 +54,7 @@ Season 1 of #GamesNightViz will consist of 6 sets of challenges released monthly
 ### House Rules
 
 - Make sure it 'sparks joy' 
-- Support your fellow #GamesNightViz participents
+- Support your fellow [#GamesNightViz](https://twitter.com/search?q=%23GamesNightViz&src=typed_query&f=top) participents
 - Make time for yourselves away from the project
 
 There's no expectation to complete all the tasks or participate every month. This project is designed to inspire you to develop new skills and build a portfolio showcasing what you've learnt, not be a chore or something that doesn't spark joy.    
