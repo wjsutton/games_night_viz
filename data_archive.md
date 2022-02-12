@@ -37,7 +37,7 @@ Here is a collection of all the #GamesNightViz data sets collected for previous 
 
 | Name | Difficulty | Source | Data |
 |---|---|---|---|
-| Final Fantasy Tactics Data Pack | Heroic | [Kaggle](https://www.kaggle.com/andrewparnell/final-fantasy-tactics-battles) & [ffmages.com](http://www.ffmages.com/final-fantasy-tactics/weapons/)| [link](3_powering_up/Final Fantasy Tactics.xlsx) |
+| Final Fantasy Tactics Data Pack | Heroic | [Kaggle](https://www.kaggle.com/andrewparnell/final-fantasy-tactics-battles) & [ffmages.com](http://www.ffmages.com/final-fantasy-tactics/weapons/)| [link](3_powering_up/Final%20Fantasy%20Tactics.xlsx) |
 
 
 ### Gameshows
@@ -51,7 +51,7 @@ Here is a collection of all the #GamesNightViz data sets collected for previous 
 
 | Name | Difficulty | Source | Data |
 |---|---|---|---|
-| Genshin Impact - weapons and artifacts | Normal | [genshin.gg/weapons](https://genshin.gg/weapons) | [link](3_powering_up/Genshin Impact - weapons and artifacts.xlsx) |
+| Genshin Impact - weapons and artifacts | Normal | [genshin.gg/weapons](https://genshin.gg/weapons) | [link](3_powering_up/Genshin%20Impact%20-%20weapons%20and%20artifacts.xlsx) |
 
 
 ### Mario Games
@@ -59,7 +59,7 @@ Here is a collection of all the #GamesNightViz data sets collected for previous 
 | Name | Difficulty | Source | Data |
 |---|---|---|---|
 | Mario Golf Super Rush Character Stats | Casual | [NintendoLife](https://www.nintendolife.com/guides/mario-golf-super-rush-full-character-roster-and-special-shot-list) | [link](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/mario_golf_super_rush_character_stats.csv) |
-| Mario's Power Ups | Casual | [mariowiki.com](mariowiki.com/List_of_power-ups) | [link](3_powering_up/All Mario Power Ups.xlsx) |
+| Mario's Power Ups | Casual | [mariowiki.com](mariowiki.com/List_of_power-ups) | [link](3_powering_up/All%20Mario%20Power%20Ups.xlsx) |
 | The 8 Worlds of Super Mario Bros | Normal | [MarioWiki.com](https://www.mariowiki.com/Super_Mario_Bros) | [link](2_hello_world/super_mario_bros_levels.xlsx) |
 | Mario Kart 8, The best kart for each driver  | Heroic  | [MarioWiki.com](https://www.mariowiki.com/Mario_Kart_8_Deluxe_in-game_statistics) | [link](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/mario_kart_8_best_kart_per_driver.csv) |
 
