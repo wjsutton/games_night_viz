@@ -15,7 +15,7 @@ Finding our way around a new place can be challenging so any data we have would 
 ## The Challenges
 
 Below are **three challenges** for you to choose from:
-- [**Visualising data**](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md#data-visualisation-challenge) about our various game **WORLDS**, with datasets ranging from the landscapes of Minecraft to the depth of ocean warfare in battleship
+- [**Visualising data**](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md#data-visualisation-challenge) about our various game **WORLDS**, with datasets ranging from the landscapes of Minecraft to the depths of ocean warfare in battleship
 - [**Boldly**](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md#visual-design-challenge-font) stepping into the world of **FONTS**, with tools to help you pick the perfect font combo and deploy it in your viz
 - [**Preparing data**](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md#data-preparation-challenge-cliam-brown-sunk-my-battleship) to **SURVIVE** against CLiam Browns Battleship AI, with steps to follow along the way
 
