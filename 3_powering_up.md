@@ -4,9 +4,9 @@
 
 Welcome back!
 
-Earlier in [Level 2](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md) we entered into the world of the game, now we've had some experience of what the game is amount it's time to get powered up to increase our chances of winning. 
+Earlier in [Level 2](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md) we entered into the world of the game, now we've had some experience of what the game is the amount it's time to get powered up to increase our chances of winning.
 
-Powering up our characters can take many differents forms, such as:
+Powering up our characters can take many different forms, such as:
 - An item that improves our abilities
 - Increasing our character's level 
 - Unlocking new skills
@@ -34,14 +34,14 @@ Pick one of the data sets below, or a data set you've found, and visualise it.
 
 | Name | Difficulty | Source | Data |
 |---|---|---|---|
-| Mario's Power Ups | Casual | [mariowiki.com](mariowiki.com/List_of_power-ups) | [link](3_powering_up/All Mario Power Ups.xlsx) |
+| Mario's Power Ups | Casual | [mariowiki.com](mariowiki.com/List_of_power-ups) | [link](3_powering_up/All%20Mario%20Power%20Ups.xlsx) |
 | Monopoly's Most Profitable Streets | Casual | [github/NicoAdams](https://github.com/NicoAdams/MonopolyProbs/blob/master/Monopoly_probs.ipynb) & [falstad.com](https://www.falstad.com/monopoly.html) | [link](3_powering_up/monopolys_most_profitable_streets.csv) |
 | Jeopardy! Daily Double | Casual | [u/statisticallysound on Reddit](https://www.reddit.com/r/dataisbeautiful/comments/k08idu/jeopardy_daily_double_heatmap_oc/gdgite0/) & [J! Archive](https://j-archive.com/) | [link](3_powering_up/jeopardy_daily_double_locations_seasons_1-37.csv)
-| Genshin Impact - weapons and artifacts | Normal | [genshin.gg/weapons](https://genshin.gg/weapons) | [link](3_powering_up/Genshin Impact - weapons and artifacts.xlsx) |
+| Genshin Impact - weapons and artifacts | Normal | [genshin.gg/weapons](https://genshin.gg/weapons) | [link](3_powering_up/Genshin%20Impact%20-%20weapons%20and%20artifacts.xlsx) |
 | ModtheSims.com's picked downloads for the Sims 4 | Normal | [modthesims.info/downloads/ts4](https://modthesims.info/downloads/ts4/38/page/1/?showType=1&t=picked&csort=0) | [link](3_powering_up/sims4_picked_mods.csv) |
 | Pokemon Evolutions Trees | Normal | [Kaggle](https://www.kaggle.com/kylekohnen/complete-pokemon-data-set), [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page) & [Pokemon Fandom](https://pokemon.fandom.com/wiki/List_of_Pok%C3%A9mon_by_evolution) | [link](3_powering_up/pokemon_evolution_stats.csv) |
 | Dish Recipes from Breath of the Wild | Heroic | [orcz.com/Breath_of_the_Wild:_Recipes](http://orcz.com/Breath_of_the_Wild:_Recipes) | [link](3_powering_up/botw_recipes.xlsx) |
-| Final Fantasy Tactics Data Pack | Heroic | [Kaggle](https://www.kaggle.com/andrewparnell/final-fantasy-tactics-battles) & [ffmages.com](http://www.ffmages.com/final-fantasy-tactics/weapons/)| [link](3_powering_up/Final Fantasy Tactics.xlsx) |
+| Final Fantasy Tactics Data Pack | Heroic | [Kaggle](https://www.kaggle.com/andrewparnell/final-fantasy-tactics-battles) & [ffmages.com](http://www.ffmages.com/final-fantasy-tactics/weapons/)| [link](3_powering_up/Final%20Fantasy%20Tactics.xlsx) |
 | Skyrim Mods | Heroic | [github.com/ou-ds-data](https://github.com/ou-ds-data/skyrim-mods) & [nexusmods.com](https://www.nexusmods.com/skyrim/mods/)| [link](3_powering_up/skyrim_mods_and_tags.xlsx) |
 
 Or choose one of the data sets from the [#GamesNightViz Data Archive :floppy_disk:](data_archive.md), I'd recommend:
@@ -51,7 +51,7 @@ Or choose one of the data sets from the [#GamesNightViz Data Archive :floppy_dis
 | The 8 Worlds of Super Mario Bros | Normal | [MarioWiki.com](https://www.mariowiki.com/Super_Mario_Bros) | [link](2_hello_world/super_mario_bros_levels.xlsx) |
 
 **Stuck for Ideas? Here are some questions you could try to answer:**
-- [Mario's Power Ups:](3_powering_up/All Mario Power Ups.xlsx) Which type of power up (mushroom, stars, flowers, etc.) have the most variation? i.e. how may different types of start have been over Mario's history?
+- [Mario's Power Ups:](3_powering_up/All%20Mario%20Power%20Ups.xlsx) Which type of power up (mushroom, stars, flowers, etc.) have the most variation? i.e. how many different types of start have been over Mario's history?
 - [Pokemon:](3_powering_up/pokemon_evolution_stats.csv) Which pokemon's combat stats increase the most from evolving?
 - [Breath of the Wild:](3_powering_up/botw_recipes.xlsx) Are there any key ingredients that feature the majority of recipes? Or ingredients that feature in the best recipes?
 
@@ -60,7 +60,7 @@ Or choose one of the data sets from the [#GamesNightViz Data Archive :floppy_dis
 
 For those considering the Legendary difficulty (bring your own data), here are a few ideas to get you started:
 - Do you have a favourite item/power up from a game you enjoy? 
-- Is the a particular character build/playstyle you think makes for a fun or competitive play through?, e.g. [GamersDecide's Top 10 The Witcher 3 Best Builds](https://www.gamersdecide.com/articles/witcher-3-best-builds)
+- Is there a particular character build/playstyle you think makes for a fun or competitive play through?, e.g. [GamersDecide's Top 10 The Witcher 3 Best Builds](https://www.gamersdecide.com/articles/witcher-3-best-builds)
 - Or perhaps you may want to improvements made to games, either through mods or other means, e.g.  [GameRant's "No Man's Sky: 10 Ways The Game Has Changed Since It First Released"](https://gamerant.com/no-mans-sky-best-changes-first-released/) and [FandomSpot's Best Minecraft Mods](https://www.fandomspot.com/best-minecraft-mods-list/)  
 
 Looking for data sets? [Check out Sarah Bartlett's Twitter thread for data sources](https://twitter.com/sarahlovesdata/status/1445006106116374539?ref_src=twsrc%5Etfw) or check out the [#GamesNightViz Data Archive :floppy_disk:](data_archive.md)
@@ -78,12 +78,39 @@ Here are some vizzes to check out for inspiration.
 
 Your content may be different but focus on the choices the authors have made in presenting the data, what would you do differently? And what aspects would you like to emulate?
 
+<a href='https://public.tableau.com/app/profile/michael1709/viz/WIP_11/Dashboard1'>
+  <img src = "https://public.tableau.com/thumb/views/WIP_11/Dashboard1" width="30%">
+</a>
+<a href='https://public.tableau.com/app/profile/joe.radburn/viz/MinecraftPotionsCalculator/MinecraftPotionCalculator'>
+  <img src = "https://public.tableau.com/thumb/views/MinecraftPotionsCalculator/MinecraftPotionCalculator" width="30%">
+</a>
+<a href='https://public.tableau.com/app/profile/gonzie/viz/Witcher3/Armor-D1'>
+  <img src = "https://public.tableau.com/thumb/views/Witcher3/Armor-D1" width="30%">
+</a>
+<a href='https://public.tableau.com/app/profile/kevin.flerlage/viz/TableauZenMasterJeopardy/LandingPage'>
+  <img src = "https://public.tableau.com/thumb/views/TableauZenMasterJeopardy/LandingPage" width="30%">
+</a>
+<a href='https://public.tableau.com/app/profile/hiroki.uetake/viz/PokemonEvolutionGroup/EvolutionGroup'>
+  <img src = "https://public.tableau.com/thumb/views/PokemonEvolutionGroup/EvolutionGroup" width="30%">
+</a>
+<a href='https://public.tableau.com/app/profile/theo6552/viz/SkyrimMods/ModsDashboard'>
+  <img src = "https://public.tableau.com/thumb/views/SkyrimMods/ModsDashboard" width="30%">
+</a>
+
+Vizzes and Authors:
+- Final Fantasy Tactics Stat Gains Comparison, by Michael
+- Minecraft Potions Calculator, by Joe Radburn
+- Witcher3, by gwentcards.com
+- Tableau Zen Master Jeopardy, by Kevin Flerlage
+- Pokemon Evolution Group, by Hiroki Uetake
+- Skyrim Mods, by Theo
+
 
 ---
 
 ## Visual design challenge: Shapes and Icons
 
-In this **ICONIC** challenge we'll be exploring how to power up our data visualisations with shapes and icons.
+In this **ICONIC** challenge, we'll be exploring how to power up our data visualisations with shapes and icons.
 
 **Why should we use shapes and icons?**
 Shapes and icons help us convey information quickly and effectively to our readers when space on a page is limited. For many websites a button to navigate to the homepage is a simple house icon rather than text saying "click here to return to the homepage", saving space on the website and reducing the information the user has to read.
@@ -109,14 +136,14 @@ For those more comfortable with using shapes and icons, there are some more adva
 - [Combining Shapes and Map Layers, by CJ Mayes](https://cj-mayes.com/2021/06/26/game-shape-match/)
 
 **Where can I find shapes and icons?**
-There are many website providing icons to use for non-profit projects
+There are many websites providing icons to use for non-profit projects
 - Some of my favourite sites are [flaticon](https://www.flaticon.com/) and [the noun project](https://thenounproject.com/)
 - Some companies make their icon sets available, perfect if you're theming a viz on that company or its products, e.g. [BBC GEL](https://www.bbc.co.uk/gel/guidelines/iconography) 
-- Tools like [Figma](https://www.figma.com/) and [Canva](https://www.canva.com/) allow you to create your own shapes and icons, as well as having plugins to access icon libraries, e.g. [Figma's Iconify Plugin](https://www.figma.com/community/plugin/735098390272716381) 
+- Tools like [Figma](https://www.figma.com/) and [Canva](https://www.canva.com/) allow you to create your own shapes and icons, as well as plugins to access icon libraries, e.g. [Figma's Iconify Plugin](https://www.figma.com/community/plugin/735098390272716381) 
 
 ### Task 
 
-Add custom shapes or icons to you next data viz project, either as:
+Add custom shapes or icons to your next data viz project, either as:
 - As marks
 - As buttons
 - As filters
@@ -127,14 +154,12 @@ When finding your shapes and icons please make sure you reference your sources, 
 
 Check out the use of shapes in these three vizzes. 
 
-</a>
-<a href='hhttps://public.tableau.com/app/profile/gemma.francisco/viz/WelcometoParadiseerCalamansigamesnightviz/CalamansiIsle'>
+
+<a href='https://public.tableau.com/app/profile/gemma.francisco/viz/WelcometoParadiseerCalamansigamesnightviz/CalamansiIsle'>
   <img src = "https://public.tableau.com/thumb/views/WelcometoParadiseerCalamansigamesnightviz/CalamansiIsle" width="30%">
-</a>
 </a>
 <a href='https://public.tableau.com/app/profile/zakgeis/viz/CustomerComplaintsDashboard_16311129370620/Overview'>
   <img src = "https://public.tableau.com/thumb/views/CustomerComplaintsDashboard_16311129370620/Overview" width="30%">
-</a>
 </a>
 <a href='https://public.tableau.com/app/profile/rj.andrews/viz/ENDANGEREDSAFARI/ENDANGEREDSAFARI'>
   <img src = "https://public.tableau.com/thumb/views/ENDANGEREDSAFARI/ENDANGEREDSAFARI" width="30%">
@@ -150,9 +175,9 @@ Vizzes and Authors:
 
 ## Data preparation challenge: Monopoly's most profitable streets
 
-For this Data prep challenge the #GamesNightViz team wants to be savvy investors when they're playing a game of Monopoly. 
+For this Data prep challenge, the #GamesNightViz team wants to be savvy investors when they're playing a game of Monopoly. 
 
-We are interested in finding the best streets not just by they're rent but how frequently they're visited. 
+We are interested in finding the best streets not just by their rent but also by how frequently they're visited. 
 
 Using land probability data from [NicoAdams/MonopolyProbs](https://github.com/NicoAdams/MonopolyProbs/blob/master/Monopoly_probs.ipynb) combined with property rent and cost data from [falstad.com](https://www.falstad.com/monopoly.html) we'll find the best streets in the game.
 
@@ -163,7 +188,7 @@ To keep things simple we'll only look at a street level and upgrade every proper
 1. [Input the data](data_prep/input_level_3_monopoly.xlsx)
 2. Join the rent and costs data sets
 3. Double the rent where upgrade = 'None'
-4. Join to the landing data to find the set and perc chance to land on each square
+4. Join rent and costs to the landing data to find the set and perc chance to land on each square
 5. At a set (street) & upgrade level find:
 - the total chance to land on the street, 
 - the total cost of the street
