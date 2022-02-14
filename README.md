@@ -42,7 +42,7 @@ Season 1 of #GamesNightViz will consist of 6 sets of challenges released monthly
 |:----|:---------|:---------|:---------|:---------|:---------|
 |[Level 1: Player Select](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md) |[Choose Your Character](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md#data-visualisation-challenge)|[Experiment With Colour](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md#visual-design-challenge-colour)|[The Best Mario Kart](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md#data-preparation-challenge-the-best-mario-kart)|31st December 2021|[Level 1](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/roundup/level_1_roundup.md)|
 |[Level 2: Hello World](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md) |[Game Worlds](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md#data-visualisation-challenge)|[The World of Fonts](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md#visual-design-challenge-font)|[Survive in Battleship](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md#visual-design-challenge-font)|13th Febuary 2022|
-|Level 3: Coming Soon! | | | |31st March 2022|
+|[Level 3: Powering Up](https://github.com/wjsutton/games_night_viz/blob/main/3_powering_up.md) | [Power Ups] | [Shapes & Icons] | [Monopoly's Most Profitable Streets] |31st March 2022|
 |Level 4: Coming Soon! | | | |15st May 2022|
 |Level 5: Coming Soon! | | | |30th June 2022|
 |Level 6: Coming Soon! | | | |???|
