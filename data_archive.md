@@ -109,6 +109,11 @@ Here is a collection of all the #GamesNightViz data sets collected for previous 
 |---|---|---|---|
 | Street Fighter Character Usage and Stats | Normal | [Capcom.com](https://game.capcom.com/cfn/sfv/stats/usagerate) & [streetfighter.fandom.com](https://streetfighter.fandom.com/wiki/Street_Fighter_V_Character_Gameplay_Stats) | [link](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/street_fighter_v_character_usage_and_stats_corrected_20211212.xlsx)* |
 
+### The Witcher
+
+| Name | Difficulty | Source | Data |
+|---|---|---|---|
+| Witcher 3 Gwent Cards (Uncensored) | Normal | [witcher.fandom.com](https://witcher.fandom.com/wiki/Gwent) | [link](3_powering_up/Witcher%203%20Gwent%20Data.csv) |
 
 ### Zelda
 
