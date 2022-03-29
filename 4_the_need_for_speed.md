@@ -119,6 +119,7 @@ Here are a few blog tutorials from the community
 - [Game Shape Match by CJ Mayes](https://cj-mayes.com/2021/06/26/game-shape-match/)
 - [Create a Sunburst Chart by Sebastian Deptalla](https://interworks.com/blog/2021/03/24/create-a-sunburst-chart-with-map-layers-in-tableau/)
 - [Creating Layered Area Charts in Tableau by Toan Hoang](https://tableau.toanhoang.com/creating-layered-area-charts-in-tableau/)
+- [Workout Wednesday 2022 Week 13 - Can you use multiple Mark Layers?](https://www.workout-wednesday.com/2022/03/29/2022tabw13/)
 - [Webinar - Using Layers in Tableau 2020.4 with Adam McCann, from The Information Lab](https://www.youtube.com/watch?v=AQGYbUevGmk)
 
 To work with map layers, without using a map, you are likely going to need to use a tool that will allow you to add new shapes or images as shapes that you’ve created, or collected. This includes, but is not limited to tools such as Figma, PowerPoint, Adobe, etc. 
