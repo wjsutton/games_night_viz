@@ -14,9 +14,9 @@ Getting from A to B in the fastest way possible is very challenging so any data 
 ## The Challenges
 
 Below are three challenges for you to choose from:
-- Visualising data about our FAST games, with datasets ranging from the best horses of Red Dead Redemption 2, to the fastest solve times of Rubik cubes
-- Getting up to speed with Tableau’s Map layer functionality and how we use layers to add more detail and data to our visualisations
-- Finding the fastest horse in the west by extracting data from a website to a csv file,  we walk you through finding and extracting data on Red Dead Redemption 2’s horses.
+- [**Visualising data about our FAST games**](https://github.com/wjsutton/games_night_viz/blob/main/4_the_need_for_speed.md#data-visualisation-challenge), with datasets ranging from the best horses of Red Dead Redemption 2, to the fastest solve times of Rubik cubes
+- [**Getting up to speed**](https://github.com/wjsutton/games_night_viz/blob/main/4_the_need_for_speed.md#visual-design-challenge-map-layers) with Tableau’s Map layer functionality and how we use layers to add more detail and data to our visualisations
+- [**Finding the fastest horse in the west**](https://github.com/wjsutton/games_night_viz/blob/main/4_the_need_for_speed.md#data-preparation-challenge-finding-the-fastest-horse-in-the-west) by extracting data from a website to a csv file,  we walk you through finding and extracting data on Red Dead Redemption 2’s horses.
 
 Submissions 
 - Deadline is midnight PST 31st May 2022, level 5 will be released shortly afterwards
