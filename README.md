@@ -51,6 +51,7 @@ Season 1 of #GamesNightViz will consist of 6 sets of challenges released monthly
 - [Week 47 2021 - Preppin Data Collab with GamesNightViz - Top Poker Players](https://preppindata.blogspot.com/2021/11/2021-week-47-games-night-viz-collab.html)
 - [Holidays 2021 - Notable Holiday Games](https://github.com/wjsutton/games_night_viz/blob/main/9_bonus_holidays_2021.md)
 - [Week 8 2022 - Preppin Data Collab with GamesNightViz - Pokémon Evolution Stats](https://preppindata.blogspot.com/2022/02/2022-week-8-pokemon-evolution-stats.html)
+- [Back 2 Viz Basics | Week 6 2022 - Dealing with Outliers #B2VB](https://data.world/back2vizbasics/2022week-6-dealing-with-outliers)
 
 ### Looking for data?
 
