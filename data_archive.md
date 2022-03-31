@@ -23,6 +23,7 @@ Here is a collection of all the #GamesNightViz data sets collected for previous 
 | <h3>Compliations</h3> |
 | **Name** | **Difficulty** | **Source** | **Data** |
 | HowChoo's Top 50 Most Iconic Video Game Characters | Casual | [HowChoo.com](https://howchoo.com/gaming/iconic-video-game-characters) & [VGChartz.com](https://www.vgchartz.com/) | [link](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/howchoos_top_50_most_iconic_video_game_character.csv)  |
+| Money Raised by Games Done Quick Speedrunning Events | Casual | [gamesdonequick.com](https://gamesdonequick.com/tracker) | [link](https://github.com/wjsutton/games_night_viz/blob/main/4_the_need_for_speed/games_done_quick.csv) |
 | Notable Holiday Themed Or Featured Games | Casual | [Metacritic](https://www.metacritic.com/), [VGChartz](https://www.vgchartz.com/), [VGInsights](https://vginsights.com/) [Wikipedia](https://en.wikipedia.org/wiki/Category:Christmas_video_games) | [link](https://github.com/wjsutton/games_night_viz/blob/main/9_bonus_challenges/notable_themed_or_featured_holiday_video_games.csv)
 | | | | |
 | <h3>Final Fantasy</h3> |
@@ -37,16 +38,30 @@ Here is a collection of all the #GamesNightViz data sets collected for previous 
 | **Name** | **Difficulty** | **Source** | **Data** |
 | Genshin Impact - weapons and artifacts | Normal | [genshin.gg/weapons](https://genshin.gg/weapons) | [link](3_powering_up/Genshin%20Impact%20-%20weapons%20and%20artifacts.xlsx) |
 | | | | |
+| <h3>Grand Theft Auto Games</h3> |
+| **Name** | **Difficulty** | **Source** | **Data** |
+| GTA 5 Vehicles | Heroic | [gtabase.com](https://www.gtabase.com/grand-theft-auto-v/vehicles/#sort=attr.ct3.frontend_value&sortdir=desc) | [link](https://github.com/wjsutton/games_night_viz/blob/main/4_the_need_for_speed/gta_5_vehicles.csv) |
+| | | | |
+| <h3>James Bond Games</h3> |
+| **Name** | **Difficulty** | **Source** | **Data** |
+| Speedruns of Goldeneye (N64) Individual Levels | Normal | [speedrun.com](https://www.speedrun.com/ge60fps) | [link](https://github.com/wjsutton/games_night_viz/blob/main/4_the_need_for_speed/goldeneye_speedruns_levels.csv) |
+| | | | |
 | <h3>Mario Games</h3> |
 | **Name** | **Difficulty** | **Source** | **Data** |
 | Mario Golf Super Rush Character Stats | Casual | [NintendoLife](https://www.nintendolife.com/guides/mario-golf-super-rush-full-character-roster-and-special-shot-list) | [link](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/mario_golf_super_rush_character_stats.csv) |
 | Mario's Power Ups | Casual | [mariowiki.com](mariowiki.com/List_of_power-ups) | [link](3_powering_up/All%20Mario%20Power%20Ups.xlsx) |
+| How Long to Complete Mario Games | Casual | [howlongtobeat.com](https://howlongtobeat.com) & [nintendo.com](https://mario.nintendo.com/history/) | [link](https://github.com/wjsutton/games_night_viz/blob/main/4_the_need_for_speed/how_long_to_complete_mario_games.csv) |
 | The 8 Worlds of Super Mario Bros | Normal | [MarioWiki.com](https://www.mariowiki.com/Super_Mario_Bros) | [link](2_hello_world/super_mario_bros_levels.xlsx) |
 | Mario Kart 8, The best kart for each driver  | Heroic  | [MarioWiki.com](https://www.mariowiki.com/Mario_Kart_8_Deluxe_in-game_statistics) | [link](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/mario_kart_8_best_kart_per_driver.csv) |
+| Mario Kart 8 Leaderboard Times | Heroic | [mkleaderboards.com](www.mkleaderboards.com) | [link](https://github.com/wjsutton/games_night_viz/blob/main/4_the_need_for_speed/mario_kart_8_course_leaderboard_times.csv) |
 | | | | |
 | <h3>Minecraft</h3> |
 | **Name** | **Difficulty** | **Source** | **Data** |
 | Minecraft Block Landscape | Casual | [Github/0xTiger](https://github.com/0xTiger/blockheights) | [link](2_hello_world/minecraft_blocks_simplified_version.csv) [full dataset](2_hello_world/minecraft_blocks_full_version.csv) |
+| | | | |
+| <h3>Need for Speed</h3> |
+| **Name** | **Difficulty** | **Source** | **Data** |
+| Cars from Need for Speed 2015 | Casual | [Need For Speed fandom](https://nfs.fandom.com/wiki/Need_for_Speed_(2015)/Cars) | [link](https://github.com/wjsutton/games_night_viz/blob/main/4_the_need_for_speed/need_for_speed_2015_cars.csv) |
 | | | | |
 | <h3>Player Unknown's Battlegrounds</h3> |
 | **Name** | **Difficulty** | **Source** | **Data** |
@@ -58,6 +73,15 @@ Here is a collection of all the #GamesNightViz data sets collected for previous 
 | Pokemon of the Year, 2020 | Normal | [Pokemon2020.com](https://pokemon2020.pokemon.com/en-us/) & [Kaggle](https://www.kaggle.com/maca11/all-pokemon-dataset) | [link](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/pokemon_of_the_year_2020.xlsx) |
 | Pokemon UNITE Character Stats | Normal | [Unite-DB.com](https://unite-db.com/stats) | [link](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/Pokemon%20Unite%20Character%20Stats.xlsx) |
 | Pokemon Evolutions Trees | Normal | [Kaggle](https://www.kaggle.com/kylekohnen/complete-pokemon-data-set), [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page) & [Pokemon Fandom](https://pokemon.fandom.com/wiki/List_of_Pok%C3%A9mon_by_evolution) | [link](3_powering_up/pokemon_evolution_stats.csv) |
+| Twitch Plays Pokemon Completion Times | Normal | [wikipedia.org](https://en.wikipedia.org/wiki/Twitch_Plays_Pok%C3%A9mon) | [link](https://github.com/wjsutton/games_night_viz/blob/main/4_the_need_for_speed/twitch_plays_pokemon_game_completion.csv) |
+| | | | |
+| <h3>Red Dead Redemption 2</h3> |
+| **Name** | **Difficulty** | **Source** | **Data** |
+| The Horses of Red Dead Redemption 2 | Normal | [gtabase.com](https://www.gtabase.com/red-dead-redemption-2/horses/#sort=attr.ct10.frontend_value&sortdir=desc) | [link](https://github.com/wjsutton/games_night_viz/blob/main/4_the_need_for_speed/rdr2_horses.csv) |
+| | | | |
+| <h3>Rubik Cube Solves</h3> |
+| **Name** | **Difficulty** | **Source** | **Data** |
+| Evolution of Rubik's Cube solve times | Heroic | [kaggle.com](https://www.kaggle.com/datasets/patrasaurabh/evolution-of-rubiks-cube-solve-times) | [link](https://github.com/wjsutton/games_night_viz/blob/main/4_the_need_for_speed/evolution_of_rubik_cube_solve_times.xlsx) |
 | | | | |
 | <h3>The Sims</h3> |
 | **Name** | **Difficulty** | **Source** | **Data** |
