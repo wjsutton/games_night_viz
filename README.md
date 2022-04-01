@@ -36,7 +36,7 @@ At #GamesNightViz we love all types of games: card games, board games, video gam
 
 ### The Challenges 
 
-Season 1 of #GamesNightViz will consist of 6 sets of challenges released monthly.
+Season 1 of #GamesNightViz will consist of 6 sets of challenges released on a 6-week to monthly basis.
 
 |Challenge|Data Viz|Design|Data Prep|Deadline|Roundup|
 |:----|:---------|:---------|:---------|:---------|:---------|
