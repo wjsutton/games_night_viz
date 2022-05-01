@@ -10,7 +10,7 @@ We also had a data prep collab with our friends [Preppin' Data | Week 8 Pokémon
 ## Data Visualisation Submissions
 
 We received 26 visualisations featuring
-- lots of Mario thanks to the [B2VB Collab]((https://data.world/back2vizbasics/2022week-6-dealing-with-outliers)
+- lots of Mario thanks to the [B2VB Collab](https://data.world/back2vizbasics/2022week-6-dealing-with-outliers)
 - the Witcher from [#DataFamCon's first challenge, Toss a Coin to your Witcher](https://medium.com/@datafamcon/january-2022-toss-a-coin-to-your-witcher-3c38f8d8550d)
 - and music from games thanks to [#DataPlusMusic's Let's analyze MIDI files challenge](https://www.hipstervizninja.com/blog/midi-analysis/)
 
