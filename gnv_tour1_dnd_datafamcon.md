@@ -4,7 +4,7 @@
 
 Welcome back!
 
-Back in [Level 4, we got found our need for speed](https://github.com/wjsutton/games_night_viz/blob/main/4_the_need_for_speed.md). For our next challenge, we'll be tackling the game of Dungeons and Dragons with #DataFamCon, a community project around pop culture/fandoms because games are better with friends!
+Back in [Level 4, we got found our need for speed](https://github.com/wjsutton/games_night_viz/blob/main/4_the_need_for_speed.md). For our next challenge, we'll be tackling the game of Dungeons and Dragons with [#DataFamCon](https://twitter.com/search?q=%23DataFamCon&src=typed_query&f=top), a community project around pop culture/fandoms, and [#PreppinData](https://twitter.com/search?q=%23PreppinData&src=typed_query&f=top), a weekly challenge to help you learn to prepare data with Tableau Prep, because games are better with friends!
 
 For this challenge, we'll be visualising data related to Dungeons and Dragons, 
 - Monsters
