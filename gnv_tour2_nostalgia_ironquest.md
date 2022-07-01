@@ -10,7 +10,7 @@ For our next challenge, we'll be reliving some Nostalgic Games with [Sarah Bartl
 
 We’re challenging you to take a trip down memory lane to visualise data relating to the games you used to play in your childhood. Whether that be video games, board games, card games or even school playground games, we can’t wait to see what you come up with for this challenge!
 
-## Data visualisation challenge
+## Data Visualisation Challenge
 
 Head over to [Iron Quest – Nostalgic Games](https://sarahlovesdata.co.uk/2022/07/01/iron-quest-nostalgic-games/) to find out more! 
 
