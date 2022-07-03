@@ -26,6 +26,14 @@ Here is a collection of all the #GamesNightViz data sets collected for previous 
 | Money Raised by Games Done Quick Speedrunning Events | Casual | [gamesdonequick.com](https://gamesdonequick.com/tracker) | [link](https://github.com/wjsutton/games_night_viz/blob/main/4_the_need_for_speed/games_done_quick.csv) |
 | Notable Holiday Themed Or Featured Games | Casual | [Metacritic](https://www.metacritic.com/), [VGChartz](https://www.vgchartz.com/), [VGInsights](https://vginsights.com/) [Wikipedia](https://en.wikipedia.org/wiki/Category:Christmas_video_games) | [link](https://github.com/wjsutton/games_night_viz/blob/main/9_bonus_challenges/notable_themed_or_featured_holiday_video_games.csv)
 | | | | |
+| <h3>Dungeons & Dragons</h3> |
+| **Name** | **Difficulty** | **Source** | **Data** |
+| D&D 2020 Popular Classes and Subclasses | Casual | [D&D Beyond 2020 via Reddit](https://www.reddit.com/r/dndnext/comments/hse2ui/dd_beyond_released_data_on_what_the_most_common/) | [link](https://github.com/wjsutton/games_night_viz/blob/main/9_bonus_challenges/202206_datafamcon_dnd/Dnd%202020%20classes%20and%20subclasses.csv)  |
+| D&D Spells | Normal | [Kaggle](https://www.kaggle.com/code/josephstreifel/dnd-spells/data) | [link](https://github.com/wjsutton/games_night_viz/blob/main/9_bonus_challenges/202206_datafamcon_dnd/dnd-spells.csv) |
+| D&D Monsters | Normal | [Kaggle](https://www.kaggle.com/datasets/mrpantherson/dnd-5e-monsters) | [link](https://github.com/wjsutton/games_night_viz/blob/main/9_bonus_challenges/202206_datafamcon_dnd/dnd_monsters.csv) |
+| Critical Role Main Campaign All Rolls | Normal | [CritRoleStats via Google Data Studio](https://datastudio.google.com/reporting/8ebbbf4a-6e80-49ec-a303-6feae10887b0/page/xGaZC?s=q-JLEqSd-xU) | [link](https://github.com/wjsutton/games_night_viz/blob/main/9_bonus_challenges/202206_datafamcon_dnd/Critical%20Roll%20-%20Main%20Campaign%20All%20Rolls_Roll%20Table%20and%20Natural%20Roll%20Distribution_Table.csv) |
+| Critical Role Campaign 1 Pack: Episodes, Gameplay, Combat, Dialogue and Roles with YouTube links | Heroic | [Critical Role](https://criticalrole.fandom.com/), [CritRoleStats](https://www.critrolestats.com/stats), [Kryogenix](https://kryogenix.org/crsearch/html/index.html) | [link](https://github.com/wjsutton/games_night_viz/blob/main/9_bonus_challenges/202206_datafamcon_dnd/Critical_Role_Campaign_1_Datapack.xlsx)
+| | | | |
 | <h3>Final Fantasy</h3> |
 | **Name** | **Difficulty** | **Source** | **Data** |
 | Final Fantasy Tactics Data Pack | Heroic | [Kaggle](https://www.kaggle.com/andrewparnell/final-fantasy-tactics-battles) & [ffmages.com](http://www.ffmages.com/final-fantasy-tactics/weapons/)| [link](3_powering_up/Final%20Fantasy%20Tactics.xlsx) |
