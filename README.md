@@ -86,7 +86,7 @@ There are also #datafam initiatives around feedback you can look to:
 
 ### Our Contributors 
 
-<a href="https://twitter.com/WJSutton12"><img align="right" src = "https://pbs.twimg.com/profile_images/1228767622432464896/wi01-oYY_400x400.jpg" width="25%"></a>
+<a href="https://twitter.com/WJSutton12"><img align="right" src = "https://pbs.twimg.com/profile_images/1538979672314232832/VOPcgotu_400x400.jpg" width="25%"></a>
 **Will Sutton**<br><br>I'm Will, an avid fan of games of all kinds. I've been working with data for over 10 years and now work as a Senior Data Analyst, working with data and stakeholders to inform business decisions. 
 
 I owe a large amount of my career development down to passion projects; either part of the Tableau community, producing insights for my running club, or just questions I wanted to know the answers to. 
