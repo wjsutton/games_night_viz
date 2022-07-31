@@ -4,11 +4,11 @@
 
 Welcome back!
 
-On our last stop on the tour [we joined Sarah Bartlett's #IronQuest project to relive some Nostalgic Games](https://github.com/wjsutton/games_night_viz/blob/main/gnv_tour2_nostalgia_ironquest.md). 
+On our last stop on the tour, [we joined Sarah Bartlett's #IronQuest project to relive some Nostalgic Games](https://github.com/wjsutton/games_night_viz/blob/main/gnv_tour2_nostalgia_ironquest.md). 
 
 For our next challenge, we're tuning into Sean Miller's #DataPlusMusic to listen to The Sound of Games.
 
-We’re challenging you to visualise your favourite games inspired music and sounds, be it the soundtrack, famous voice actors or the most challenge tracks to beat.
+We’re challenging you to visualise your favourite games inspired music and sounds, be it the soundtrack, famous voice actors or the most challenging tracks in Heardle.
 
 ## Data Visualisation Challenge
 
@@ -16,7 +16,19 @@ Head over to [DataPlusMusic](https://www.hipstervizninja.com/the-dataplusmusic-p
 
 ### Looking for data?
 
-Be sure to check out the [#GamesNightViz Data Archive :floppy_disk:](data_archive.md) for all the datasets from our challenges.
+Pick one of the data sets below, or a data set you've found, and visualise it. 
+
+| Name | Difficulty | Source | Data | Notes |
+|---|---|---|---|---|
+| Heardle Global + US State Skips, and the Easiest & Hardest Songs to Guess | Casual | [word.tips](https://word.tips/heardle-heroes/) | [link](https://github.com/wjsutton/games_night_viz/blob/main/9_bonus_challenges/202208_dataplusmusic/Heardle_skips.xlsx) | |
+| All Songs from Just Dance + Spotify | Normal | [Spotify](https://open.spotify.com/user/justdanceofficial?si=24ba65b199b44a5e&nd=1) | [link](https://github.com/wjsutton/games_night_viz/blob/main/9_bonus_challenges/202208_dataplusmusic/just_dance_playlist_data.csv) |
+| GTA Vice City Radio Stations + Spotify | Normal | [Spotify](https://open.spotify.com/playlist/2kTpP9WLwc3HjI90coGIOe) & [GTA fandom](https://gta.fandom.com/wiki/Wildstyle) | [link](https://github.com/wjsutton/games_night_viz/blob/main/9_bonus_challenges/202208_dataplusmusic/vice_city_playlist_data.csv) |
+| Pokemon Game Boy Music Midi Files | Normal | [nayuki.io](https://www.nayuki.io/page/transcription-of-pokemon-game-boy-music) | [link](https://www.nayuki.io/page/transcription-of-pokemon-game-boy-music) | [Check out this Midi file guide](https://www.hipstervizninja.com/blog/midi-analysis/) |
+| Video Game Voice Actors | Hard | [IMDB](https://www.imdb.com/interfaces/) | [link](https://github.com/wjsutton/games_night_viz/blob/main/9_bonus_challenges/202208_dataplusmusic/video_game_voice_actors.csv) |
+
+Or choose one of the data sets from the [#GamesNightViz Data Archive :floppy_disk:](data_archive.md)
+
+Or choose your own dataset to visualise.
 
 ## How to Submit
 
