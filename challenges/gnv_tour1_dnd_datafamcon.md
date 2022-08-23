@@ -1,10 +1,10 @@
-<img src='https://github.com/wjsutton/games_night_viz/blob/main/icons/banner_icon.png?raw=true' width='100%'>
+<img src='https://github.com/wjsutton/games_night_viz/blob/main/challenges/icons/banner_icon.png?raw=true' width='100%'>
 
 # The #GamesNightViz Tour: Dungeons & Dragons with #DataFamCon
 
 Welcome back!
 
-Back in [Level 4, we got found our need for speed](https://github.com/wjsutton/games_night_viz/blob/main/4_the_need_for_speed.md). For our next challenge, we'll be tackling the game of Dungeons and Dragons with [#DataFamCon](https://twitter.com/search?q=%23DataFamCon&src=typed_query&f=top), a community project around pop culture/fandoms, and [#PreppinData](https://twitter.com/search?q=%23PreppinData&src=typed_query&f=top), a weekly challenge to help you learn to prepare data with Tableau Prep, because games are better with friends!
+Back in [Level 4, we got found our need for speed](https://github.com/wjsutton/games_night_viz/blob/main/challenges/4_the_need_for_speed.md). For our next challenge, we'll be tackling the game of Dungeons and Dragons with [#DataFamCon](https://twitter.com/search?q=%23DataFamCon&src=typed_query&f=top), a community project around pop culture/fandoms, and [#PreppinData](https://twitter.com/search?q=%23PreppinData&src=typed_query&f=top), a weekly challenge to help you learn to prepare data with Tableau Prep, because games are better with friends!
 
 For this challenge, we'll be visualising data related to Dungeons and Dragons, 
 - Monsters
@@ -26,7 +26,7 @@ What about that design aspect? Off the back of the Tableau conference, here are 
 - https://www.tableau.com/events/tc/2022/viral-vizzing
 - https://www.tableau.com/events/tc/2022/montgomery-county-dashboarding-storytelling-building-narratives-through-data-and
 
-If Dungeons and Dragons isn't your scene we'll still help promote your games inspired viz with the community. Choose one of the data sets from the [#GamesNightViz Data Archive 💾](https://github.com/wjsutton/games_night_viz/blob/main/data_archive.md) or collect your own data and share it with the [#GamesNightViz](https://twitter.com/search?q=%23GamesNightViz&src=typed_query&f=top) community.
+If Dungeons and Dragons isn't your scene we'll still help promote your games inspired viz with the community. Choose one of the data sets from the [#GamesNightViz Data Archive 💾](https://github.com/wjsutton/games_night_viz/blob/main/challenges/data_archive.md) or collect your own data and share it with the [#GamesNightViz](https://twitter.com/search?q=%23GamesNightViz&src=typed_query&f=top) community.
 
 ## How to Submit
 

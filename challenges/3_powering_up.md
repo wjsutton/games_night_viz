@@ -1,10 +1,10 @@
-<img src='https://github.com/wjsutton/games_night_viz/blob/main/icons/banner_icon.png?raw=true' width='100%'>
+<img src='https://github.com/wjsutton/games_night_viz/blob/main/challenges/icons/banner_icon.png?raw=true' width='100%'>
 
 # Level 3: Powering Up
 
 Welcome back!
 
-Earlier in [Level 2](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md) we entered into the world of the game, now we've had some experience of what the game is the amount it's time to get powered up to increase our chances of winning.
+Earlier in [Level 2](https://github.com/wjsutton/games_night_viz/blob/main/challenges/2_hello_world.md) we entered into the world of the game, now we've had some experience of what the game is the amount it's time to get powered up to increase our chances of winning.
 
 Powering up our characters can take many different forms, such as:
 - An item that improves our abilities
@@ -15,9 +15,9 @@ Powering up our characters can take many different forms, such as:
 ## The Challenges
 
 Below are **three challenges** for you to choose from:
-- [**Visualising data**](https://github.com/wjsutton/games_night_viz/blob/main/3_powering_up.md#data-visualisation-challenge) about different **POWER UPS**, with datasets ranging from the landscapes of Minecraft to the depth of ocean warfare in battleship
-- [**Adding some Iconic**](https://github.com/wjsutton/games_night_viz/blob/main/3_powering_up.md#visual-design-challenge-font) upgrades to our visualisations with **SHAPES AND ICONS**, with advice to help you pick the perfect set of shapes and deploy it in your viz
-- [**Preparing data**](https://github.com/wjsutton/games_night_viz/blob/main/3_powering_up.md#data-preparation-challenge-cliam-brown-sunk-my-battleship) to level our **BANK ACCOUNT** to find the most profitable streets in Monopoly, with steps to follow along the way
+- [**Visualising data**](https://github.com/wjsutton/games_night_viz/blob/main/challenges/3_powering_up.md#data-visualisation-challenge) about different **POWER UPS**, with datasets ranging from the landscapes of Minecraft to the depth of ocean warfare in battleship
+- [**Adding some Iconic**](https://github.com/wjsutton/games_night_viz/blob/main/challenges/3_powering_up.md#visual-design-challenge-font) upgrades to our visualisations with **SHAPES AND ICONS**, with advice to help you pick the perfect set of shapes and deploy it in your viz
+- [**Preparing data**](https://github.com/wjsutton/games_night_viz/blob/main/challenges/3_powering_up.md#data-preparation-challenge-cliam-brown-sunk-my-battleship) to level our **BANK ACCOUNT** to find the most profitable streets in Monopoly, with steps to follow along the way
 
 Submissions 
 - Deadline is midnight PST 31st March 2022, level 4 will be released shortly afterwards

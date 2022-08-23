@@ -1,10 +1,10 @@
-<img src='https://github.com/wjsutton/games_night_viz/blob/main/icons/banner_icon.png?raw=true' width='100%'>
+<img src='https://github.com/wjsutton/games_night_viz/blob/main/challenges/icons/banner_icon.png?raw=true' width='100%'>
 
 # The #GamesNightViz Tour: Nostalgic Games with #IronQuest
 
 Welcome back!
 
-Earlier on the tour [we joined our friends at #DataFamCon & #PreppinData for a game of Dungeons and Dragons](https://github.com/wjsutton/games_night_viz/blob/main/gnv_tour1_dnd_datafamcon.md). 
+Earlier on the tour [we joined our friends at #DataFamCon & #PreppinData for a game of Dungeons and Dragons](https://github.com/wjsutton/games_night_viz/blob/main/challenges/gnv_tour1_dnd_datafamcon.md). 
 
 For our next challenge, we'll be reliving some Nostalgic Games with [Sarah Bartlett](https://twitter.com/sarahlovesdata)'s [#IronQuest](https://twitter.com/search?q=%23IronQuest&src=typed_query&f=top), a community data visualisation project following the Iron Viz style format allowing participants to showcase best practices & skill in design, storytelling & analysis.
 

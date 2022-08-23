@@ -1,13 +1,13 @@
 # Level 2: Hello World Roundup
 1st Jan - 13th Feb 2021
 
-Our second #GamesNightViz theme ["Hello World"](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md), had us traversing through different game worlds, meeting new people, finding the best places to stay or just trying to survive.
+Our second #GamesNightViz theme ["Hello World"](https://github.com/wjsutton/games_night_viz/blob/main/challenges/2_hello_world.md), had us traversing through different game worlds, meeting new people, finding the best places to stay or just trying to survive.
 
 The project ran alongside [Tableau's Iron Viz competition](https://www.tableau.com/community/iron-viz) and we received 21 submissions! 
 
 ## Data Prep Submissions
 
-On the data prep side, <a href='https://twitter.com/abmcknight18/status/1478931510032056320'>Alice S.</a> helped us survive against [C.Liam Brown's Battleship AI](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md#data-preparation-challenge-cliam-brown-sunk-my-battleship) challenge.
+On the data prep side, <a href='https://twitter.com/abmcknight18/status/1478931510032056320'>Alice S.</a> helped us survive against [C.Liam Brown's Battleship AI](https://github.com/wjsutton/games_night_viz/blob/main/challenges/2_hello_world.md#data-preparation-challenge-cliam-brown-sunk-my-battleship) challenge.
 
 ## Data Visualisation Submissions
 

@@ -1,4 +1,4 @@
-<img src='https://github.com/wjsutton/games_night_viz/blob/main/icons/banner_icon.png?raw=true' width='100%'>
+<img src='https://github.com/wjsutton/games_night_viz/blob/main/challenges/icons/banner_icon.png?raw=true' width='100%'>
 
 # Level 1: Player Select
 
@@ -14,9 +14,9 @@ Picking the right character can be a tricky decision, and we may want to bring i
 ## The Challenges
 
 Below are **three challenges** for you to choose from:
-- [**Visualising data**](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md#data-visualisation-challenge) about our favourite **CHARACTERS**, with datasets ranging from gaming icons to top poker players
-- [**Crafting designs**](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md#visual-design-challenge-colour) to explore **COLOUR**, with tools to help you create a unique colour palette
-- [**Preparing data**](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md#data-preparation-challenge-the-best-mario-kart) to find the **BEST MARIO KART** driver and kart combination, with steps to follow along the way
+- [**Visualising data**](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select.md#data-visualisation-challenge) about our favourite **CHARACTERS**, with datasets ranging from gaming icons to top poker players
+- [**Crafting designs**](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select.md#visual-design-challenge-colour) to explore **COLOUR**, with tools to help you create a unique colour palette
+- [**Preparing data**](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select.md#data-preparation-challenge-the-best-mario-kart) to find the **BEST MARIO KART** driver and kart combination, with steps to follow along the way
 
 Submissions 
 - Deadline is midnight PST 31st December 2021, level 2 will be released shortly afterwards
@@ -33,20 +33,20 @@ Pick one of the data sets below, or a data set you've found, and visualise it.
 
 | Name | Difficulty | Source | Data |
 |---|---|---|---|
-| Mario Golf Super Rush Character Stats | Casual | [NintendoLife](https://www.nintendolife.com/guides/mario-golf-super-rush-full-character-roster-and-special-shot-list) | [link](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/mario_golf_super_rush_character_stats.csv) |
-| HowChoo's Top 50 Most Iconic Video Game Characters | Casual | [HowChoo.com](https://howchoo.com/gaming/iconic-video-game-characters) & [VGChartz.com](https://www.vgchartz.com/) | [link](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/howchoos_top_50_most_iconic_video_game_character.csv)  |
-| Pokemon of the Year, 2020 | Normal | [Pokemon2020.com](https://pokemon2020.pokemon.com/en-us/) & [Kaggle](https://www.kaggle.com/maca11/all-pokemon-dataset) | [link](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/pokemon_of_the_year_2020.xlsx) |
-| Street Fighter Character Usage and Stats | Normal | [Capcom.com](https://game.capcom.com/cfn/sfv/stats/usagerate) & [streetfighter.fandom.com](https://streetfighter.fandom.com/wiki/Street_Fighter_V_Character_Gameplay_Stats) | [link](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/street_fighter_v_character_usage_and_stats_corrected_20211212.xlsx)* |
-| Pokemon UNITE Character Stats | Normal | [Unite-DB.com](https://unite-db.com/stats) | [link](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/Pokemon%20Unite%20Character%20Stats.xlsx) |
-| Mario Kart 8, The best kart for each driver  | Heroic  | [MarioWiki.com](https://www.mariowiki.com/Mario_Kart_8_Deluxe_in-game_statistics) | [link](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/mario_kart_8_best_kart_per_driver.csv) |
-| The Top 100 Female Poker Players  | Heroic  | [TheHendonMob.com](https://pokerdb.thehendonmob.com/player.php?a=r&n=68149) | [link](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/top_female_poker_players_and_events.xlsx) |
+| Mario Golf Super Rush Character Stats | Casual | [NintendoLife](https://www.nintendolife.com/guides/mario-golf-super-rush-full-character-roster-and-special-shot-list) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select/mario_golf_super_rush_character_stats.csv) |
+| HowChoo's Top 50 Most Iconic Video Game Characters | Casual | [HowChoo.com](https://howchoo.com/gaming/iconic-video-game-characters) & [VGChartz.com](https://www.vgchartz.com/) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select/howchoos_top_50_most_iconic_video_game_character.csv)  |
+| Pokemon of the Year, 2020 | Normal | [Pokemon2020.com](https://pokemon2020.pokemon.com/en-us/) & [Kaggle](https://www.kaggle.com/maca11/all-pokemon-dataset) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select/pokemon_of_the_year_2020.xlsx) |
+| Street Fighter Character Usage and Stats | Normal | [Capcom.com](https://game.capcom.com/cfn/sfv/stats/usagerate) & [streetfighter.fandom.com](https://streetfighter.fandom.com/wiki/Street_Fighter_V_Character_Gameplay_Stats) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select/street_fighter_v_character_usage_and_stats_corrected_20211212.xlsx)* |
+| Pokemon UNITE Character Stats | Normal | [Unite-DB.com](https://unite-db.com/stats) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select/Pokemon%20Unite%20Character%20Stats.xlsx) |
+| Mario Kart 8, The best kart for each driver  | Heroic  | [MarioWiki.com](https://www.mariowiki.com/Mario_Kart_8_Deluxe_in-game_statistics) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select/mario_kart_8_best_kart_per_driver.csv) |
+| The Top 100 Female Poker Players  | Heroic  | [TheHendonMob.com](https://pokerdb.thehendonmob.com/player.php?a=r&n=68149) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select/top_female_poker_players_and_events.xlsx) |
 
-*Note: an issue was discovered in the previous [street_fighter_v_character_usage_and_stats](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/street_fighter_v_character_usage_and_stats.xlsx) dataset where values for Vega, M.Bison & Balrog were mislabelled, please use the corrected file here: [link](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/street_fighter_v_character_usage_and_stats_corrected_20211212.xlsx)*
+*Note: an issue was discovered in the previous [street_fighter_v_character_usage_and_stats](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select/street_fighter_v_character_usage_and_stats.xlsx) dataset where values for Vega, M.Bison & Balrog were mislabelled, please use the corrected file here: [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select/street_fighter_v_character_usage_and_stats_corrected_20211212.xlsx)*
 
 **Stuck for Ideas? Here are some questions you could try to answer:**
-- [Iconic Characters:](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/howchoos_top_50_most_iconic_video_game_character.csv) Are older video games characters more iconic than newer ones? Do good game sales make for an iconic character?
-- [Pokemon:](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/pokemon_of_the_year_2020.xlsx) Are people's favourite Pokemon the strongest? Do people prefer certain pokemon types (e.g. Legendaries, Fire types, Final evolutions) over others?
-- [Top Poker Players:](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select/top_female_poker_players_and_events.xlsx) The players are ranked by total earnings, are there other attributes we can explore to better understand their careers? For example, they've earned millions of dollars but was it all in one go? How many years have they been playing poker? How regularly do they win? 
+- [Iconic Characters:](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select/howchoos_top_50_most_iconic_video_game_character.csv) Are older video games characters more iconic than newer ones? Do good game sales make for an iconic character?
+- [Pokemon:](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select/pokemon_of_the_year_2020.xlsx) Are people's favourite Pokemon the strongest? Do people prefer certain pokemon types (e.g. Legendaries, Fire types, Final evolutions) over others?
+- [Top Poker Players:](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select/top_female_poker_players_and_events.xlsx) The players are ranked by total earnings, are there other attributes we can explore to better understand their careers? For example, they've earned millions of dollars but was it all in one go? How many years have they been playing poker? How regularly do they win? 
 
 
 ### Legendary difficulty - bring your own data
@@ -170,7 +170,7 @@ For Mario Kart 8, at the start of the game you select:
 
 To work out the best combination of driver, body, tires and glider, we can source some data tables from [MarioWiki.com](https://www.mariowiki.com/Mario_Kart_8_Deluxe_in-game_statistics)
 
-1. [Input the data](https://github.com/wjsutton/games_night_viz/blob/main/data_prep/input_level_1_mario_kart_8.xlsx)
+1. [Input the data](https://github.com/wjsutton/games_night_viz/blob/main/challenges/data_prep/input_level_1_mario_kart_8.xlsx)
 2. Long pivot the Driver, Kart body, Tires and Gliders tabs so each attribute becomes a row with the attribute value.
 3. Join Driver, Kart body, Tires and Gliders together so we have 1 row per combination of driver, kart body, tires and glider
 4. Create a total value (sum of the driver, kart body, tires and glider values) for each attribute
@@ -185,7 +185,7 @@ To work out the best combination of driver, body, tires and glider, we can sourc
 9. Create a rank for each driver and if an unlock is required, ordered by the highest overall total descending, then by speed descending and handling descending
 10. Filter the data so just the best kart for each driver and if an unlock is required, split any ties so we end with 1 kart per driver
 11. Optional: Join each component to an image so you know what to look out for in the game
-12. [Output the data](https://github.com/wjsutton/games_night_viz/blob/main/data_prep/output_level_1_mario_kart_8.csv)
+12. [Output the data](https://github.com/wjsutton/games_night_viz/blob/main/challenges/data_prep/output_level_1_mario_kart_8.csv)
 
 --- 
 

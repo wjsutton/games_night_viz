@@ -1,10 +1,10 @@
-<img src='https://github.com/wjsutton/games_night_viz/blob/main/icons/banner_icon.png?raw=true' width='100%'>
+<img src='https://github.com/wjsutton/games_night_viz/blob/main/challenges/icons/banner_icon.png?raw=true' width='100%'>
 
 # Level 4: The Need for Speed
 
 Welcome back!
 
-Back in [Level 3](https://github.com/wjsutton/games_night_viz/blob/main/3_powering_up.md), we got powered up, now we’re in a race against time to stop the bad guys and win the game. For our next theme we’re valuing “The Need for Speed” as we race around the game world in search of victory. 
+Back in [Level 3](https://github.com/wjsutton/games_night_viz/blob/main/challenges/3_powering_up.md), we got powered up, now we’re in a race against time to stop the bad guys and win the game. For our next theme we’re valuing “The Need for Speed” as we race around the game world in search of victory. 
 
 Getting from A to B in the fastest way possible is very challenging so any data we have would be invaluable, and from this data we may want to find out:
 - Is there an optimal route I should go?
@@ -14,9 +14,9 @@ Getting from A to B in the fastest way possible is very challenging so any data 
 ## The Challenges
 
 Below are three challenges for you to choose from:
-- [**Visualising data about our FAST games**](https://github.com/wjsutton/games_night_viz/blob/main/4_the_need_for_speed.md#data-visualisation-challenge), with datasets ranging from the best horses of Red Dead Redemption 2, to the fastest solve times of Rubik cubes
-- [**Getting up to speed**](https://github.com/wjsutton/games_night_viz/blob/main/4_the_need_for_speed.md#visual-design-challenge-map-layers) with Tableau’s Map layer functionality and how we use layers to add more detail and data to our visualisations
-- [**Finding the fastest horse in the west**](https://github.com/wjsutton/games_night_viz/blob/main/4_the_need_for_speed.md#data-preparation-challenge-finding-the-fastest-horse-in-the-west) by extracting data from a website to a csv file,  we walk you through finding and extracting data on Red Dead Redemption 2’s horses.
+- [**Visualising data about our FAST games**](https://github.com/wjsutton/games_night_viz/blob/main/challenges/4_the_need_for_speed.md#data-visualisation-challenge), with datasets ranging from the best horses of Red Dead Redemption 2, to the fastest solve times of Rubik cubes
+- [**Getting up to speed**](https://github.com/wjsutton/games_night_viz/blob/main/challenges/4_the_need_for_speed.md#visual-design-challenge-map-layers) with Tableau’s Map layer functionality and how we use layers to add more detail and data to our visualisations
+- [**Finding the fastest horse in the west**](https://github.com/wjsutton/games_night_viz/blob/main/challenges/4_the_need_for_speed.md#data-preparation-challenge-finding-the-fastest-horse-in-the-west) by extracting data from a website to a csv file,  we walk you through finding and extracting data on Red Dead Redemption 2’s horses.
 
 Submissions 
 - Deadline is midnight PST 31st May 2022, level 5 will be released shortly afterwards
@@ -33,15 +33,15 @@ Pick one of the data sets below, or a data set you've found, and visualise it.
 
 | Name | Difficulty | Source | Data |
 |---|---|---|---|
-| Money Raised by Games Done Quick Speedrunning Events | Casual | [gamesdonequick.com](https://gamesdonequick.com/tracker) | [link](https://github.com/wjsutton/games_night_viz/blob/main/4_the_need_for_speed/games_done_quick.csv) |
-| How Long to Complete Mario Games | Casual | [howlongtobeat.com](https://howlongtobeat.com) & [nintendo.com](https://mario.nintendo.com/history/) | [link](https://github.com/wjsutton/games_night_viz/blob/main/4_the_need_for_speed/how_long_to_complete_mario_games.csv) |
-| Cars from Need for Speed 2015 | Casual | [Need For Speed fandom](https://nfs.fandom.com/wiki/Need_for_Speed_(2015)/Cars) | [link](https://github.com/wjsutton/games_night_viz/blob/main/4_the_need_for_speed/need_for_speed_2015_cars.csv) |
-| The Horses of Red Dead Redemption 2 | Normal | [gtabase.com](https://www.gtabase.com/red-dead-redemption-2/horses/#sort=attr.ct10.frontend_value&sortdir=desc) | [link](https://github.com/wjsutton/games_night_viz/blob/main/4_the_need_for_speed/rdr2_horses.csv) |
-| Twitch Plays Pokemon Completion Times | Normal | [wikipedia.org](https://en.wikipedia.org/wiki/Twitch_Plays_Pok%C3%A9mon) | [link](https://github.com/wjsutton/games_night_viz/blob/main/4_the_need_for_speed/twitch_plays_pokemon_game_completion.csv) |
-| Speedruns of Goldeneye (N64) Individual Levels | Normal | [speedrun.com](https://www.speedrun.com/ge60fps) | [link](https://github.com/wjsutton/games_night_viz/blob/main/4_the_need_for_speed/goldeneye_speedruns_levels.csv) |
-| GTA 5 Vehicles | Heroic | [gtabase.com](https://www.gtabase.com/grand-theft-auto-v/vehicles/#sort=attr.ct3.frontend_value&sortdir=desc) | [link](https://github.com/wjsutton/games_night_viz/blob/main/4_the_need_for_speed/gta_5_vehicles.csv) |
-| Mario Kart 8 Leaderboard Times | Heroic | [mkleaderboards.com](www.mkleaderboards.com) | [link](https://github.com/wjsutton/games_night_viz/blob/main/4_the_need_for_speed/mario_kart_8_course_leaderboard_times.csv) |
-| Evolution of Rubik's Cube solve times | Heroic | [kaggle.com](https://www.kaggle.com/datasets/patrasaurabh/evolution-of-rubiks-cube-solve-times) | [link](https://github.com/wjsutton/games_night_viz/blob/main/4_the_need_for_speed/evolution_of_rubik_cube_solve_times.xlsx) |
+| Money Raised by Games Done Quick Speedrunning Events | Casual | [gamesdonequick.com](https://gamesdonequick.com/tracker) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/4_the_need_for_speed/games_done_quick.csv) |
+| How Long to Complete Mario Games | Casual | [howlongtobeat.com](https://howlongtobeat.com) & [nintendo.com](https://mario.nintendo.com/history/) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/4_the_need_for_speed/how_long_to_complete_mario_games.csv) |
+| Cars from Need for Speed 2015 | Casual | [Need For Speed fandom](https://nfs.fandom.com/wiki/Need_for_Speed_(2015)/Cars) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/4_the_need_for_speed/need_for_speed_2015_cars.csv) |
+| The Horses of Red Dead Redemption 2 | Normal | [gtabase.com](https://www.gtabase.com/red-dead-redemption-2/horses/#sort=attr.ct10.frontend_value&sortdir=desc) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/4_the_need_for_speed/rdr2_horses.csv) |
+| Twitch Plays Pokemon Completion Times | Normal | [wikipedia.org](https://en.wikipedia.org/wiki/Twitch_Plays_Pok%C3%A9mon) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/4_the_need_for_speed/twitch_plays_pokemon_game_completion.csv) |
+| Speedruns of Goldeneye (N64) Individual Levels | Normal | [speedrun.com](https://www.speedrun.com/ge60fps) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/4_the_need_for_speed/goldeneye_speedruns_levels.csv) |
+| GTA 5 Vehicles | Heroic | [gtabase.com](https://www.gtabase.com/grand-theft-auto-v/vehicles/#sort=attr.ct3.frontend_value&sortdir=desc) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/4_the_need_for_speed/gta_5_vehicles.csv) |
+| Mario Kart 8 Leaderboard Times | Heroic | [mkleaderboards.com](www.mkleaderboards.com) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/4_the_need_for_speed/mario_kart_8_course_leaderboard_times.csv) |
+| Evolution of Rubik's Cube solve times | Heroic | [kaggle.com](https://www.kaggle.com/datasets/patrasaurabh/evolution-of-rubiks-cube-solve-times) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/4_the_need_for_speed/evolution_of_rubik_cube_solve_times.xlsx) |
 
 Or choose one of the data sets from the [#GamesNightViz Data Archive :floppy_disk:](data_archive.md)
 
@@ -182,7 +182,7 @@ Using Google Chrome (or a browser of choice), find the JSON data from [gtabase.c
 Id, name, image, Horse Breed, Horse Class, Handling, Health, Stamina, Speed, Acceleration, Handling, Release Date, Title Update, Game Edition, Overall Rating, Base Value ($)
 
 8. Cleanup the release data column so it is of a date format, e.g. YYYY-MM-DD. For this example, we are converting the date string “December 22, 2020”, as the epoch “1608591600” differs by 1 day.
-9. Output the data [link](https://github.com/wjsutton/games_night_viz/blob/main/4_the_need_for_speed/rdr2_horses.csv)
+9. Output the data [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/4_the_need_for_speed/rdr2_horses.csv)
 
 If you’d like to learn more about APIs see Will’s post on FlerlageTwins.com, [Tableau Public APIs Plus a VOTD Data Set](https://www.flerlagetwins.com/2021/04/tableau-public-api.html)
 

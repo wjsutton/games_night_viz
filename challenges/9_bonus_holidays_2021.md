@@ -1,4 +1,4 @@
-<img src='https://github.com/wjsutton/games_night_viz/blob/main/icons/banner_icon.png?raw=true' width='100%'>
+<img src='https://github.com/wjsutton/games_night_viz/blob/main/challenges/icons/banner_icon.png?raw=true' width='100%'>
 
 # Bonus Level: Notable Holiday Games
 
@@ -15,7 +15,7 @@ This is not a complete list. If you have a holiday favourite that's missing plea
 
 | Name | Difficulty | Source | Data |
 |---|---|---|---|
-| Notable Holiday Themed Or Featured Games | Casual | [Metacritic](https://www.metacritic.com/), [VGChartz](https://www.vgchartz.com/), [VGInsights](https://vginsights.com/) [Wikipedia](https://en.wikipedia.org/wiki/Category:Christmas_video_games) | [link](https://github.com/wjsutton/games_night_viz/blob/main/9_bonus_challenges/notable_themed_or_featured_holiday_video_games.csv)
+| Notable Holiday Themed Or Featured Games | Casual | [Metacritic](https://www.metacritic.com/), [VGChartz](https://www.vgchartz.com/), [VGInsights](https://vginsights.com/) [Wikipedia](https://en.wikipedia.org/wiki/Category:Christmas_video_games) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/9_bonus_challenges/notable_themed_or_featured_holiday_video_games.csv)
 
 ### Legendary difficulty - bring your own data
 If you want to go beyond the data set above you may want to try bringing your own data to visualise (legendary difficulty).

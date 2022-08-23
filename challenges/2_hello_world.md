@@ -1,10 +1,10 @@
-<img src='https://github.com/wjsutton/games_night_viz/blob/main/icons/banner_icon.png?raw=true' width='100%'>
+<img src='https://github.com/wjsutton/games_night_viz/blob/main/challenges/icons/banner_icon.png?raw=true' width='100%'>
 
 # Level 2: Hello World
 
 Welcome back!
 
-Earlier in [Level 1](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md) we selected our players, now we enter into the world of the game. For our next theme we’re saying “Hello World” as we attempt to navigate the game world and leverage data to increase our chances of winning. 
+Earlier in [Level 1](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select.md) we selected our players, now we enter into the world of the game. For our next theme we’re saying “Hello World” as we attempt to navigate the game world and leverage data to increase our chances of winning. 
 
 Finding our way around a new place can be challenging so any data we have would be invaluable, and from this data we may want to find out:
 - Where are the best items?
@@ -15,9 +15,9 @@ Finding our way around a new place can be challenging so any data we have would 
 ## The Challenges
 
 Below are **three challenges** for you to choose from:
-- [**Visualising data**](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md#data-visualisation-challenge) about our various game **WORLDS**, with datasets ranging from the landscapes of Minecraft to the depths of ocean warfare in battleship
-- [**Boldly**](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md#visual-design-challenge-font) stepping into the world of **FONTS**, with tools to help you pick the perfect font combo and deploy it in your viz
-- [**Preparing data**](https://github.com/wjsutton/games_night_viz/blob/main/2_hello_world.md#data-preparation-challenge-cliam-brown-sunk-my-battleship) to **SURVIVE** against CLiam Browns Battleship AI, with steps to follow along the way
+- [**Visualising data**](https://github.com/wjsutton/games_night_viz/blob/main/challenges/2_hello_world.md#data-visualisation-challenge) about our various game **WORLDS**, with datasets ranging from the landscapes of Minecraft to the depths of ocean warfare in battleship
+- [**Boldly**](https://github.com/wjsutton/games_night_viz/blob/main/challenges/2_hello_world.md#visual-design-challenge-font) stepping into the world of **FONTS**, with tools to help you pick the perfect font combo and deploy it in your viz
+- [**Preparing data**](https://github.com/wjsutton/games_night_viz/blob/main/challenges/2_hello_world.md#data-preparation-challenge-cliam-brown-sunk-my-battleship) to **SURVIVE** against CLiam Browns Battleship AI, with steps to follow along the way
 
 Submissions 
 - Deadline is midnight PST 13th February 2022, level 3 will be released shortly afterwards

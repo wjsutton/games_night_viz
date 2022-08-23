@@ -1,13 +1,13 @@
 # Level 1: Player Select Roundup
 8th Nov - 31st Dec 2021
 
-Our first #GamesNightViz project had the theme ["Player Select"](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md), which follows the start of most games - choosing your character. 
+Our first #GamesNightViz project had the theme ["Player Select"](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select.md), which follows the start of most games - choosing your character. 
 
 Throughout the end of 2021 we received 26 submissions! 
 
 ## Data Prep Submissions
 
-On the data prep side, <a href='https://twitter.com/Ziacol/status/1458140931408883712?s=20'>Shahzad Zia</a> helped us find the [best mario kart](https://github.com/wjsutton/games_night_viz/blob/main/1_player_select.md#data-preparation-challenge-the-best-mario-kart) challenge.
+On the data prep side, <a href='https://twitter.com/Ziacol/status/1458140931408883712?s=20'>Shahzad Zia</a> helped us find the [best mario kart](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select.md#data-preparation-challenge-the-best-mario-kart) challenge.
 
 We also teamed up with our friends from [Preppin Data](https://preppindata.blogspot.com/) to delve into our [Top 100 Female Poker Players Challenge](https://preppindata.blogspot.com/2021/11/2021-week-47-games-night-viz-collab.html), with a few vizzes built using the data too!
 

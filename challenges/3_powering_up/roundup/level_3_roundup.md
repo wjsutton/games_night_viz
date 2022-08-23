@@ -1,7 +1,7 @@
 # Level 3: Hello World Roundup
 14th Feb - 31st Mar 2022
 
-Our third #GamesNightViz theme ["Powering Up"](https://github.com/wjsutton/games_night_viz/blob/main/3_powering_up.md), had us improving our abilities, getting stronger and finding the key items.
+Our third #GamesNightViz theme ["Powering Up"](https://github.com/wjsutton/games_night_viz/blob/main/challenges/3_powering_up.md), had us improving our abilities, getting stronger and finding the key items.
 
 The project ran a collab with [Back 2 Viz Basics | Week 6 Dealing with Outliers](https://data.world/back2vizbasics/2022week-6-dealing-with-outliers)
 

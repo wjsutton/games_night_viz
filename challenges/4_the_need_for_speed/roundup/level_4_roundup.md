@@ -1,12 +1,12 @@
 # Level 4: The Need for Speed
 1st Apr - 31st May 2022
 
-Our fourth #GamesNightViz theme ["The Need for Speed"](https://github.com/wjsutton/games_night_viz/blob/main/4_the_need_for_speed.md), had us in a race against time, aiming to be the fastest either through practice or a performance engine.
+Our fourth #GamesNightViz theme ["The Need for Speed"](https://github.com/wjsutton/games_night_viz/blob/main/challenges/4_the_need_for_speed.md), had us in a race against time, aiming to be the fastest either through practice or a performance engine.
 
 ## Data Visualisation Submissions
 
 We received 13 visualisations featuring
-- lots of Mario vizzes from out [Time to complete dataset](https://github.com/wjsutton/games_night_viz/blob/main/4_the_need_for_speed.md#data-visualisation-challenge)
+- lots of Mario vizzes from out [Time to complete dataset](https://github.com/wjsutton/games_night_viz/blob/main/challenges/4_the_need_for_speed.md#data-visualisation-challenge)
 - with many great new authors joining the project
 - as well as some of our regular authors back for another challenge
 
