@@ -1,0 +1,698 @@
+﻿Location,Building,Sprite,Trainer,Sex,Age,Terrain,Inside?,Source
+Pallet,Red's,Red,Player,M,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pallet,Red's,Mom,,F,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pallet,N,Girl,,F,3,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pallet,N,Large Man,,M,4,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pallet,Blue's,Blue,Rival,M,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pallet,Blue's,Daisy,,F,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pallet,Oak's,Oak,,M,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pallet,Oak's,Girl,,F,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pallet,Oak's,Aide,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pallet,Oak's,Aide,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 1,N,Boy,,M,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 1,N,Boy,,M,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian C,N,Boy,,M,2,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian C,N,Boy,,M,2,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian C,N,Girl,,F,3,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian C,N,Bald Man,,M,5,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian C,N,Bald Man,,M,5,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian C,N,Large Man,,M,4,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian C,Poke,Joy,,F,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian C,Poke,Bangs,,F,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian C,Poke,Gent,,M,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian C,Poke,Chair,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian C,Poke,Ace,,M,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian C,Mart,Specs,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian C,Mart,Boy,,M,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian C,Mart,Ace,,M,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian C,School,Copy,,F,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian C,School,Lass,,F,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian C,Gym,Guide,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian C,Gym,Surge,Tamer,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian C,Gym,Belt,Blackbelt,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian C,Gym,Ace,Cooltrainer M,M,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian C,Gym,Ace,Cooltrainer M,M,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian C,Gym,Belt,Blackbelt,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian C,Gym,Surge,Tamer,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian C,Gym,Ace,Cooltrainer M,M,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian C,Gym,Belt,Blackbelt,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian C,Gym,Giovanni,Giovanni,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 2,North,Aide,,M,4,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 2,Gatehouse,Aide,,M,4,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 2,Gatehouse,Boy,,M,2,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian F,S Entrance,Tails,,F,1,Forest,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian F,S Entrance,Girl,,F,3,Forest,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian F,N,Boy,,M,2,Forest,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian F,N,Boy,,M,2,Forest,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian F,N,Boy,Bug Catcher,M,2,Forest,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian F,N,Boy,Bug Catcher,M,2,Forest,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian F,N,Boy,Bug Catcher,M,2,Forest,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian F,N Entrance,Trader,,M,5,Forest,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Viridian F,N Entrance,Angry,,M,3,Forest,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pewter,SW,Bald Man,,M,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pewter,SW,Boy,,M,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pewter,Poke,Joy,,F,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pewter,Poke,Chair,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pewter,Poke,Bangs,,F,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pewter,Poke,Gent,,M,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pewter,Mart,Specs,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pewter,Mart,Boy,,M,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pewter,Mart,Angry,,M,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pewter,NE,Blaine,,M,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pewter,NE,Kid,,M,1,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pewter,Museum,Aide,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pewter,Museum,Aide,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pewter,Museum,Aide,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pewter,Museum,Bald Man,,M,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pewter,Museum,Aide,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pewter,Museum,Trader,,M,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pewter,Museum,Boy,,M,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pewter,Museum,Copy,,F,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pewter,Museum,Belt,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pewter,Gym,Guide,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pewter,Gym,Ace,Jr Trainer M,M,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pewter,Gym,Angry,Brock,M,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pewter,N,Lass,,F,2,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pewter,N,Boy,,M,2,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pewter,N,Angry,,M,3,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pewter,N,Angry,,M,3,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pewter,N,Ace,,M,3,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 3,N,Lass,Lass,F,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 3,N,Boy,Bug Catcher,M,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 3,N,Boy,Youngster,M,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 3,N,Boy,Youngster,M,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 3,N,Lass,Lass,F,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 3,N,Boy,Bug Catcher,M,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 3,N,Boy,Bug Catcher,M,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 3,N,Lass,Lass,F,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 3,N,Angry,,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 3,N,Lass,,F,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 3,Poke,Joy,,F,4,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 3,Poke,Chair,,M,4,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 3,Poke,Bangs,,F,4,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 3,Poke,Boy,,M,2,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 3,Poke,Gent,,M,5,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 3,Poke,Blaine,,M,5,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Mt Moon,Mt Moon,Boy,Bug Catcher,M,2,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Mt Moon,Mt Moon,Lass,Lass,F,2,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Mt Moon,Mt Moon,Rocket,Rocket,M,3,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Mt Moon,Mt Moon,Angry,Super Nerd,M,3,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Mt Moon,Mt Moon,Boy,Bug Catcher,M,2,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Mt Moon,Mt Moon,Lass,Lass,F,2,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Mt Moon,Mt Moon,Rocket,Rocket,M,3,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Mt Moon,Mt Moon,Belt,Hiker,M,4,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Mt Moon,Mt Moon,Rocket,Rocket,M,3,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Mt Moon,Mt Moon,Rocket,Rocket,M,3,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Mt Moon,Mt Moon,Angry,Super Nerd,M,3,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 4,N,Lass,Lass,F,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 4,N,Angry,,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cerulean,N,Angry,,M,3,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cerulean,N,Guard,,M,4,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cerulean,N,Rocket,Rocket,M,3,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cerulean,N,Ace,,M,3,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cerulean,N,Lass,,F,2,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cerulean,N,Angry,,M,3,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cerulean,N,Lass,,F,2,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cerulean,Bike Shop,Sus,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cerulean,Bike Shop,Woman,,F,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cerulean,Bike Shop,Boy,,M,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cerulean,Mart,Specs,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cerulean,Mart,Ace,,M,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cerulean,Mart,Lass,,F,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cerulean,Poke,Joy,,F,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cerulean,Poke,Bangs,,F,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cerulean,Poke,Chair,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cerulean,Poke,Gent,,M,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cerulean,Poke,Angry,,M,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cerulean,W,Creep,,F,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cerulean,W,Bald Man,,M,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cerulean,NW,Blaine,,M,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cerulean,NE,Girl,,F,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cerulean,NE,Safari,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cerulean,Gym,Guide,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cerulean,Gym,Swim,Swimmer,M,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cerulean,Gym,Lass,Jr Trainer F,F,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cerulean,Gym,Copy,Misty,F,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 24,N,Boy,Bug Catcher,M,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 24,N,Lass,Lass,F,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 24,N,Boy,Youngster,M,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 24,N,Lass,Lass,F,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 24,N,Ace,Jr Trainer M,M,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 24,N,Ace,Rocket,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 24,N,Ace,Jr Trainer M,M,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 25,N,Belt,Hiker,M,4,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 25,N,Belt,Hiker,M,4,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 25,N,Boy,Youngster,M,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 25,N,Boy,Youngster,M,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 25,N,Lass,Lass,F,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 25,N,Belt,Hiker,M,4,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 25,N,Ace,Jr Trainer M,M,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 25,N,Boy,Youngster,M,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 25,N,Lass,Lass,F,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 25,Sea Cottage,Angry,,M,3,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 5,Day-Care,Gent,,M,5,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 5,Underground Passage,Tails,,F,1,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 6,Underground Passage,Girl,,F,3,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 6,N,Boy,Bug Catcher,M,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 6,N,Ace,Jr Trainer M,M,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 6,N,Lass,Jr Trainer F,F,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 6,N,Boy,Bug Catcher,M,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 6,N,Ace,Jr Trainer M,M,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 6,N,Lass,Jr Trainer F,F,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Vermillion,N,Bald Man,,M,5,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Vermillion,N,Wife,,F,3,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Vermillion,N,Bald Man,,M,5,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Vermillion,N,Sailor,,M,4,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Vermillion,N,Sailor,,M,4,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Vermillion,Poke,Joy,,F,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Vermillion,Poke,Chair,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Vermillion,Poke,Bangs,,F,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Vermillion,Poke,Sailor,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Vermillion,Poke,Safari,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Vermillion,NW,Safari,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Vermillion,Fan Club,Girl,,F,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Vermillion,Fan Club,Large Man,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Vermillion,Fan Club,Gent,,M,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Vermillion,Fan Club,Bangs,,F,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Vermillion,SW,Tails,,F,1,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Vermillion,S,Boy,,M,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Vermillion,Mart,Specs,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Vermillion,Mart,Lass,,F,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Vermillion,Mart,Ace,,M,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Vermillion,Gym,Guide,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Vermillion,Gym,Sailor,Sailor,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Vermillion,Gym,Angry,Rocker,M,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Vermillion,Gym,Gent,Gentleman,M,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Vermillion,Gym,Surge,Lt Surge,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Diglett's Cave,Diglett's Cave,Bald Man,,M,5,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Diglett's Cave,Diglett's Cave,Safari,,M,4,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 11,N,Boy,Youngster,M,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 11,N,Boy,Youngster,M,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 11,N,Boy,Youngster,M,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 11,N,Bald Man,Gambler,M,5,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 11,N,Bald Man,Gambler,M,5,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 11,N,Angry,Engineer,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 11,N,Bald Man,Gambler,M,5,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 11,N,Bald Man,Gambler,M,5,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 11,N,Boy,Youngster,M,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 11,N,Angry,Engineer,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 11,Gatehouse,Guard,,M,4,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 11,Gatehouse,Aide,,M,4,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 11,Gatehouse,Boy,,M,2,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Sailor,,M,4,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Large Man,Fisherman,M,4,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Sailor,Sailor,M,4,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Sailor,Sailor,M,4,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Sailor,Sailor,M,4,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Sailor,Sailor,M,4,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Sailor,Sailor,M,4,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Angry,,M,3,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Gent,Gentleman,M,5,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Gent,Gentleman,M,5,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Girl,,F,3,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Hat,,M,3,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Blaine,,M,5,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Tails,,F,1,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Girl,,F,3,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Lass,Lass,F,2,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Boy,Youngster,M,2,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Gent,,M,5,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Chef,,M,4,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Chef,,M,4,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Chef,,M,4,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Chef,,M,4,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Chef,,M,4,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Chef,,M,4,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Chef,,M,4,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Hat,,M,3,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Sailor,,M,4,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Gent,,M,5,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Large Man,Fisherman,M,4,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Gent,Gentleman,M,5,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Gent,,M,5,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Trader,,M,5,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Gent,Gentleman,M,5,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Lass,Lass,F,2,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Kid,,M,1,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Gent,,M,5,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Wife,,F,3,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Copy,,F,2,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,S.S. Anne,Cut,,M,5,Boat,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,N,Sailor,Sailor,M,4,Boat,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,N,Sailor,Sailor,M,4,Boat,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,N,Sailor,,M,4,Boat,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,N,Angry,,M,3,Boat,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+S.S. Anne,N,Ace,,M,3,Boat,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 9,N,Lass,Jr Trainer F,F,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 9,N,Belt,Hiker,M,4,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 9,N,Ace,Jr Trainer M,M,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 9,N,Boy,Bug Catcher,M,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 9,N,Belt,Hiker,M,4,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 9,N,Boy,Bug Catcher,M,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 9,N,Ace,Jr Trainer M,M,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 9,N,Belt,Hiker,M,4,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 9,N,Lass,Jr Trainer F,F,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 10,Poke,Chair,,M,4,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 10,Poke,Joy,,F,4,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 10,Poke,Bangs,,F,4,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 10,Poke,Gent,,M,5,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 10,Poke,Large Man,,M,4,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 10,N,Lass,Jr Trainer F,F,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 10,N,Angry,Pokemaniac,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 10,N,Belt,Hiker,M,4,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 10,N,Lass,Jr Trainer F,F,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 10,N,Belt,Hiker,M,4,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 10,N,Angry,Pokemaniac,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Rock Tunnel,Rock Tunnel,Angry,Pokemaniac,M,3,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Rock Tunnel,Rock Tunnel,Angry,Pokemaniac,M,3,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Rock Tunnel,Rock Tunnel,Lass,Jr Trainer F,F,2,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Rock Tunnel,Rock Tunnel,Angry,Pokemaniac,M,3,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Rock Tunnel,Rock Tunnel,Belt,Hiker,M,4,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Rock Tunnel,Rock Tunnel,Belt,Hiker,M,4,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Rock Tunnel,Rock Tunnel,Belt,Hiker,M,4,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Rock Tunnel,Rock Tunnel,Belt,Hiker,M,4,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Rock Tunnel,Rock Tunnel,Belt,Hiker,M,4,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Rock Tunnel,Rock Tunnel,Lass,Jr Trainer F,F,2,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Rock Tunnel,Rock Tunnel,Belt,Hiker,M,4,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Rock Tunnel,Rock Tunnel,Angry,Pokemaniac,M,3,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Rock Tunnel,Rock Tunnel,Lass,Jr Trainer F,F,2,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Rock Tunnel,Rock Tunnel,Lass,Jr Trainer F,F,2,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Rock Tunnel,Rock Tunnel,Lass,Jr Trainer F,F,2,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Lavender,Poke,Joy,,F,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Lavender,Poke,Bangs,,F,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Lavender,Poke,Chair,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Lavender,Poke,Gent,,M,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Lavender,Poke,Tails,,F,1,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Lavender,N,Angry,,M,3,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Lavender,N,Ace,,M,3,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Lavender,N,Tails,,F,1,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Lavender,Fuji,Tails,,F,1,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Lavender,Fuji,Angry,,M,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Lavender,Fuji,Fuji,,M,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Lavender,Mart,Specs,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Lavender,Mart,Ace,,M,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Lavender,Mart,Warden,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Lavender,SW,Copy,,F,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Lavender,Name Rater,Pres,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pokemon Tower,Pokemon Tower,Bangs,,F,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pokemon Tower,Pokemon Tower,Warden,,M,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pokemon Tower,Pokemon Tower,Woman,,F,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pokemon Tower,Pokemon Tower,Girl,,F,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pokemon Tower,Pokemon Tower,Ghost,,F,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pokemon Tower,Pokemon Tower,Ghost,,F,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pokemon Tower,Pokemon Tower,Ghost,Channeler,F,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pokemon Tower,Pokemon Tower,Ghost,Channeler,F,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pokemon Tower,Pokemon Tower,Ghost,Channeler,F,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pokemon Tower,Pokemon Tower,Ghost,Channeler,F,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pokemon Tower,Pokemon Tower,Ghost,Channeler,F,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pokemon Tower,Pokemon Tower,Ghost,Channeler,F,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pokemon Tower,Pokemon Tower,Ghost,Channeler,F,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pokemon Tower,Pokemon Tower,Ghost,,F,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pokemon Tower,Pokemon Tower,Ghost,Channeler,F,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pokemon Tower,Pokemon Tower,Ghost,Channeler,F,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pokemon Tower,Pokemon Tower,Ghost,Channeler,F,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pokemon Tower,Pokemon Tower,Ghost,Channeler,F,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pokemon Tower,Pokemon Tower,Ghost,Channeler,F,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pokemon Tower,Pokemon Tower,Ghost,Channeler,F,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pokemon Tower,Pokemon Tower,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pokemon Tower,Pokemon Tower,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pokemon Tower,Pokemon Tower,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 8,N,Bald Man,Gambler,M,5,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 8,N,Lass,Lass,F,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 8,N,Angry,Super Nerd,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 8,N,Angry,Super Nerd,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 8,N,Lass,Lass,F,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 8,N,Lass,Lass,F,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 8,N,Lass,Lass,F,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 8,N,Bald Man,Gambler,M,5,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 8,N,Angry,Super Nerd,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 8,Underground Path,Girl,,F,3,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 7,Underground Path,Blaine,,M,5,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Poke,Chair,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Poke,Joy,,F,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Poke,Bangs,,F,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Poke,Gent,,M,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Poke,Wife,,F,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,N,Rocket,,M,3,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,N,Large Man,,M,4,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,N,Trader,,M,5,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,N,Girl,,F,3,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,N,Tails,,F,1,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,N,Trader,,M,5,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,N,Trader,,M,5,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,N,Rocket,,M,3,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Mansion,Belt,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Mansion,Specs,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Mansion,Angry,,M,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Mansion,Sus,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Mansion,Freak,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Mart,Bangs,,F,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Mart,Specs,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Mart,Specs,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Mart,Girl,,F,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Mart,Blaine,,M,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Mart,Specs,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Mart,Gamer,,M,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Mart,Gamer,,M,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Mart,Gamer,,M,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Mart,Tails,,F,1,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Mart,Angry,,M,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Mart,Boy,,M,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Mart,Specs,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Mart,Gent,,M,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Mart,Specs,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Mart,Specs,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Mart,Sailor,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Mart Roof,Angry,,M,3,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Mart Roof,Tails,,F,1,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,GC Exchange,Unseen,,0,0,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,GC Exchange,Unseen,,0,0,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,GC Exchange,Unseen,,0,0,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,GC Exchange,Warden,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,GC Exchange,Bald Man,,M,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,GC,Rocket,,M,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,GC,Gent,,M,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,GC,Specs,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,GC,Bald Man,,M,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,GC,Woman,,F,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,GC,Guide,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,GC,Safari,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,GC,Blaine,,M,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,GC,Wife,,F,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,GC,Specs,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,GC,Wife,,F,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Restaurant,Woman,,F,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Restaurant,Large Man,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Restaurant,Blaine,,M,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Restaurant,Chef,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Restaurant,Guide,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Sus,Trader,,M,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Sus,Sailor,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Sus,Rocket,,M,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Hotel,Chair,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Hotel,Angry,,M,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Hotel,Wife,,F,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Hotel,Creep,,F,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Gym,Lass,Lass,F,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Gym,Wife,Beauty,F,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Gym,Wife,Beauty,F,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Gym,Lass,Jr Trainer F,F,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Gym,Lass,Lass,F,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Gym,Lass,Cooltrainer F,F,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Gym,Wife,Beauty,F,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Celadon City,Gym,Erika,Erika,F,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Rocket Hideout,Rocket Hideout,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Rocket Hideout,Rocket Hideout,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Rocket Hideout,Rocket Hideout,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Rocket Hideout,Rocket Hideout,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Rocket Hideout,Rocket Hideout,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Rocket Hideout,Rocket Hideout,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Rocket Hideout,Rocket Hideout,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Rocket Hideout,Rocket Hideout,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Rocket Hideout,Rocket Hideout,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Rocket Hideout,Rocket Hideout,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 16,Gatehouse,Bald Man,,M,5,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 16,Gatehouse,Guard,,M,4,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 16,North,Copy,,F,2,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 16,N,Biker,Biker,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 16,N,Biker,Cue Ball,M,4,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 16,N,Biker,Biker,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 16,N,Biker,Cue Ball,M,4,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 16,N,Biker,Biker,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 16,N,Biker,Cue Ball,M,4,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 12,Gatehouse,Guard,,M,4,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 12,Gatehouse,Copy,,F,2,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 12,N,Large Man,Fisherman,M,4,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 12,N,Large Man,Fisherman,M,4,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 12,N,Large Man,Fisherman,M,4,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 12,N,Angry,Rocker,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 12,N,Large Man,Fisherman,M,4,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 12,N,Ace,Jr Trainer M,M,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 12,House,Safari,,M,4,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 13,N,Lass,Jr Trainer F,F,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 13,N,Ace,Bird Keeper,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 13,N,Lass,Jr Trainer F,F,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 13,N,Wife,Beauty,F,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 13,N,Wife,Beauty,F,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 13,N,Lass,Jr Trainer F,F,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 13,N,Lass,Jr Trainer F,F,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 13,N,Ace,Bird Keeper,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 13,N,Biker,Biker,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 13,N,Ace,Bird Keeper,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 13,N,Ace,Bird Keeper,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 13,N,Ace,Bird Keeper,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 13,N,Ace,Bird Keeper,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 13,N,Ace,Bird Keeper,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 14,N,Biker,Biker,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 14,N,Ace,Bird Keeper,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 14,N,Biker,Biker,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 14,N,Biker,Biker,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 14,N,Ace,Bird Keeper,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 14,N,Biker,Biker,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 15,N,Wife,Beauty,F,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 15,N,Lass,Jr Trainer F,F,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 15,N,Biker,Biker,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 15,N,Lass,Jr Trainer F,F,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 15,N,Wife,Beauty,F,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 15,N,Ace,Bird Keeper,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 15,N,Ace,Bird Keeper,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 15,N,Lass,Jr Trainer F,F,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 15,N,Lass,Jr Trainer F,F,2,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Fuchsia,Gatehouse,Guard,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Fuchsia,Gatehouse,Aide,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Fuchsia,N,Bald Man,,M,5,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Fuchsia,N,Large Man,,M,4,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Fuchsia,N,Boy,,M,2,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Fuchsia,N,Boy,,M,2,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Fuchsia,Poke,Joy,,F,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Fuchsia,Poke,Bangs,,F,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Fuchsia,Poke,Chair,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Fuchsia,Poke,Lass,,F,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Fuchsia,Poke,Surge,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Fuchsia,SW,Woman,,F,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Fuchsia,SW,Boy,,M,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Fuchsia,SW,Bald Man,,M,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Fuchsia,Warden,Teeth,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Fuchsia,SE,Safari,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Fuchsia,C,Ranger,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Fuchsia,C,Ranger,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Fuchsia,C,Ranger,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Fuchsia,Mart,Specs,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Fuchsia,Mart,Lass,,F,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Fuchsia,Mart,Blaine,,M,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Fuchsia,Gym,Guide,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Fuchsia,Gym,Surge,Juggler,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Fuchsia,Gym,Surge,Juggler,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Fuchsia,Gym,Surge,Juggler,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Fuchsia,Gym,Surge,Juggler,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Fuchsia,Gym,Surge,Tamer,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Fuchsia,Gym,Surge,Tamer,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Fuchsia,Gym,Koga,Koga,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Safari,Entrance,Ranger,,M,4,Safari Zone,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Safari,Entrance,Ranger,,M,4,Safari Zone,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Safari,Zone S House,Aide,,M,4,Safari Zone,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Safari,Zone S House,Girl,,F,3,Safari Zone,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Safari,Zone E House,Aide,,M,4,Safari Zone,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Safari,Zone E House,Surge,,M,4,Safari Zone,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Safari,Zone E House,Freak,,M,4,Safari Zone,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Safari,Zone N House,Gent,,M,5,Safari Zone,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Safari,Zone N House,Aide,,M,4,Safari Zone,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Safari,Zone N House,Ranger,,M,4,Safari Zone,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Safari,Secret House,Safari,,M,4,Safari Zone,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Safari,Zone W House,Erika,,F,4,Safari Zone,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Safari,Zone W House,Aide,,M,4,Safari Zone,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Safari,Zone W House,Ace,,M,3,Safari Zone,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 18,N,Ace,Bird Keeper,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 18,N,Ace,Bird Keeper,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 18,N,Ace,Bird Keeper,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 18,Gatehouse,Guard,,M,4,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 18,Gatehouse,Boy,,M,2,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 17,N,Biker,Biker,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 17,N,Biker,Biker,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 17,N,Biker,Cue Ball,M,4,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 17,N,Biker,Biker,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 17,N,Biker,Biker,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 17,N,Biker,Cue Ball,M,4,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 17,N,Biker,Cue Ball,M,4,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 17,N,Biker,Cue Ball,M,4,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 17,N,Biker,Cue Ball,M,4,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 17,N,Biker,Biker,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,W Gatehouse,Guard,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,E Gatehouse,Guard,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,S Gatehouse,Guard,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,N Gatehouse,Guard,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,N (Takeover),Rocket,,M,3,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,N (Takeover),Rocket,,M,3,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,N (Takeover),Rocket,,M,3,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,N (Takeover),Rocket,,M,3,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,N (Takeover),Rocket,,M,3,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,N (Takeover),Rocket,,M,3,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,N (Takeover),Rocket,,M,3,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,N (Takeover),Rocket,,M,3,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,Mr Psychic,Safari,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,Poke,Joy,,F,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,Poke,Chair,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,Poke,Bangs,,F,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,Poke,Gent,,M,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,Poke,Wife,,F,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,Mart,Specs,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,Mart,Angry,,M,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,Mart,Lass,,F,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,Dojo,Belt,Blackbelt,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,Dojo,Belt,Blackbelt,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,Dojo,Belt,Blackbelt,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,Dojo,Belt,Blackbelt,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,Dojo,Belt,Blackbelt,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,N (After),Erika,,F,4,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,N (After),Freak,,M,4,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,N (After),Aide,,M,4,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,N (After),Surge,,M,4,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,N (After),Gent,,M,5,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,NW,Boy,,M,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,NW,Copy,,F,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,Copy,Woman,,F,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,Copy,Blaine,,M,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,Copy,Copy,,F,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,Gym,Guide,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,Gym,Boy,Psychic,M,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,Gym,Ghost,Channeler,F,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,Gym,Boy,Psychic,M,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,Gym,Boy,Psychic,M,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,Gym,Ghost,Channeler,F,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,Gym,Boy,Psychic,M,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,Gym,Ghost,Channeler,F,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Saffron,Gym,Girl,Sabrina,F,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,2F,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,2F,Aide,Scientist,M,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,2F,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,2F,Aide,Scientist,M,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,2F,Erika,,F,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,3F,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,3F,Freak,,M,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,3F,Aide,Scientist,M,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,4F,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,4F,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,4F,Freak,,M,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,4F,Aide,Scientist,M,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,5F,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,5F,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,5F,Surge,Juggler,M,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,5F,Freak,,M,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,5F,Aide,Scientist,M,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,6F,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,6F,Freak,,M,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,6F,Freak,,M,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,6F,Freak,,M,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,6F,Erika,,F,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,6F,Erika,,F,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,6F,Aide,Scientist,M,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,6F,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,7F,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,7F,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,7F,Aide,Scientist,M,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,7F,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,7F,Erika,,F,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,7F,Freak,,M,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,7F,Freak,,M,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,7F,Freak,,M,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,8F,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,8F,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,8F,Aide,Scientist,M,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,8F,Freak,,M,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,9F,Aide,Scientist,M,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,9F,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,9F,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,9F,Joy,,F,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,10F,Aide,Scientist,M,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,10F,Erika,,F,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,10F,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,11F,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,11F,Rocket,Rocket,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,11F,Pres,,M,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,11F,Wife,,F,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Silph Co,1F (After),Bangs,,F,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 19,N,Ace,Swimmer,M,3,Water Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 19,N,Ace,Swimmer,M,3,Water Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 19,Water,Swim,Swimmer,M,3,Water Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 19,Water,Swim,Swimmer,M,3,Water Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 19,Water,Swim,Swimmer,M,3,Water Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 19,Water,Swim,Swimmer,M,3,Water Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 19,Water,Swim,Swimmer,M,3,Water Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 19,Water,Swim,Beauty,F,3,Water Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 19,Water,Swim,Beauty,F,3,Water Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 19,Water,Swim,Beauty,F,3,Water Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 20,Water,Swim,Swimmer,M,3,Water Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 20,Water,Swim,Swimmer,M,3,Water Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 20,Water,Swim,Beauty,F,3,Water Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 20,Water,Swim,Beauty,F,3,Water Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 20,Water,Swim,Beauty,F,3,Water Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 20,Water,Swim,Jr Trainer F,F,3,Water Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 20,Water,Swim,Beauty,F,3,Water Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 20,Water,Swim,Swimmer,M,3,Water Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 20,Water,Swim,Jr Trainer F,F,3,Water Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 20,Pier,Ace,Bird Keeper,M,3,Water Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 21,Pier,Large Man,Fisherman,M,4,Water Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 21,Pier,Large Man,Fisherman,M,4,Water Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 21,Pier,Large Man,Fisherman,M,4,Water Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 21,Pier,Large Man,Fisherman,M,4,Water Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 21,Water,Swim,Cue Ball,M,4,Water Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 21,Water,Swim,Swimmer,M,3,Water Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 21,Water,Swim,Swimmer,M,3,Water Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cinnabar Island,Poke,Joy,,F,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cinnabar Island,Poke,Chair,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cinnabar Island,Poke,Bangs,,F,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cinnabar Island,Poke,Gent,,M,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cinnabar Island,Poke,Lass,,F,2,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cinnabar Island,N,Bald Man,,M,5,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cinnabar Island,N,Girl,,F,3,City,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cinnabar Island,Mart,Aide,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cinnabar Island,Mart,Erika,,F,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cinnabar Island,Mart,Specs,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cinnabar Island,Lab,Safari,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cinnabar Island,Lab,Trader,,M,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cinnabar Island,Lab,Angry,,M,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cinnabar Island,Lab,Wife,,F,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cinnabar Island,Lab,Aide,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cinnabar Island,Lab,Aide,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cinnabar Island,Lab,Aide,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cinnabar Island,Lab,Aide,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cinnabar Island,Gym,Guide,,M,4,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cinnabar Island,Gym,Angry,Burglar,M,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cinnabar Island,Gym,Angry,Super Nerd,M,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cinnabar Island,Gym,Angry,Super Nerd,M,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cinnabar Island,Gym,Angry,Burglar,M,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cinnabar Island,Gym,Angry,Super Nerd,M,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cinnabar Island,Gym,Angry,Burglar,M,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cinnabar Island,Gym,Angry,Super Nerd,M,3,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Cinnabar Island,Gym,Blaine,Blaine,M,5,City,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pokemon Mansion,Pokemon Mansion,Angry,Burglar,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pokemon Mansion,Pokemon Mansion,Angry,Burglar,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pokemon Mansion,Pokemon Mansion,Aide,Scientist,M,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pokemon Mansion,Pokemon Mansion,Aide,Scientist,M,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pokemon Mansion,Pokemon Mansion,Angry,Burglar,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Pokemon Mansion,Pokemon Mansion,Aide,Scientist,M,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 23,Gatehouse,Guard,,M,4,Route,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 23,N,Guard,,M,4,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 23,N,Guard,,M,4,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 23,N,Guard,,M,4,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 23,N,Swim,,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 23,N,Swim,,M,3,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 23,N,Guard,,M,4,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Route 23,N,Guard,,M,4,Route,Outside,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Victory Road,Victory Road,Ace,Cooltrainer M,M,3,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Victory Road,Victory Road,Lass,Cooltrainer F,F,2,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Victory Road,Victory Road,Belt,Blackbelt,M,4,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Victory Road,Victory Road,Surge,Tamer,M,4,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Victory Road,Victory Road,Angry,Juggler,M,3,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Victory Road,Victory Road,Ace,Cooltrainer M,M,3,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Victory Road,Victory Road,Ace,Cooltrainer M,M,3,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Victory Road,Victory Road,Lass,Cooltrainer F,F,2,Cave,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Indigo Plateau,Indigo Plateau,Joy,,F,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Indigo Plateau,Indigo Plateau,Bangs,,F,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Indigo Plateau,Indigo Plateau,Guide,,M,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Indigo Plateau,Indigo Plateau,Specs,,M,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Indigo Plateau,Indigo Plateau,Lass,,F,2,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Indigo Plateau,Indigo Plateau,Lorelei,Lorelei,F,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Indigo Plateau,Indigo Plateau,Bruno,Bruno,M,4,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Indigo Plateau,Indigo Plateau,Agatha,Agatha,F,5,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/
+Indigo Plateau,Indigo Plateau,Lance,Lance,M,3,Building,,https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/

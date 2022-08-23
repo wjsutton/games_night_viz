@@ -1,0 +1,271 @@
+﻿README: This is The Witcher 3 Gwent game data sourced from https://witcher.fandom.com/wiki/Gwent. Viewer discretion advised due to profanity.,,,,,,
+,,,,,,
+Card Pack,Card Name,Type,Row,Strength,Ability,Retrieval Source
+Monsters,Arachas,Unit,Close Combat,4,Muster: Find any cards with the same name in your deck and play them instantly.,1 purchased from Arinbjorn's innkeep
+Monsters,Arachas,Unit,Close Combat,4,Muster: Find any cards with the same name in your deck and play them instantly.,1 purchased from Urialla Harbor's innkeep
+Monsters,Arachas,Unit,Close Combat,4,Muster: Find any cards with the same name in your deck and play them instantly.,1 purchased from Svorlag's innkeep
+Monsters,Arachas Behemoth,Unit,Siege,6,Muster: Find any cards with the same name in your deck and play them instantly.,Random reward from gwent players
+Monsters,Botchling,Unit,Close Combat,4,,Purchased from Jonas at The New Port
+Monsters,Celaeno Harpy,Unit,Close or Ranged Combat,2,Agile: Can be placed in either the Close Combat or the Ranged Combat row. Cannot be moved once placed.,Random reward from gwent players
+Monsters,Cockatrice,Unit,Ranged Combat,2,,Random reward from gwent players
+Monsters,Crone: Brewess,Unit,Close Combat,6,Muster: Find any cards with the same name in your deck and play them instantly.,Random reward from gwent players
+Monsters,Crone: Weavess,Unit,Close Combat,6,Muster: Find any cards with the same name in your deck and play them instantly.,Won from the Old Sage during Gwent: Velen Players
+Monsters,Crone: Whispess,Unit,Close Combat,6,Muster: Find any cards with the same name in your deck and play them instantly.,Purchased from Arinbjorn's innkeep
+Monsters,Draug,Hero,Close Combat,10,Hero: Not affected by any Special Cards or abilities.,Won from Crach an Craite during Gwent: Skellige Style
+Monsters,Earth Elemental,Unit,Siege,6,,Purchased from Jonas at The New Port
+Monsters,Endrega,Unit,Ranged Combat,2,,Random reward from gwent players
+Monsters,Eredin Bréacc Glas: The Treacherous,Leader,N/A,N/A,Doubles the strength of all spy cards (affects both players).,Purchased from Dulla kh'Amanni in Upper Mill
+Monsters,Eredin: Bringer of Death,Leader,N/A,N/A,Restore a card from your discard pile to your hand.,Won from Count Tybalt during High Stakes
+Monsters,Eredin: Commander of the Red Riders,Leader,N/A,N/A,Double the strength of all your Close Combat units (unless a Commander's horn is also present on that row).,Purchased from Jonas at The New Port
+Monsters,Eredin: Destroyer of Worlds,Leader,N/A,N/A,Discard 2 card and draw 1 card of your choice from your deck.,Won during Gwent: Velen Players
+Monsters,Eredin: King of the Wild Hunt,Leader,N/A,N/A,Pick any weather card from your deck and play it instantly.,Part of the base deck
+Monsters,Fiend,Unit,Close Combat,6,,Purchased from Arinbjorn's innkeep
+Monsters,Fire Elemental,Unit,Siege,6,,Random reward from gwent players
+Monsters,Foglet,Unit,Close Combat,2,,Purchased from Svorlag's innkeep
+Monsters,Forktail,Unit,Close Combat,5,,Random reward from gwent players
+Monsters,Frightener,Unit,Close Combat,5,,Random reward from gwent players
+Monsters,Gargoyle,Unit,Ranged Combat,2,,Random reward from gwent players
+Monsters,Ghoul,Unit,Close Combat,1,Muster: Find any cards with the same name in your deck and play them instantly.,2 are random rewards from gwent players
+Monsters,Ghoul,Unit,Close Combat,1,Muster: Find any cards with the same name in your deck and play them instantly.,1 purchased from Harviken's innkeep
+Monsters,Grave Hag,Unit,Ranged Combat,5,,Random reward from gwent players
+Monsters,Griffin,Unit,Close Combat,5,,Random reward from gwent players
+Monsters,Harpy,Unit,Close or Ranged Combat,2,Agile: Can be placed in either the Close Combat or the Ranged Combat row. Cannot be moved once placed.,Purchased from Harviken's innkeep
+Monsters,Ice Giant,Unit,Siege,5,,Purchased from Svorlag's innkeep
+Monsters,Imlerith,Hero,Close Combat,10,Hero: Not affected by any Special Cards or abilities.,Random reward from gwent players
+Monsters,Kayran,Hero,Close or Ranged Combat,8,Hero: Not affected by any Special Cards or abilities.,Random reward from gwent players
+Monsters,Kayran,Hero,Close or Ranged Combat,8,Morale boost: Adds +1 to all units in the row (excluding itself).,
+Monsters,Kayran,Hero,Close or Ranged Combat,8,Agile: Can be placed in either the Close Combat or the Ranged Combat row. Cannot be moved once placed.,
+Monsters,Leshen,Hero,Ranged Combat,10,Hero: Not affected by any Special Cards or abilities.,Won from Ermion during Gwent: Skellige Style
+Monsters,Nekker,Unit,Close Combat,2,Muster: Find any cards with the same name in your deck and play them instantly.,1 obtained during Following the Thread off Hammond's corpse
+Monsters,Nekker,Unit,Close Combat,2,Muster: Find any cards with the same name in your deck and play them instantly.,1 purchased from Harviken's innkeep
+Monsters,Nekker,Unit,Close Combat,2,Muster: Find any cards with the same name in your deck and play them instantly.,1 as random reward from gwent players
+Monsters,Plague Maiden,Unit,Close Combat,5,,Random reward from gwent players
+Monsters,Toad,Unit,Ranged Combat,7,Scorch - Ranged: Destroy your enemy's strongest Ranged Combat unit(s) if the combined strength of all his or her Ranged Combat units is 10 or more.,Won from Olgierd von Everec
+Monsters,Vampire: Bruxa,Unit,Close Combat,4,Muster: Find any cards with the same name in your deck and play them instantly,Won during A Matter of Life and Death
+Monsters,Vampire: Bruxa,Unit,Close Combat,4,Muster: Find any cards with the same name in your deck and play them instantly,Blood and Wine expansion: Rewarded for removing Louis' urn in Till Death Do You Part
+Monsters,Vampire: Ekimmara,Unit,Close Combat,4,Muster: Find any cards with the same name in your deck and play them instantly,Purchased from Svorlag's innkeep
+Monsters,Vampire: Fleder,Unit,Close Combat,4,Muster: Find any cards with the same name in your deck and play them instantly,Purchased from Harviken's innkeep
+Monsters,Vampire: Garkain,Unit,Close Combat,4,Muster: Find any cards with the same name in your deck and play them instantly,Random reward from gwent players
+Monsters,Vampire: Katakan,Unit,Close Combat,5,Muster: Find any cards with the same name in your deck and play them instantly.,Won from Madman Lugos during Gwent: Skellige Style
+Monsters,Werewolf,Unit,Close Combat,5,,Purchased from Urialla Harbor's innkeep
+Monsters,Wyvern,Unit,Ranged Combat,2,,Random reward from gwent players
+Nilfgaardian Empire,Albrich,Unit,Ranged Combat,2,,Purchased from Crow's Perch's trader
+Nilfgaardian Empire,Assire var Anahid,Unit,Ranged Combat,6,,Random reward from gwent players
+Nilfgaardian Empire,Black Infantry Archer,Unit,Ranged Combat,10,,1 purchased from Claywich's merchant
+Nilfgaardian Empire,Black Infantry Archer,Unit,Ranged Combat,10,,1 purchased from Lindenvale's merchant
+Nilfgaardian Empire,Cahir Mawr Dyffryn aep Ceallach,Unit,Close Combat,6,,Random reward from gwent players
+Nilfgaardian Empire,Cynthia,Unit,Ranged Combat,4,,Purchased from Crow's Perch's quartermaster
+Nilfgaardian Empire,Emhyr var Emreis: Emperor of Nilfgaard,Leader,N/A,,Emperor of Nilfgaard: Look at 3 random cards from your opponent's hand.,Purchased from Inn at the Crossroads's innkeep
+Nilfgaardian Empire,Emhyr var Emreis: Emperor of Nilfgaard,Leader,N/A,,Emperor of Nilfgaard: Look at 3 random cards from your opponent's hand.,Purchased from Lindenvale's innkeep
+Nilfgaardian Empire,Emhyr var Emreis: His Imperial Majesty,Leader,N/A,,His Imperial Majesty: Pick a Torrential Rain card from your deck and play it instantly.,Part of the base deck
+Nilfgaardian Empire,Emhyr var Emreis: Invader of the North,Leader,N/A,,Invader of the North: Abilities that restore a unit to the battlefield restore a randomly-chosen unit. Affects both players.,Purchased from the merchant at the circus camp near Carsten
+Nilfgaardian Empire,Emhyr var Emreis: The Relentless,Leader,N/A,,The Relentless: Draw a card from your opponent's discard pile.,Won from Sasha during High Stakes
+Nilfgaardian Empire,Emhyr var Emreis: The White Flame,Leader,N/A,,The White Flame: Cancel your opponent's Leader Ability.,Won during Gwent: Skellige Style
+Nilfgaardian Empire,Etolian Auxiliary Archers,Unit,Ranged Combat,1,Medic: Choose one card from your discard pile and play it instantly (no Heroes or Special Cards).,1 purchased from Claywich's merchant
+Nilfgaardian Empire,Etolian Auxiliary Archers,Unit,Ranged Combat,1,Medic: Choose one card from your discard pile and play it instantly (no Heroes or Special Cards).,1 purchased from Lindenvale's merchant
+Nilfgaardian Empire,Fringilla Vigo,Unit,Ranged Combat,6,,Obtained during A Dangerous Game in Caesar Bilzen's house
+Nilfgaardian Empire,Heavy Zerrikanian Fire Scorpion,Unit,Siege,10,,Purchased from Lindenvale's merchant
+Nilfgaardian Empire,Impera Brigade Guard,Unit,Close Combat,3,Tight Bond: Place next to a card with the same name to double the strength of both cards.,1 purchased from Cunny of the Goose's innkeep
+Nilfgaardian Empire,Impera Brigade Guard,Unit,Close Combat,3,Tight Bond: Place next to a card with the same name to double the strength of both cards.,1 purchased from the Seven Cats Inn's innkeep
+Nilfgaardian Empire,Impera Brigade Guard,Unit,Close Combat,3,Tight Bond: Place next to a card with the same name to double the strength of both cards.,1 purchased from Crow's Perch's trader
+Nilfgaardian Empire,Impera Brigade Guard,Unit,Close Combat,3,Tight Bond: Place next to a card with the same name to double the strength of both cards.,1 purchased from Inn at the Crossroads' innkeep
+Nilfgaardian Empire,Impera Brigade Guard,Unit,Close Combat,3,Tight Bond: Place next to a card with the same name to double the strength of both cards.,1 purchased from Lindenvale's innkeep
+Nilfgaardian Empire,Letho of Gulet,Hero,Close Combat,10,Hero: Not affected by any Special Cards or abilities.,Won from the Boatwright during Gwent: Velen Players
+Nilfgaardian Empire,Menno Coehoorn,Hero,Close Combat,10,Hero: Not affected by any Special Cards or abilities.,Won from Inn at the Crossroads' innkeep during Gwent: Playing Innkeeps
+Nilfgaardian Empire,Menno Coehoorn,Hero,Close Combat,10,Medic: Choose one card from your discard pile and play it instantly (no Heroes or Special Cards).,
+Nilfgaardian Empire,Morteisen,Unit,Close Combat,3,,Purchased from Midcopse's merchant
+Nilfgaardian Empire,Morvran Voorhis,Hero,Siege,10,Hero: Not affected by any Special Cards or abilities.,Won from Marquise Serenity during Gwent: Big City Players
+Nilfgaardian Empire,Nausicaa Cavalry Rider,Unit,Close Combat,2,Tight Bond: Place next to a card with the same name to double the strength of both cards.,1 purchased from Crow's Perch's quartermaster
+Nilfgaardian Empire,Nausicaa Cavalry Rider,Unit,Close Combat,2,Tight Bond: Place next to a card with the same name to double the strength of both cards.,1 purchased from Crow's Perch's trader
+Nilfgaardian Empire,Nausicaa Cavalry Rider,Unit,Close Combat,2,Tight Bond: Place next to a card with the same name to double the strength of both cards.,1 purchased from Inn at the Crossroads' innkeep
+Nilfgaardian Empire,Nausicaa Cavalry Rider,Unit,Close Combat,2,Tight Bond: Place next to a card with the same name to double the strength of both cards.,1 purchased from Lindenvale's innkeep
+Nilfgaardian Empire,Puttkammer,Unit,Ranged Combat,3,,Purchased from Claywich's merchant
+Nilfgaardian Empire,Rainfarn,Unit,Close Combat,4,,Purchased from Lindenvale's merchant
+Nilfgaardian Empire,Renuald aep Matsen,Unit,Ranged Combat,5,,Random reward from gwent players
+Nilfgaardian Empire,Rotten Mangonel,Unit,Siege,3,,Random reward from gwent players
+Nilfgaardian Empire,Shilard Fitz-Oesterlen,Unit,Close Combat,7,Spy: Place on your opponent's battlefield (counts towards your opponent's total) and draw 2 cards from your deck.,Random reward from gwent players
+Nilfgaardian Empire,Siege Engineer,Unit,Siege,6,,Purchased from Inn at the Crossroads' innkeep
+Nilfgaardian Empire,Siege Engineer,Unit,Siege,6,,Purchased from Lindenvale's innkeep
+Nilfgaardian Empire,Siege Technician,Unit,Siege,0,Medic: Choose one card from your discard pile and play it instantly (no Heroes or Special Cards).,Purchased from The Golden Sturgeon's innkeep
+Nilfgaardian Empire,Siege Technician,Unit,Siege,0,Medic: Choose one card from your discard pile and play it instantly (no Heroes or Special Cards).,Hearts of Stone expansion: 1 can be purchased from the merchant at the circus camp near Carsten
+Nilfgaardian Empire,Stefan Skellen,Unit,Close Combat,9,Spy: Place on your opponent's battlefield (counts towards opponent's total) and draw 2 cards from your deck.,Random reward from gwent players
+Nilfgaardian Empire,Sweers,Unit,Ranged Combat,2,,Purchased from Claywich's merchant
+Nilfgaardian Empire,Tibor Eggebracht,Hero,Ranged Combat,10,Hero: Not affected by any Special Cards or abilities.,Won from Olivier during Gwent: Playing Innkeeps
+Nilfgaardian Empire,Vanhemar,Unit,Ranged Combat,4,,Random reward from gwent players
+Nilfgaardian Empire,Vattier de Rideaux,Unit,Close Combat,4,Spy: Place on your opponent's battlefield (counts towards opponent's total) and draw 2 cards from your deck.,Random reward from gwent players
+Nilfgaardian Empire,Vreemde,Unit,Close Combat,2,,Random reward from gwent players
+Nilfgaardian Empire,Young Emissary,Unit,Close Combat,5,Tight Bond: Place next to a card with the same name to double the strength of both cards.,1 purchased from Cunny of the Goose's innkeep
+Nilfgaardian Empire,Young Emissary,Unit,Close Combat,5,Tight Bond: Place next to a card with the same name to double the strength of both cards.,1 purchased from the Seven Cats Inn's innkeep
+Nilfgaardian Empire,Zerrikanian Fire Scorpion,Unit,Siege,5,,Purchased from Crow's Perch's trader
+Northern Realms,Ballista,Unit,Siege,6,,Part of the base deck
+Northern Realms,Blue Stripes Commando,Unit,Close Combat,4,Tight Bond: Place next to a card with the same name to double the strength of both cards.,1 purchased from Elsa or Bram in White Orchard
+Northern Realms,Blue Stripes Commando,Unit,Close Combat,4,Tight Bond: Place next to a card with the same name to double the strength of both cards.,1 purchased from Crow's Perch's quartermaster
+Northern Realms,Blue Stripes Commando,Unit,Close Combat,4,Tight Bond: Place next to a card with the same name to double the strength of both cards.,1 purchased from Midcopse's merchant
+Northern Realms,Catapult,Unit,Siege,8,Tight Bond: Place next to a card with the same name to double the strength of both cards.,1 purchased from Elsa or Bram in White Orchard
+Northern Realms,Catapult,Unit,Siege,8,Tight Bond: Place next to a card with the same name to double the strength of both cards.,1 purchased from Marquise Serenity at the Passiflora
+Northern Realms,Catapult,Unit,Siege,8,Tight Bond: Place next to a card with the same name to double the strength of both cards.,Hearts of Stone expansion: 1 can be purchased from the merchant at the circus camp near Carsten
+Northern Realms,Crinfrid Reavers Dragon Hunter,Unit,Ranged Combat,5,Tight Bond: Place next to a card with the same name to double the strength of both cards.,1 purchased from Elsa or Bram in White Orchard
+Northern Realms,Crinfrid Reavers Dragon Hunter,Unit,Ranged Combat,5,Tight Bond: Place next to a card with the same name to double the strength of both cards.,1 purchased from Claywich's merchant
+Northern Realms,Crinfrid Reavers Dragon Hunter,Unit,Ranged Combat,5,Tight Bond: Place next to a card with the same name to double the strength of both cards.,1 purchased from Midcopse's merchant
+Northern Realms,Dethmold,Unit,Ranged Combat,6,,Part of the base deck
+Northern Realms,Dun Banner Medic,Unit,Siege,5,Medic: Choose one card from your discard pile and play it instantly (no Heroes or Special Cards).,Part of the base deck
+Northern Realms,Esterad Thyssen,Hero,Close Combat,10,Hero: Not affected by any Special Cards or abilities.,Won from Sigismund Dijkstra during Gwent: Big City Players
+Northern Realms,Foltest: King of Temeria,Leader,N/A,,Pick an Impenetrable Fog card from your deck and play it instantly.,Part of the base deck
+Northern Realms,Foltest: Lord Commander of the North,Leader,N/A,,"Clear any weather effects (resulting from Biting Frost, Torrential Rain or Impenetrable Fog cards) in play.",Purchased from Elsa or Bram in White Orchard
+Northern Realms,Foltest: Son of Medell,Leader,N/A,,Destroy your enemy's strongest Ranged Combat unit(s) if the combined strength of all his or her Ranged Combat units is 10 or more.,Purchased from the merchant at the circus camp near Carsten
+Northern Realms,Foltest: The Siegemaster,Leader,N/A,,Doubles the strength of all your Siege units (unless a Commander's Horn is also present on that row).,Won from the Nilfgaardian nobleman in Vizima
+Northern Realms,Foltest: The Steel-Forged,Leader,N/A,,Destroy your enemy's strongest Siege unit(s) if the combined strength of all his or her Siege units is 10 or more.,Won during High Stakes
+Northern Realms,John Natalis,Hero,Close Combat,10,Hero: Not affected by any Special Cards or abilities.,Obtained during A Dangerous Game from Earl
+Northern Realms,Kaedweni Siege Expert,Unit,Siege,1,Morale boost: Adds +1 to all units in the row (excluding itself).,Part of the base deck
+Northern Realms,Keira Metz,Unit,Ranged Combat,5,,Part of the base deck
+Northern Realms,Philippa Eilhart,Hero,Ranged Combat,10,Hero: Not affected by any Special Cards or abilities.,Random reward from gwent players
+Northern Realms,Poor Fucking Infantry,Unit,Close Combat,1,Tight Bond: Place next to a card with the same name to double the strength of both cards.,1 part of the base deck
+Northern Realms,Poor Fucking Infantry,Unit,Close Combat,1,Tight Bond: Place next to a card with the same name to double the strength of both cards.,1 purchased from Lindenvale's merchant
+Northern Realms,Poor Fucking Infantry,Unit,Close Combat,1,Tight Bond: Place next to a card with the same name to double the strength of both cards.,1 purchased from Midcopse's merchant
+Northern Realms,Prince Stennis,Unit,Close Combat,5,Spy: Place on your opponent's battlefield (counts towards opponent's total) and draw 2 cards from your deck.,Part of the base deck
+Northern Realms,Redanian Foot Soldier,Unit,Close Combat,1,,Part of the base deck
+Northern Realms,Sabrina Glevissig,Unit,Ranged Combat,4,,Part of the base deck
+Northern Realms,Sheldon Skaggs,Unit,Ranged Combat,4,,Part of the base deck
+Northern Realms,Siege Tower,Unit,Siege,6,,Random reward from gwent players
+Northern Realms,Siegfried of Denesle,Unit,Close Combat,5,,Part of the base deck
+Northern Realms,Sigismund Dijkstra,Unit,Close Combat,4,Spy: Place on your opponent's battlefield (counts towards opponent's total) and draw 2 cards from your deck.,Won from Phillip Strenger during Gwent: Velen Players
+Northern Realms,Síle de Tansarville,Unit,Ranged Combat,5,,Part of the base deck
+Northern Realms,Thaler,Unit,Siege,1,Spy: Place on your opponent's battlefield (counts towards opponent's total) and draw 2 cards from your deck.,Purchased from Arinbjorn's innkeep
+Northern Realms,Trebuchet,Unit,Siege,6,,Part of the base deck
+Northern Realms,Vernon Roche,Hero,Close Combat,10,Hero: Not affected by any Special Cards or abilities.,Won from Haddy during Gwent: Velen Players
+Northern Realms,Ves,Unit,Close Combat,5,,Part of the base deck
+Northern Realms,Yarpen Zigrin,Unit,Close Combat,2,,Part of the base deck
+Scoia'tael,Barclay Els,Unit,Close or Ranged Combat,6,Agile: Can be placed in either the Close Combat or the Ranged Combat row. Cannot be moved once placed.,Purchased from the innkeep of The Golden Sturgeon in Novigrad
+Scoia'tael,Barclay Els,Unit,Close or Ranged Combat,6,Agile: Can be placed in either the Close Combat or the Ranged Combat row. Cannot be moved once placed.,Hearts of Stone expansion: 1 can be purchased from the merchant at the circus camp near Carsten
+Scoia'tael,Ciaran aep Easnillien,Unit,Close or Ranged Combat,3,Agile: Can be placed in either the Close Combat or the Ranged Combat row. Cannot be moved once placed.,Random reward from gwent players
+Scoia'tael,Dennis Cranmer,Unit,Close Combat,6,,Random reward from gwent players
+Scoia'tael,Dol Blathanna Archer,Unit,Ranged Combat,4,,Purchased from Marquise Serenity at the Passiflora
+Scoia'tael,Dol Blathanna Archer,Unit,Ranged Combat,4,,Hearts of Stone expansion: 1 can be purchased from the merchant at the circus camp near Carsten
+Scoia'tael,Dol Blathanna Scout,Unit,Close or Ranged Combat,6,Agile: Can be placed in either the Close Combat or the Ranged Combat row. Cannot be moved once placed.,1 purchased from the The Golden Sturgeon's Innkeep
+Scoia'tael,Dol Blathanna Scout,Unit,Close or Ranged Combat,6,Agile: Can be placed in either the Close Combat or the Ranged Combat row. Cannot be moved once placed.,2 are random rewards from gwent players
+Scoia'tael,Dol Blathanna Scout,Unit,Close or Ranged Combat,6,Agile: Can be placed in either the Close Combat or the Ranged Combat row. Cannot be moved once placed.,Hearts of Stone expansion: 1 can be purchased from the merchant at the circus camp near Carsten
+Scoia'tael,Dwarven Skirmisher,Unit,Close Combat,3,Muster: Find any cards with the same name in your deck and play them instantly.,1 purchased from Stjepan at The Alchemy
+Scoia'tael,Dwarven Skirmisher,Unit,Close Combat,3,Muster: Find any cards with the same name in your deck and play them instantly.,2 are random rewards from gwent players
+Scoia'tael,Eithné,Hero,Ranged Combat,10,Hero: Not affected by any Special Cards or abilities.,Won from Zoltan during Gwent: Old Pals
+Scoia'tael,Elven Skirmisher,Unit,Ranged Combat,2,Muster: Find any cards with the same name in your deck and play them instantly.,1 purchased from Urialla Harbor's Innkeep
+Scoia'tael,Elven Skirmisher,Unit,Ranged Combat,2,Muster: Find any cards with the same name in your deck and play them instantly.,2 are random rewards from gwent players
+Scoia'tael,Filavandrel aen Fidhail,Unit,Close or Ranged Combat,6,Agile: Can be placed in either the Close Combat or the Ranged Combat row. Cannot be moved once placed.,Random reward from gwent players
+Scoia'tael,Francesca Findabair: Daisy of the Valley,Leader,N/A,,Daisy of the Valley: Draw an extra card at the beginning of the battle.,Purchased from Cunny of the Goose's Innkeep
+Scoia'tael,Francesca Findabair: Hope of the Aen Seidhe,Leader,N/A,,Hope of the Aen Seidhe: Move agile units to whichever valid row maximizes their strength (don't move units already in optimal row).,Purchased from Dulla kh'Amanni at Upper Mill
+Scoia'tael,Francesca Findabair: Pureblood Elf,Leader,N/A,,Pureblood Elf: Pick a Biting Frost card from your deck and play it instantly.,Part of the base deck
+Scoia'tael,Francesca Findabair: Queen of Dol Blathanna,Leader,N/A,,Queen of Dol Blathanna: Destroy your enemy's strongest Close Combat unit(s) if the combined strength of all his or her Close Combat units is 10 or more.,Won from Finneas during High Stakes
+Scoia'tael,Francesca Findabair: The Beautiful,Leader,N/A,,The Beautiful: Doubles the strength of all your Ranged Combat units (unless a Commander's Horn is also present on that row).,Won during Gwent: Big City Players
+Scoia'tael,Havekar Healer,Unit,Ranged Combat,0,Medic: Choose one card from your discard pile and play it instantly (no Heroes or Special Cards).,1 purchased from The Kingfisher Inn's Innkeep
+Scoia'tael,Havekar Healer,Unit,Ranged Combat,0,Medic: Choose one card from your discard pile and play it instantly (no Heroes or Special Cards).,1 purchased from the Cunny of the Goose's Innkeep
+Scoia'tael,Havekar Healer,Unit,Ranged Combat,0,Medic: Choose one card from your discard pile and play it instantly (no Heroes or Special Cards).,1 is a random reward from gwent players
+Scoia'tael,Havekar Healer,Unit,Ranged Combat,0,Medic: Choose one card from your discard pile and play it instantly (no Heroes or Special Cards).,Hearts of Stone expansion: 1 can be purchased from the merchant at the circus camp near Carsten
+Scoia'tael,Havekar Smuggler,Unit,Close Combat,5,Muster: Find any cards with the same name in your deck and play them instantly.,1 purchased from The Kingfisher Inn's Innkeep
+Scoia'tael,Havekar Smuggler,Unit,Close Combat,5,Muster: Find any cards with the same name in your deck and play them instantly.,1 purchased from the Seven Cats Inn's Innkeep
+Scoia'tael,Havekar Smuggler,Unit,Close Combat,5,Muster: Find any cards with the same name in your deck and play them instantly.,1 is a random reward from gwent players
+Scoia'tael,Havekar Smuggler,Unit,Close Combat,5,Muster: Find any cards with the same name in your deck and play them instantly.,Hearts of Stone expansion: 1 can be purchased from the merchant at the circus camp near Carsten
+Scoia'tael,Ida Emean aep Sivney,Unit,Ranged Combat,6,,Random reward from gwent players
+Scoia'tael,Iorveth,Hero,Ranged Combat,10,Hero: Not affected by any Special Cards or abilities.,Reward for completing Shock Therapy
+Scoia'tael,Isengrim Faoiltiarna,Hero,Close Combat,10,Morale boost: Adds +1 to all units in the row (excluding itself).,"During A Dangerous Game, off one of the bandits in Zed's house"
+Scoia'tael,Isengrim Faoiltiarna,Hero,Close Combat,10,Hero: Not affected by any Special Cards or abilities.,
+Scoia'tael,Mahakaman Defender,Unit,Close Combat,5,,1 purchased from The Kingfisher Inn's Innkeep
+Scoia'tael,Mahakaman Defender,Unit,Close Combat,5,,1 purchased from the Seven Cats Inn's Innkeep
+Scoia'tael,Mahakaman Defender,Unit,Close Combat,5,,1 purchased from The Golden Sturgeon's Innkeep
+Scoia'tael,Mahakaman Defender,Unit,Close Combat,5,,1 purchased from Marquise Serenity at the Passiflora
+Scoia'tael,Mahakaman Defender,Unit,Close Combat,5,,1 purchased from Stjepan at The Alchemy
+Scoia'tael,Mahakaman Defender,Unit,Close Combat,5,,Hearts of Stone expansion: 3 can be purchased from the merchant at the circus camp near Carsten
+Scoia'tael,Milva,Unit,Ranged Combat,10,Morale boost: Adds +1 to all units in the row (excluding itself).,Won during A Matter of Life and Death
+Scoia'tael,Riordain,Unit,Ranged Combat,1,,Random reward from gwent players
+Scoia'tael,Saesenthessis,Hero,Ranged Combat,10,Hero: Not affected by any Special Cards or abilities.,Won from Vernon Roche during Gwent: Old Pals
+Scoia'tael,Schirrú,Unit,Siege,8,Scorch - Siege: Destroys your enemy's strongest Siege Combat unit(s) if the combined strength of all his or her Siege Combat units is 10 or more.,Won from the merchant at the circus northwest of Carsten
+Scoia'tael,Toruviel,Unit,Ranged Combat,2,,Random reward from gwent players
+Scoia'tael,Vrihedd Brigade Recruit,Unit,Ranged Combat,4,,Random reward from gwent players
+Scoia'tael,Vrihedd Brigade Veteran,Unit,Close or Ranged Combat,5,Agile: Can be placed in either the Close Combat or the Ranged Combat row. Cannot be moved once placed.,1 purchased from Stjepan at The Alchemy
+Scoia'tael,Vrihedd Brigade Veteran,Unit,Close or Ranged Combat,5,Agile: Can be placed in either the Close Combat or the Ranged Combat row. Cannot be moved once placed.,1 purchased from The Kingfisher Inn's Innkeep
+Scoia'tael,Vrihedd Brigade Veteran,Unit,Close or Ranged Combat,5,Agile: Can be placed in either the Close Combat or the Ranged Combat row. Cannot be moved once placed.,Hearts of Stone expansion: 1 can be purchased from the merchant at the circus camp near Carsten
+Scoia'tael,Yaevinn,Unit,Close or Ranged Combat,6,Agile: Can be placed in either the Close Combat or the Ranged Combat row. Cannot be moved once placed.,Won from Sjusta during Gwent: Skellige Style
+Skellige,Berserker,Unit,Close Combat,4,Transforms into a bear when a Mardroeme card is on its row.,Part of the base deck
+Skellige,Birna Bran,Unit,Close Combat,2,Medic: Choose one card from your discard pile and play it instantly (no Heroes or Special Cards).,Part of the base deck
+Skellige,Blueboy Lugos,Unit,Close Combat,6,,Part of the base deck
+Skellige,Cerys,Hero,Close Combat,10,Hero: Not affected by any Special Cards or abilities.,Won from The Barrel and Bung Inn's Innkeep
+Skellige,Cerys,Hero,Close Combat,10,Summon Shield Maidens: Summons all Shield Maidens from deck and hand.,
+Skellige,Clan Brokvar Archer,Unit,Ranged Combat,6,,2 are part of the base deck
+Skellige,Clan Brokvar Archer,Unit,Ranged Combat,6,,1 won from Castel Ravello Vineyard's herbalist
+Skellige,Clan Dimun Pirate,Unit,Ranged Combat,6,Scorch: Kills the strongest card(s) on the battlefield.,Won from Dupont & Sons' merchant
+Skellige,Clan Drummond Shield Maiden,Unit,Close Combat,4,Tight Bond: Place next to a card with the same name to double the strength of both cards.,1 is part of the base deck
+Skellige,Clan Drummond Shield Maiden,Unit,Close Combat,4,Tight Bond: Place next to a card with the same name to double the strength of both cards.,1 won from The Cockatrice Inn's innkeep
+Skellige,Clan Drummond Shield Maiden,Unit,Close Combat,4,Tight Bond: Place next to a card with the same name to double the strength of both cards.,1 won from the Francollarts' armorer
+Skellige,Clan Heymaey Skald,Unit,Close Combat,4,,Part of the base deck
+Skellige,Clan Tordarroch Armorsmith,Unit,Close Combat,4,,Part of the base deck
+Skellige,Clan an Craite Warrior,Unit,Close Combat,6,Tight Bond: Place next to a card with the same name to double the strength of both cards.,Part of the base deck
+Skellige,Crach an Craite,Leader,N/A,,Shuffle all cards from each player's graveyard back into their decks.,Part of the base deck
+Skellige,Donar an Hindar,Unit,Close Combat,4,,Part of the base deck
+Skellige,Draig Bon-Dhu,Unit,Siege,2,Commander's Horn: Doubles the strength of all unit cards in that row. Limited to 1 per row.,Won from The Pheasantry's innkeep
+Skellige,Ermion,Hero,Ranged Combat,8,Hero: Not affected by any Special Cards or abilities.,Won from Francollarts' innkeep
+Skellige,Ermion,Hero,Ranged Combat,8,Mardroeme: Triggers transformation of all Berserker cards on the same row.,
+Skellige,Hemdall,Hero,Close Combat,11,Hero: Not affected by any Special Cards or abilities.,Transformed version of Kambi
+Skellige,Hjalmar,Hero,Ranged Combat,10,Hero: Not affected by any Special Cards or abilities.,Part of the base deck
+Skellige,Holger Blackhand,Unit,Siege,4,,Part of the base deck
+Skellige,Kambi,Unit,Close Combat,0,"When this card is removed from the battlefield, it summons a powerful new Unit Card to take its place.",Won from Beauclair's armorer
+Skellige,King Bran,Leader,N/A,,Units only lose half their Strength in bad weather conditions.,Won from the Ducal Camerlengo in Beauclair
+Skellige,King Bran,Leader,N/A,,Units only lose half their Strength in bad weather conditions.,"Completing Gwent: To Everything - Turn, Turn, Tournament!"
+Skellige,Light Longship,Unit,Ranged Combat,4,Muster: Find any cards with the same name in your deck and play them instantly.,2 are part of the base deck
+Skellige,Light Longship,Unit,Ranged Combat,4,Muster: Find any cards with the same name in your deck and play them instantly.,1 won from the Perfumery's merchant
+Skellige,Madman Lugos,Unit,Close Combat,6,,Part of the base deck
+Skellige,Mardroeme,Special,N/A,,Triggers transformation of all Berserker cards on the same row.,1 is part of the base deck
+Skellige,Mardroeme,Special,N/A,,Triggers transformation of all Berserker cards on the same row.,1 won from The Belles of Beauclair's madame
+Skellige,Mardroeme,Special,N/A,,Triggers transformation of all Berserker cards on the same row.,1 won from the Herb Store's herbalist
+Skellige,Olaf,Unit,Close or Ranged Combat,12,Agile: Can be placed in either the Close Combat or the Ranged Combat row. Cannot be moved once placed.,Won from The Adder and Jewels Winery's sommelier
+Skellige,Olaf,Unit,Close or Ranged Combat,12,Morale boost: Adds +1 to all units in the row (excluding itself).,
+Skellige,Skellige Storm,Weather,N/A,,Reduces the Strength of all Range and Siege Units to 1.,1 is won from the Tourney Grounds' armorer
+Skellige,Skellige Storm,Weather,N/A,,Reduces the Strength of all Range and Siege Units to 1.,1 is won from the Tourney Grounds' barber
+Skellige,Skellige Storm,Weather,N/A,,Reduces the Strength of all Range and Siege Units to 1.,1 is won from Beauclair Port's butcher
+Skellige,Svanrige,Unit,Close Combat,4,,Part of the base deck
+Skellige,Transformed Vildkaarl,Unit,Close Combat,14,Morale boost: Adds +1 strength to all units in the row (excluding itself).,Transformed version of Berserker
+Skellige,Transformed Young Vildkaarl,Unit,Ranged Combat,8,Tight Bond: Place next to a card with the same name to double the strength of both cards.,Transformed version of Young Berserker
+Skellige,Udalryk,Unit,Close Combat,4,,Part of the base deck
+Skellige,War Longship,Unit,Siege,6,Tight Bond: Place next to a card with the same name to double the strength of both cards.,2 are part of the base deck
+Skellige,War Longship,Unit,Siege,6,Tight Bond: Place next to a card with the same name to double the strength of both cards.,1 won from the Tourney Grounds' innkeep
+Skellige,Young Berserker,Unit,Ranged Combat,2,Transforms into a bear when a Mardroeme card is on its row.,1 is part of the base deck
+Skellige,Young Berserker,Unit,Ranged Combat,2,Transforms into a bear when a Mardroeme card is on its row.,1 won from the Tourney Grounds' blacksmith
+Skellige,Young Berserker,Unit,Ranged Combat,2,Transforms into a bear when a Mardroeme card is on its row.,1 won from Pierre at Tailor's Workshop
+Neutral Cards,Biting Frost,Weather,N/A,,Sets the strength of all Close Combat cards to 1 for both players.,2 are part of the base deck
+Neutral Cards,Biting Frost,Weather,N/A,,,1 is a random reward from gwent players
+Neutral Cards,Bovine Defense Force,Unit,Close Combat,8,,Summoned by the removal of the Cow card during play
+Neutral Cards,Cirilla Fiona Elen Riannon,Hero,Close Combat,15,Hero: Not affected by any Special Cards or abilities.,Won from the Scoia'tael merchant during Gwent: Big City Players
+Neutral Cards,Clear Weather,Weather,N/A,,"Removes all Weather Card (Biting Frost, Impenetrable Fog and Torrential Rain) effects.",2 are part of the base deck
+Neutral Cards,Clear Weather,Weather,N/A,,"Removes all Weather Card (Biting Frost, Impenetrable Fog and Torrential Rain) effects.",1 is a random reward from gwent players
+Neutral Cards,Commander's Horn,Special,N/A,,Doubles the strength of all unit cards in that row. Limited to 1 per row.,1 purchased from the Inn at the Crossroads's Innkeep
+Neutral Cards,Commander's Horn,Special,N/A,,Doubles the strength of all unit cards in that row. Limited to 1 per row.,1 purchased from Lindenvale's innkeep
+Neutral Cards,Commander's Horn,Special,N/A,,Doubles the strength of all unit cards in that row. Limited to 1 per row.,1 purchased from Marquise Serenity at the Passiflora
+Neutral Cards,Commander's Horn,Special,N/A,,Doubles the strength of all unit cards in that row. Limited to 1 per row.,1 purchased from Stjepan at The Alchemy
+Neutral Cards,Commander's Horn,Special,N/A,,Doubles the strength of all unit cards in that row. Limited to 1 per row.,Hearts of Stone expansion: 1 can be purchased from the merchant at the circus camp near Carsten
+Neutral Cards,Cow,Unit,Ranged Combat,0,"When this card is removed from the battlefield, it summons a powerful new Unit Card to take its place.",Found inside a barn in Brunwich
+Neutral Cards,Dandelion,Unit,Close Combat,2,Commander's Horn: Doubles the strength of all unit cards in that row. Limited to 1 per row.,Won during A Matter of Life and Death
+Neutral Cards,Decoy,Special,N/A,,Swap with a card on the battlefield to return it to your hand.,1 purchased from Elsa or Bram in White Orchard
+Neutral Cards,Decoy,Special,N/A,,Swap with a card on the battlefield to return it to your hand.,1 purchased from Crow's Perch's Quartermaster
+Neutral Cards,Decoy,Special,N/A,,Swap with a card on the battlefield to return it to your hand.,1 purchased from the Seven Cats Inn's Innkeep
+Neutral Cards,Emiel Regis Rohellec Terzieff,Unit,Close Combat,5,,Random reward from gwent players
+Neutral Cards,Gaunter O'Dimm,Unit,Siege,2,Muster: Find any cards with the same name in your deck and play them instantly.,Won from Robert Hilbert during Open Sesame!
+Neutral Cards,Gaunter O'Dimm: Darkness,Unit,Ranged Combat,4,Muster: Find any cards with the same name in your deck and play them instantly.,1 purchased from Dulla kh'Amanni at Upper Mill
+Neutral Cards,Gaunter O'Dimm: Darkness,Unit,Ranged Combat,4,Muster: Find any cards with the same name in your deck and play them instantly.,2 purchased from the merchant at the circus camp near Carsten
+Neutral Cards,Geralt of Rivia,Hero,Close Combat,15,Hero: Not affected by any Special Cards or abilities.,Won from Thaler during Gwent: Playing Thaler
+Neutral Cards,Impenetrable Fog,Weather,N/A,,Sets the strength of all Ranged Combat cards to 1 for both players.,2 are part of the base deck
+Neutral Cards,Impenetrable Fog,Weather,N/A,,Sets the strength of all Ranged Combat cards to 1 for both players.,1 is a random reward from gwent players
+Neutral Cards,Mysterious Elf,Hero,Close Combat,0,Spy: Place on your opponent's battlefield (counts towards opponent's total) and draw 2 cards from your deck.,Won from Gremist during Gwent: Skellige Style
+Neutral Cards,Mysterious Elf,Hero,Close Combat,0,Hero: Not affected by any Special Cards or abilities.,
+Neutral Cards,Olgierd von Everec,Unit,Close or Ranged Combat,6,Morale boost: Adds +1 to all units in the row (excluding itself).,Won from Shani
+Neutral Cards,Olgierd von Everec,Unit,Close or Ranged Combat,6,Agile: Can be placed in either the Close Combat or the Ranged Combat row. Cannot be moved once placed.,
+Neutral Cards,Scorch,Special,N/A,,Scorch: Discards after playing. Kills the strongest card(s) on the battlefield.,1 purchased from the Cunny of the Goose's Innkeep
+Neutral Cards,Scorch,Special,N/A,,Scorch: Discards after playing. Kills the strongest card(s) on the battlefield.,1 purchased from Jonas at the New Port Inn
+Neutral Cards,Scorch,Special,N/A,,Scorch: Discards after playing. Kills the strongest card(s) on the battlefield.,1 purchased from Urialla Harbor's Innkeep
+Neutral Cards,Skellige Storm,Weather,N/A,,Reduces the Strength of all Range and Siege Units to 1.,1 is won from the Tourney Grounds' armorer
+Neutral Cards,Skellige Storm,Weather,N/A,,Reduces the Strength of all Range and Siege Units to 1.,1 is won from the Tourney Grounds' barber
+Neutral Cards,Skellige Storm,Weather,N/A,,Reduces the Strength of all Range and Siege Units to 1.,1 is won from Beauclair Port's butcher
+Neutral Cards,Torrential Rain,Weather,N/A,,Sets the strength of all Siege Combat cards to 1 for both players.,2 are part of the base deck
+Neutral Cards,Torrential Rain,Weather,N/A,,Sets the strength of all Siege Combat cards to 1 for both players.,1 is random rewards from gwent players
+Neutral Cards,Triss Merigold,Hero,Close Combat,7,Hero: Not affected by any Special Cards or abilities.,Won from Lambert during Gwent: Old Pals
+Neutral Cards,Vesemir,Unit,Close Combat,6,,Won from Vimme Vivaldi during Gwent: Big City Players
+Neutral Cards,Villentretenmerth,Unit,Close Combat,7,Scorch - Close Combat: Destroy your enemy's strongest Close Combat unit(s) if the combined strength of all his or her Close Combat units is 10 or more.,Random reward from gwent players
+Neutral Cards,Yennefer of Vengerberg,Hero,Ranged Combat,7,Medic: Choose one card from your discard pile and play it instantly (no Heroes or Special Cards).,Won from Stjepan during Gwent: Playing Innkeeps
+Neutral Cards,Yennefer of Vengerberg,Hero,Ranged Combat,7,Hero: Not affected by any Special Cards or abilities.,
+Neutral Cards,Zoltan Chivay,Unit,Close Combat,5,,Won from Aldert Geert in White Orchard or found under the Hanged Man's Tree
