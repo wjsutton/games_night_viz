@@ -110,7 +110,7 @@ We’re looking for the highest damaging weapons we can use throughout our playt
 ### Task
 The goal is to create an output of the highest damaging weapon by its required level.
 
-1. Load the dataset
+1. [Load the dataset](https://github.com/wjsutton/games_night_viz/blob/main/challenges/data_prep/input_level_5_elden_ring_combat_weapons_raw.csv)
 2. Split the dataset into two tables:
 - Damage Stats: 1 containing: Name, Category, Phy, Mag, Fire, Ligh, Holy
 - Level Requirements: 1 containing: Name, Str, Dex, Int, Fai, Arc
@@ -136,7 +136,7 @@ For Level Requirements label the first column “Required Attribute”, and the 
 5. Replace the “-” values with zero in the columns: “Attack Damage”, “Damage Resistance”, “Required Attribute” and change the datatype to whole numbers (integer)
 6. Find the total “Attack Damage” and total “Required Attribute” for all weapons and join the datasets together.
 7. Rank the weapons by total attack damage, grouped by the total required attribute. 
-8. Filter for the number 1 rank and output the data
+8. Filter for the number 1 rank and [output the data](https://github.com/wjsutton/games_night_viz/blob/main/challenges/data_prep/output_level_5_best_damage_per_level_bonus.csv)
 
 **Bonus**
 
