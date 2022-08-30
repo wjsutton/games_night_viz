@@ -96,8 +96,40 @@ Vizzes and Authors:
 
 ---
 
-## Visual design challenge: Whitespace
+## Visual design challenge: Layout Containers
+Create a visualization but take some time to remove, amend and optimise the layout containers used to display your work. 
+Where do I find layout containers? 
 
+In Tableau, on a dashboard, in the left-hand side menu, at the top you’ll see a tab for “Layout”, and at the bottom of that section, you’ll see “Item hierarchy” which you can expand to see all the layout containers used when creating your dashboard.
+
+After your build, review this section:
+- Are there any redundant containers? I.e. containers that are meant to be there, you may find repeated cases of containers within other containers that when removed don’t change the viz
+- Is the layout easy for someone else to understand? Rename containers to show what they are doing or containing
+- Would any containers work better if they were collapsible? A common use case is to put “how to” instructions in a container and then make it collapsible.
+
+Here are a few blogs and tutorials from the community:
+- [Tableau Layout Containers Explained in Under 10 mins by Tableau Tim](https://www.youtube.com/watch?v=96371LvULXM)
+- [3 Fun Tips for Containers in Tableau by Spencer Baucke at phData](https://www.phdata.io/blog/3-fun-tips-for-containers-in-tableau/)
+- [8 Dashboard Container Tricks by sqlbelle (Donabel Santos)](https://sqlbelle.medium.com/tableau-8-dashboard-container-tricks-e0a60d238222)
+- [Mastering Containers in Tableau by Andy Kriebel](https://www.youtube.com/watch?v=63O98lnqezQ)
+- [The Grid System: Importance of a Solid UX/UI Layout by designlab.com](https://designlab.com/blog/grid-systems-history-ux-ui-layout/)
+
+Here are some vizzes that utilise Layouts Containers
+
+<a href='https://public.tableau.com/app/profile/ktfontnowagner/viz/PeopleOverview/PeopleOverview'>
+  <img src = "https://public.tableau.com/thumb/views/PeopleOverview/PeopleOverview" width="30%">
+</a>
+<a href='https://public.tableau.com/app/profile/sparsonsdataviz/viz/IronVizIVSamIronViz2021-InfluenceofTechonMusic/InfluenceofTechonMusic'>
+  <img src = "https://public.tableau.com/thumb/views/IronVizIVSamIronViz2021-InfluenceofTechonMusic/InfluenceofTechonMusic" width="30%">
+</a>
+<a href='https://public.tableau.com/app/profile/stuart.davis/viz/UsingLayoutContainerstoHideSheetsinYourDashboard/Dashboard1'>
+  <img src = "https://public.tableau.com/thumb/views/UsingLayoutContainerstoHideSheetsinYourDashboard/Dashboard1" width="30%">
+</a>
+
+Vizzes and Authors:
+- People Overview, by Katie Wagner
+- Influence of Tech on Music by Samuel Parsons
+- Using Layout Containers to Hide/Reveal Sheets in Your Dashboard, by Stuart Davis
 
 ---
 
