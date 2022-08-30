@@ -88,11 +88,25 @@ Your content may be different but focus on the choices the authors have made in 
 <a href='https://public.tableau.com/app/profile/srinivasa.reddy.vattigunta/viz/DEALORNODEALMiniVersion/DealorNoDeal'>
   <img src = "https://public.tableau.com/thumb/views/DEALORNODEALMiniVersion/DealorNoDeal" width="30%">
 </a>
+<a href='https://public.tableau.com/app/profile/wjsutton/viz/HaloTheLegacyMatchCollection/TitleScreen'>
+  <img src = "https://public.tableau.com/thumb/views/HaloTheLegacyMatchCollection/TitleScreen" width="30%">
+</a>
+<a href='https://public.tableau.com/app/profile/devesh.dalmia4043/viz/HaloInfiniteContentAnalysis/Dashboard10'>
+  <img src = "https://public.tableau.com/thumb/views/HaloInfiniteContentAnalysis/Dashboard10" width="30%">
+</a>
+<a href='https://public.tableau.com/app/profile/william.strouse/viz/Madden22PlayerRatingsTernaryPlot/Madden22PlayerRatingsTernaryPlot'>
+  <img src = "https://public.tableau.com/thumb/views/Madden22PlayerRatingsTernaryPlot/Madden22PlayerRatingsTernaryPlot" width="30%">
+</a>
+
+
 
 Vizzes and Authors:
 - Rocket League Data, by Matt Miller
 - What does it take to become a successful Call of Duty team? by Luke Todd
 - DEAL OR NO DEAL (Mini Version), by Srinivasa Reddy Vattigunta
+- Halo the Legacy Match Collection, by Will Sutton
+- Halo Infinite Content Analysis, by Devesh Dalmia
+- Madden 22 Player Ratings Ternary Plot, by Will Strouse
 
 ---
 
