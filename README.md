@@ -47,7 +47,7 @@ Season 1 of #GamesNightViz will consist of 6 sets of challenges released on a 6-
 |[The Tour: Dungeons & Dragons with #DataFamCon](https://github.com/wjsutton/games_night_viz/blob/main/challenges/gnv_tour1_dnd_datafamcon.md) | [#DataFamCon's June 2022: Dungeons and Dragons Challenge](https://medium.com/@datafamcon/bf187094932e) | [Tableau Conference Design Recap](https://github.com/wjsutton/games_night_viz/blob/main/challenges/gnv_tour1_dnd_datafamcon.md#visual-design-challenge-tableau-conference-edition) | [#Preppin' Data: Critical Role & Gantt Charts](https://preppindata.blogspot.com/2022/06/2022-week-22-dungeons-dragons-critical.html) |30th June 2022|
 |[The Tour: Nostalgic Games with #IronQuest](https://github.com/wjsutton/games_night_viz/blob/main/challenges/gnv_tour2_nostalgia_ironquest.md) | [#IronQuest's July 2022: Nostalgic Games](https://sarahlovesdata.co.uk/2022/07/01/iron-quest-nostalgic-games/) |  |  |31st July 2022|
 |[The Tour: The Sound of Games with #DataPlusMusic](https://github.com/wjsutton/games_night_viz/blob/main/challenges/gnv_tour3_dataplusmusic.md) | [#DataPlusMusic's Music in Video Games](https://www.hipstervizninja.com/blog/video-games/?utm_source=rss&utm_medium=rss&utm_campaign=video-games) |  |  |31st August 2022|
-|Level 5: Coming Soon! | | | |???|
+|[Level 5: Montages](https://github.com/wjsutton/games_night_viz/blob/main/challenges/5_montages.md) | [Your Montage!](https://github.com/wjsutton/games_night_viz/blob/main/challenges/5_montages.md#data-visualisation-challenge) | [Layout Containers](https://github.com/wjsutton/games_night_viz/blob/main/challenges/5_montages.md#visual-design-challenge-layout-containers) | [Cleaning Weapons Data](https://github.com/wjsutton/games_night_viz/blob/main/challenges/5_montages.md#data-preparation-challenge-cleaning-weapons-data) |16th October 2022 | |
 |Level 6: Coming Soon! | | | |???|
 
 **Bonus Levels**
@@ -88,7 +88,7 @@ There are also #datafam initiatives around feedback you can look to:
 ### Our Contributors 
 
 <a href="https://twitter.com/WJSutton12"><img align="right" src = "https://pbs.twimg.com/profile_images/1538979672314232832/VOPcgotu_400x400.jpg" width="25%"></a>
-**Will Sutton**<br><br>I'm Will, an avid fan of games of all kinds. I've been working with data for over 10 years and now work as a Senior Data Analyst, working with data and stakeholders to inform business decisions. 
+**Will Sutton**<br><br>I'm Will, an avid fan of games of all kinds. I've been working with data for over 10 years and now work as a Consultant, helping client gain better insight from their data. 
 
 I owe a large amount of my career development down to passion projects; either part of the Tableau community, producing insights for my running club, or just questions I wanted to know the answers to. 
 
