@@ -27,7 +27,8 @@ Here is a collection of all the #GamesNightViz data sets collected for previous 
 | **Name** | **Difficulty** | **Source** | **Data** |
 | HowChoo's Top 50 Most Iconic Video Game Characters | Casual | [HowChoo.com](https://howchoo.com/gaming/iconic-video-game-characters) & [VGChartz.com](https://www.vgchartz.com/) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select/howchoos_top_50_most_iconic_video_game_character.csv)  |
 | Money Raised by Games Done Quick Speedrunning Events | Casual | [gamesdonequick.com](https://gamesdonequick.com/tracker) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/4_the_need_for_speed/games_done_quick.csv) |
-| Notable Holiday Themed Or Featured Games | Casual | [Metacritic](https://www.metacritic.com/), [VGChartz](https://www.vgchartz.com/), [VGInsights](https://vginsights.com/) [Wikipedia](https://en.wikipedia.org/wiki/Category:Christmas_video_games) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/9_bonus_challenges/notable_themed_or_featured_holiday_video_games.csv)
+| Notable Holiday Themed Or Featured Games | Casual | [Metacritic](https://www.metacritic.com/), [VGChartz](https://www.vgchartz.com/), [VGInsights](https://vginsights.com/) [Wikipedia](https://en.wikipedia.org/wiki/Category:Christmas_video_games) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/9_bonus_challenges/notable_themed_or_featured_holiday_video_games.csv) |
+| Video Game Voice Actors | Hard | [IMDB](https://www.imdb.com/interfaces/) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/9_bonus_challenges/202208_dataplusmusic/video_game_voice_actors.csv) |
 | | | | |
 | <h3>Dungeons & Dragons</h3> |
 | **Name** | **Difficulty** | **Source** | **Data** |
@@ -51,11 +52,20 @@ Here is a collection of all the #GamesNightViz data sets collected for previous 
 | | | | |
 | <h3>Grand Theft Auto Games</h3> |
 | **Name** | **Difficulty** | **Source** | **Data** |
+| GTA Vice City Radio Stations + Spotify | Normal | [Spotify](https://open.spotify.com/playlist/2kTpP9WLwc3HjI90coGIOe) & [GTA fandom](https://gta.fandom.com/wiki/Wildstyle) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/9_bonus_challenges/202208_dataplusmusic/vice_city_playlist_data.csv) |
 | GTA 5 Vehicles | Heroic | [gtabase.com](https://www.gtabase.com/grand-theft-auto-v/vehicles/#sort=attr.ct3.frontend_value&sortdir=desc) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/4_the_need_for_speed/gta_5_vehicles.csv) |
+| | | | |
+| <h3>Heardle</h3> |
+| **Name** | **Difficulty** | **Source** | **Data** |
+| Heardle Skips | Casual | [word.tips](https://word.tips/heardle-heroes/) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/9_bonus_challenges/202208_dataplusmusic/Heardle_skips.xlsx) |
 | | | | |
 | <h3>James Bond Games</h3> |
 | **Name** | **Difficulty** | **Source** | **Data** |
 | Speedruns of Goldeneye (N64) Individual Levels | Normal | [speedrun.com](https://www.speedrun.com/ge60fps) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/4_the_need_for_speed/goldeneye_speedruns_levels.csv) |
+| | | | |
+| <h3>Just Dance</h3> |
+| **Name** | **Difficulty** | **Source** | **Data** |
+| All Songs from Just Dance + Spotify | Normal | [Spotify](https://open.spotify.com/user/justdanceofficial?si=24ba65b199b44a5e&nd=1) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/9_bonus_challenges/202208_dataplusmusic/just_dance_playlist_data.csv) |
 | | | | |
 | <h3>Mario Games</h3> |
 | **Name** | **Difficulty** | **Source** | **Data** |
@@ -84,6 +94,7 @@ Here is a collection of all the #GamesNightViz data sets collected for previous 
 | Pokemon of the Year, 2020 | Normal | [Pokemon2020.com](https://pokemon2020.pokemon.com/en-us/) & [Kaggle](https://www.kaggle.com/maca11/all-pokemon-dataset) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select/pokemon_of_the_year_2020.xlsx) |
 | Pokemon UNITE Character Stats | Normal | [Unite-DB.com](https://unite-db.com/stats) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select/Pokemon%20Unite%20Character%20Stats.xlsx) |
 | Pokemon Evolutions Trees | Normal | [Kaggle](https://www.kaggle.com/kylekohnen/complete-pokemon-data-set), [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page) & [Pokemon Fandom](https://pokemon.fandom.com/wiki/List_of_Pok%C3%A9mon_by_evolution) | [link](3_powering_up/pokemon_evolution_stats.csv) |
+| Pokemon Game Boy Music Midi Files | Normal | [nayuki.io](https://www.nayuki.io/page/transcription-of-pokemon-game-boy-music) | [link](https://www.nayuki.io/page/transcription-of-pokemon-game-boy-music) & [Check out this Midi file guide](https://www.hipstervizninja.com/blog/midi-analysis/) |
 | Twitch Plays Pokemon Completion Times | Normal | [wikipedia.org](https://en.wikipedia.org/wiki/Twitch_Plays_Pok%C3%A9mon) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/4_the_need_for_speed/twitch_plays_pokemon_game_completion.csv) |
 | | | | |
 | <h3>Red Dead Redemption 2</h3> |
@@ -115,6 +126,6 @@ Here is a collection of all the #GamesNightViz data sets collected for previous 
 | **Name** | **Difficulty** | **Source** | **Data** |
 | Witcher 3 Gwent Cards (Uncensored) | Normal | [witcher.fandom.com](https://witcher.fandom.com/wiki/Gwent) | [link](3_powering_up/Witcher%203%20Gwent%20Data.csv) |
 | | | | |
-| <h3>Street Fighter</h3> |
+| <h3>The Legend of Zelda</h3> |
 | **Name** | **Difficulty** | **Source** | **Data** |
 | Dish Recipes from Breath of the Wild | Heroic | [orcz.com/Breath_of_the_Wild:_Recipes](http://orcz.com/Breath_of_the_Wild:_Recipes) | [link](3_powering_up/botw_recipes.xlsx) |
