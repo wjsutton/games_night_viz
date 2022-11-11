@@ -17,6 +17,7 @@ Here is a collection of all the #GamesNightViz data sets collected for previous 
 | Monopoly's Most Profitable Streets | Casual | [github/NicoAdams](https://github.com/NicoAdams/MonopolyProbs/blob/master/Monopoly_probs.ipynb) & [falstad.com](https://www.falstad.com/monopoly.html) | [link](3_powering_up/monopolys_most_profitable_streets.csv) |
 | Board Game Database from BoardGameGeek | Legendary | [kaggle](https://www.kaggle.com/datasets/threnjen/board-games-database-from-boardgamegeek?select=games.csv) & [BoardGameGeek](https://boardgamegeek.com/) from [Lorna Brown's Iron Viz 2023](https://public.tableau.com/app/profile/lorna.eden/viz/IronViz2023DoestheGeekRatingmeananything/GEEKRATING) | [link](https://www.kaggle.com/datasets/threnjen/board-games-database-from-boardgamegeek?select=games.csv) |
 | Chess Game Dataset (Lichess) | Legendary | [kaggle](https://www.kaggle.com/datasets/datasnaek/chess) & [Lichess](https://lichess.org/) from [Varun Jain's Iron Viz 2023](https://public.tableau.com/app/profile/varun.viz.vorkshop/viz/TheScienceofWinningIronViz2023/viz) | [link](https://www.kaggle.com/datasets/datasnaek/chess) |
+| Candy Land Places & Routes | Legendary | [Candy Land: A Sweet Little Wiki for Sweet Little Folks](https://candyland.fandom.com/wiki/Candy_Land_(1949)) from [Dennis Kao's The Changing Geography of Candy Land](https://public.tableau.com/app/profile/dennis.kao/viz/TheChangingGeographyofCandyLandIronQuestGamesNightViz/FinalViz) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/user-submitted-data/candy_land_explainer.md) |
 | | | | |
 | <h3>Card Games</h3> |
 | **Name** | **Difficulty** | **Source** | **Data** |
@@ -101,6 +102,10 @@ Here is a collection of all the #GamesNightViz data sets collected for previous 
 | **Name** | **Difficulty** | **Source** | **Data** |
 | Skyrim’s First Population Census  | Heroic  | [uesp.net](https://en.uesp.net/wiki/Skyrim:NPCs) & [skyrimcommands.com](https://skyrimcommands.com/npcs) | [link](2_hello_world/Skyrim%20Population.xlsx) |
 | Skyrim Mods | Heroic | [github.com/ou-ds-data](https://github.com/ou-ds-data/skyrim-mods) & [nexusmods.com](https://www.nexusmods.com/skyrim/mods/)| [link](3_powering_up/skyrim_mods_and_tags.xlsx) |
+| | | | |
+| <h3>Sports Crossovers</h3> |
+| **Name** | **Difficulty** | **Source** | **Data** |
+| College Football (US) | Legendary | [sports-reference.com](https://www.sports-reference.com/) from [Jessica Moon's Iron Viz 2023](https://public.tableau.com/app/profile/jessica.moon/viz/SECVSIronViz2023/SECVS)  | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/user-submitted-data/AllTeamsHistory.csv) |
 | | | | |
 | <h3>Street Fighter</h3> |
 | **Name** | **Difficulty** | **Source** | **Data** |
