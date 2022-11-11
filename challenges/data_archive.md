@@ -8,13 +8,15 @@ Here is a collection of all the #GamesNightViz data sets collected for previous 
 | Casual | For those new to data visualisation or with limited time available |
 | Normal | A fair size data set that could create multiple data visualisations |
 | Heroic | A large data set for those with more time available  |
-
+| Legendary | A user submitted dataset  |
 
 | <h3 align="left">Board Games</h3> | | | |
 |---|---|---|---|
 | **Name** | **Difficulty** | **Source** | **Data** |
 | CLiamBrown Sunk my Battleship | Normal | [Github/cliambrown](https://github.com/cliambrown/battleship-data) & [cliambrown.com/battleship](https://cliambrown.com/battleship/play.php) | [link](2_hello_world/cliam_brown_battleship.xlsx) |
 | Monopoly's Most Profitable Streets | Casual | [github/NicoAdams](https://github.com/NicoAdams/MonopolyProbs/blob/master/Monopoly_probs.ipynb) & [falstad.com](https://www.falstad.com/monopoly.html) | [link](3_powering_up/monopolys_most_profitable_streets.csv) |
+| Board Game Database from BoardGameGeek | Legendary | [kaggle](https://www.kaggle.com/datasets/threnjen/board-games-database-from-boardgamegeek?select=games.csv) & [BoardGameGeek](https://boardgamegeek.com/) from [Lorna Brown's Iron Viz 2023](https://public.tableau.com/app/profile/lorna.eden/viz/IronViz2023DoestheGeekRatingmeananything/GEEKRATING) | [link](https://www.kaggle.com/datasets/threnjen/board-games-database-from-boardgamegeek?select=games.csv) |
+| Chess Game Dataset (Lichess) | Legendary | [kaggle](https://www.kaggle.com/datasets/datasnaek/chess) & [Lichess](https://lichess.org/) from [Varun Jain's Iron Viz 2023](https://public.tableau.com/app/profile/varun.viz.vorkshop/viz/TheScienceofWinningIronViz2023/viz) | [link](https://www.kaggle.com/datasets/datasnaek/chess) |
 | | | | |
 | <h3>Card Games</h3> |
 | **Name** | **Difficulty** | **Source** | **Data** |
