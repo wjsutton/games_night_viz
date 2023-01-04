@@ -116,6 +116,10 @@ Here is a collection of all the #GamesNightViz data sets collected for previous 
 | | | | |
 | <h3>Sports Crossovers</h3> |
 | **Name** | **Difficulty** | **Source** | **Data** |
+| 2022 Beer Mile World Classic | Easy | [beermile.com](https://beermile.com/events/4641) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/9_bonus_challenges/202301_sportsvizsunday/2022%20Beer%20Mile%20World%20Classic.xlsx) |
+| International Federation of Tiddlywinks Associations World Singles| Normal | [iftwa.org/world-singles-results](http://iftwa.org/world-singles-results/ ) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/9_bonus_challenges/202301_sportsvizsunday/2022%20Beer%20Mile%20World%20Classic.xlsx) |
+| eSports earnings | Normal | [esportsearnings.com](https://www.esportsearnings.com/) via [Kaggle](https://www.kaggle.com/datasets/jackdaoud/esports-earnings-for-players-teams-by-game) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/9_bonus_challenges/202301_sportsvizsunday/eSports%20earnings.zip) |
+| Fifa 23 Complete Player Dataset | Heroic | [sofifa.com](https://sofifa.com/) via [Kaggle](https://www.kaggle.com/datasets/cashncarry/fifa-23-complete-player-dataset), [Historical data](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/9_bonus_challenges/202301_sportsvizsunday/fifa-23-complete-player-dataset.zip)  |
 | College Football (US) | Legendary | [sports-reference.com](https://www.sports-reference.com/) from [Jessica Moon's Iron Viz 2023](https://public.tableau.com/app/profile/jessica.moon/viz/SECVSIronViz2023/SECVS)  | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/user-submitted-data/AllTeamsHistory.csv) |
 | | | | |
 | <h3>Street Fighter</h3> |
