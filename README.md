@@ -22,7 +22,7 @@ Each month, we will have a theme and a range of datasets available, with a chall
 - Heroic - A large data set for those with more time available
 - Legendary - Bring your own data, [#IronQuest](https://sarahlovesdata.co.uk/category/iron-quest/) style
 
-There will also be two bonus 'Special Ops' tasks on:
+There will also be two bonus 'Special Ops' tasks:
 - Data preparation - Recreate one of the datasets using a tool or coding language, [Preppin' Data](https://preppindata.blogspot.com/) style
 - Visual design - A design technique to practice in your data visualisation, supported with some online tools
 
@@ -32,7 +32,7 @@ For this project you can choose which challenges you undertake depending on what
 
 All of them! 
 
-At #GamesNightViz we love all types of games: card games, board games, video games, party games, game shows, the list goes on!
+At #GamesNightViz we love all types of games: card games, board games, video games, party games, game shows, and the list goes on!
 
 ### The Challenges 
 
@@ -58,7 +58,7 @@ Season 1 of #GamesNightViz will consist of 6 sets of challenges released on a 6-
 
 ### Looking for data?
 
-Be sure to check out the [#GamesNightViz Data Archive :floppy_disk:](data_archive.md) for all the datasets from our challenges.
+Be sure to check out the [#GamesNightViz Data Archive :floppy_disk:](https://github.com/wjsutton/games_night_viz/blob/main/challenges/data_archive.md) for all the datasets from our challenges.
 
 ### House Rules
 
@@ -83,12 +83,12 @@ There are also #datafam initiatives around feedback you can look to:
 ### How to Get Involved
 
 - Post your submissions on Twitter with the hashtag [#GamesNightViz](https://twitter.com/search?q=%23GamesNightViz&src=typed_query&f=top), and tag the team [@WJSutton12](https://twitter.com/WJSutton12), [@Visual_Endgame](https://twitter.com/Visual_Endgame), [@ninjavizlouis](https://twitter.com/ninjavizlouis) so we don't miss your great work!
-- Submit your work the project tracker here: [https://docs.google.com/forms/d/e/1FAIpQLScqFaHnRcX2uBX7h5PkbigXim1kfQMsnC7ZloF8UvxzfRog4w/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLScqFaHnRcX2uBX7h5PkbigXim1kfQMsnC7ZloF8UvxzfRog4w/viewform?usp=sf_link)
+- Submit your work to the project tracker here: [https://docs.google.com/forms/d/e/1FAIpQLScqFaHnRcX2uBX7h5PkbigXim1kfQMsnC7ZloF8UvxzfRog4w/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLScqFaHnRcX2uBX7h5PkbigXim1kfQMsnC7ZloF8UvxzfRog4w/viewform?usp=sf_link)
 
 ### Our Contributors 
 
 <a href="https://twitter.com/WJSutton12"><img align="right" src = "https://pbs.twimg.com/profile_images/1538979672314232832/VOPcgotu_400x400.jpg" width="25%"></a>
-**Will Sutton**<br><br>I'm Will, an avid fan of games of all kinds. I've been working with data for over 10 years and now work as a Consultant, helping client gain better insight from their data. 
+**Will Sutton**<br><br>I'm Will, an avid fan of games of all kinds. I've been working with data for over 10 years and now work as a Consultant, helping clients gain better insight from their data. 
 
 I owe a large amount of my career development down to passion projects; either part of the Tableau community, producing insights for my running club, or just questions I wanted to know the answers to. 
 
