@@ -48,6 +48,7 @@ Season 1 of #GamesNightViz will consist of 6 sets of challenges released on a 6-
 |[The Tour: Nostalgic Games with #IronQuest](https://github.com/wjsutton/games_night_viz/blob/main/challenges/gnv_tour2_nostalgia_ironquest.md) | [#IronQuest's July 2022: Nostalgic Games](https://sarahlovesdata.co.uk/2022/07/01/iron-quest-nostalgic-games/) |  |  |31st July 2022|
 |[The Tour: The Sound of Games with #DataPlusMusic](https://github.com/wjsutton/games_night_viz/blob/main/challenges/gnv_tour3_dataplusmusic.md) | [#DataPlusMusic's Music in Video Games](https://www.hipstervizninja.com/blog/video-games/?utm_source=rss&utm_medium=rss&utm_campaign=video-games) |  |  |31st August 2022|
 |[Level 5: Montages](https://github.com/wjsutton/games_night_viz/blob/main/challenges/5_montages.md) | [Your Montage!](https://github.com/wjsutton/games_night_viz/blob/main/challenges/5_montages.md#data-visualisation-challenge) | [Layout Containers](https://github.com/wjsutton/games_night_viz/blob/main/challenges/5_montages.md#visual-design-challenge-layout-containers) | [Cleaning Weapons Data](https://github.com/wjsutton/games_night_viz/blob/main/challenges/5_montages.md#data-preparation-challenge-cleaning-weapons-data) |30th November 2022 | |
+|[Is it a Sport or a Game?](https://github.com/wjsutton/games_night_viz/blob/main/challenges/svs_2023.md) | [GNV + #SportsVizSunday: Is it a Sport or a Game?](https://github.com/wjsutton/games_night_viz/blob/main/challenges/svs_2023.md) |  |  |10th February 2023|
 |Level 6: Coming Soon! | | | |???|
 
 **Bonus Levels**
@@ -55,6 +56,9 @@ Season 1 of #GamesNightViz will consist of 6 sets of challenges released on a 6-
 - [GamesNightViz | Holidays 2021 - Notable Holiday Games](https://github.com/wjsutton/games_night_viz/blob/main/challenges/9_bonus_holidays_2021.md)
 - [Preppin' Data | Week 8 2022 - Pokémon Evolution Stats](https://preppindata.blogspot.com/2022/02/2022-week-8-pokemon-evolution-stats.html)
 - [Back 2 Viz Basics | Week 6 2022 - Dealing with Outliers #B2VB](https://data.world/back2vizbasics/2022week-6-dealing-with-outliers)
+- [Preppin' Data | Week 22 2022 - Dungeons & Dragons: Critical Role](https://preppindata.blogspot.com/2022/06/2022-week-22-dungeons-dragons-critical.html)
+- [Preppin' Data | Week 37 2022 - Elden Ring Adventure](https://preppindata.blogspot.com/2022/09/2022-week-37-elden-ring-adventure.html)
+- [Preppin' Data | Week 48 2022 - Tiddlywinks Tidy](https://preppindata.blogspot.com/2022/11/2022-week-48-tiddlywinks-tidy.html)
 
 ### Looking for data?
 
