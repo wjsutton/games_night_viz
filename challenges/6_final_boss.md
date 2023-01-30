@@ -4,13 +4,13 @@
 
 Welcome back!
 
-We kicked off 2023 with our collaborative project with #SportsVizSunday exploring the crossover between games and sports: [Is it a Sport or a Game?(https://github.com/wjsutton/games_night_viz/blob/main/challenges/svs_2023.md)
+We kicked off 2023 with our collaborative project with #SportsVizSunday exploring the crossover between games and sports: [Is it a Sport or a Game?](https://github.com/wjsutton/games_night_viz/blob/main/challenges/svs_2023.md)
 
 For our next theme, you find yourself in an oddly over-stocked room...
 
 Surely there's nothing waiting for us in the next room...
 
-Oh wait there is, **it's the Final Boss!**
+Oh, wait there is, **it's the Final Boss!**
 
 Yes, it's time to face the final boss putting all your newfound skills and abilities to the test!
 
