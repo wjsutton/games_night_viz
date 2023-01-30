@@ -1,0 +1,1069 @@
+﻿Chapter,Section,Name,Voice,Clothing,Accessories,Weapon,Speed,Rush,Health,Plaga,Miscellaneous
+Chapter 1-1,Footpath to the Village,José,,,None,Axe (Left),Medium,?,4,,Mandatory Kill. Cannot lose weapon. Does not throw weapon
+Chapter 1-1,Footpath to the Village,Manuel,,,None,Sickle (Left),Medium,?,4,,Defensive. Cannot lose weapon. Does not throw weapon
+Chapter 1-1,Footpath to the Village,Esteban,,,None,Axe,Fast,?,4,,Defensive. Cannot lose weapon. Does not throw weapon
+Chapter 1-1,Footpath to the Village,Diego,,,None,Pitchfork,Slow,?,4,,Defensive. Cannot lose weapon
+Chapter 1-1,Footpath to the Village,Esteban,,,Brown Hat,Pitchfork,Slow,?,4,,Defensive. Cannot lose weapon
+Chapter 1-1,Footpath to the Village,Diego,,,Green Watch Cap,Axe (Left),Fast,?,4,,Defensive. Cannot lose weapon. Does not throw weapon
+Chapter 1-1,Footpath to the Village,Manuel,,,None,Sickle,Slow,?,4,,Defensive. Cannot lose weapon. Does not throw weapon
+Chapter 1-1,Footpath to the Village,José,,,None,Axe,Fast,?,4,,Defensive. Cannot lose weapon. Does not throw weapon. Tall
+Chapter 1-1,Farmers,José,,,Straw Hat,Unarmed,Medium,No,6.3,,Patrolling (Pushing a wheelbarrow)
+Chapter 1-1,Farmers,Maria,,,None,Sickle,Very Slow,No,6.3,,Patrolling (Carrying a bucket of water). Weapon is in the back
+Chapter 1-1,Farmers,Esteban,,,None,Axe,Very Fast,No,6.3,,Patrolling (Carrying a bucket of water). Weapon is in the back
+Chapter 1-1,Farmers,Diego,,,Leather Cowboy Hat,Pitchfork,Slow,No,6.3,,Loading a hay cart. Tall
+Chapter 1-1,Farmers,Maria,,,Blue Headscarf,Pitchfork,Fast,No,6.3,,Loading a hay cart
+Chapter 1-1,Farmers,José,,,Straw Hat,Pitchfork,Medium,No,6.3,,Loading a hay cart
+Chapter 1-1,Rooftop Snipers,Esteban,,,Brown Hat,Inf. Axe,Medium,No,7.9,,Sniper
+Chapter 1-1,Rooftop Snipers,Diego,,,Straw Hat,Inf. Sickle,Very Slow,No,7.9,,Sniper
+Chapter 1-1,Farm Gate,José,,,Blue Hat,Sickle,Very Slow,No,7.9,,Defensive
+Chapter 1-1,Farm Gate,Esteban,,,Brown Hat,Unarmed,Very Fast,No,7.9,,Defensive
+Chapter 1-1,Farm Gate,Dr. Salvador Diego,,,,Chainsaw,,,23.7,-,Defensive. Drops a 'Ruby'
+Chapter 1-1,Being Spotted [Footpath Gate],Esteban,,,Brown Hat,Axe,Fast,No,7.9,,Defensive
+Chapter 1-1,Being Spotted [Footpath Gate],José,,,None,Unarmed,Medium,No,7.9,,Defensive
+Chapter 1-1,Being Spotted [Footpath Gate],Diego,,,None,Pitchfork (Left),Very Slow,No,7.9,,Defensive
+Chapter 1-1,Village Chief's House Gate,José,,,None,Axe,Medium,No,9.5,,
+Chapter 1-1,Village Chief's House Gate,Maria,,,None,Knife (Left),Very Slow,No,9.5,,
+Chapter 1-1,Village Chief's House Gate,Esteban,,,Brown Hat,Sickle,Fast,No,9.5,,
+Chapter 1-1,Village Chief's House Gate,Diego,,,None,Sickle (Left),Slow,No,9.5,,
+Chapter 1-1,Village Chief's House Gate,Esteban,,,None,Unarmed,Very Fast,No,9.5,,
+Chapter 1-1,Area Near Tower,José,,,None,Unarmed,Very Slow,No,9.5,,
+Chapter 1-1,Area Near Tower,Esteban,,,None,Axe,Very Fast,No,9.5,,
+Chapter 1-1,Area Near Tower,Diego,,,None,Sickle (Left),Fast,No,9.5,,
+Chapter 1-1,Area Near Tower,Esteban,,,None,Sickle,Slow,No,9.5,,
+Chapter 1-1,Area Near Tower,Maria,,,Blue Headscarf,Knife,Medium,No,9.5,,
+Chapter 1-1,Behind Incendiary Grenade House,José,,,None,Axe,Fast,No,9.5,,
+Chapter 1-1,Behind Incendiary Grenade House,Diego,,,None,Sickle (Left),Slow,No,9.5,,
+Chapter 1-1,Behind Incendiary Grenade House,Diego,,,None,Sickle,Very Fast,No,9.5,,
+Chapter 1-1,Behind Incendiary Grenade House,Maria,,,Yellow Headscarf,Knife,Medium,No,9.5,,
+Chapter 1-1,Behind Incendiary Grenade House,Esteban,,,None,Unarmed,Very Slow,No,9.5,,
+Chapter 1-1,Door,Esteban,,,None,Unarmed,Very Fast,No,9.5,,
+Chapter 1-1,Door,José,,,None,Sickle,Very Slow,No,9.5,,
+Chapter 1-1,Door,Dr. Salvador Diego,,,,Chainsaw,,,39.4,-,Drops '10000 pesetas' in gold bars
+Chapter 1-1,Near Ladder,José,,,Blue Hat,Unarmed,Fast,No,9.5,,
+Chapter 1-1,Near Ladder,Diego,,,None,Unarmed,Slow,No,9.5,,
+Chapter 1-1,Near Ladder,Esteban,,,Brown Hat,Unarmed,Very Fast,No,9.5,,
+Chapter 1-1,Boarded Window,Maria,,,Yellow Headscarf,Axe,Medium,No,9.5,,
+Chapter 1-1,Boarded Window,Esteban,,,Brown Hat,Unarmed,Very Slow,No,9.5,,
+Chapter 1-1,Boarded Window,José,,,Blue Hat,Sickle,Slow,No,9.5,,
+Chapter 1-1,Second-Story Glass Window,Maria,,,Blue Headscarf,Inf. Axe,Fast,No,9.5,,
+Chapter 1-1,Second-Story Glass Window,Esteban,,,Brown Hat,Inf. Sickle,Medium,No,9.5,,
+Chapter 1-1,Farm,Esteban,,,None,Pitchfork,Medium,No,9.5,,Loading a hay cart
+Chapter 1-1,Farm,Diego,,,None,Sickle,Very Fast,No,6.3,,Patrolling (Carrying a bucket of water). Weapon is in the back
+Chapter 1-1,Farm,José,,,Straw Hat,Pitchfork,Very Slow,No,7.9,,Loading a hay cart
+Chapter 1-1,Farm,Diego,,,Blue Watch Cap,Pitchfork,Fast,No,9.5,,Loading a hay cart
+Chapter 1-1,Farm,Manuel,,,Leather Cowboy Hat,Inf. Axe (Left),Slow,No,7.9,,
+Chapter 1-1,Bridge,Manuel,,,None,Inf. Sickle,Medium,No,4,,Sniper
+Chapter 1-1,Bridge,José,,,None,Inf. Axe (Left),Very Slow,No,4,,Sniper
+Chapter 1-1,Outside Shack,José,,,None,Dynamite,Slow,No,7.9,,
+Chapter 1-1,Inside Shack,Diego,,,None,Dynamite (Left),Very Fast,No,6.3,,
+Chapter 1-1,Inside Shack,Manuel,,,Blue Watch Cap,Axe,Medium,No,9.5,,
+Chapter 1-1,Inside Shack,Esteban,,,None,Dynamite,Very Slow,No,7.9,,
+Chapter 1-1,Left Path,Manuel,,,None,Dynamite,Fast,No,9.5,,
+Chapter 1-2,Guard,Manuel,,,None,Pitchfork,Very Slow,Yes,7.9,,
+Chapter 1-2,Wooden Bridges,Esteban,,,None,Unarmed,Medium,Yes,6.3,,Patrolling
+Chapter 1-2,Wooden Bridges,José,,,None,Axe (Left),Fast,Yes,6.3,,Patrolling
+Chapter 1-2,Wooden Bridges,Diego,,,None,Axe,Medium,Yes,7.9,,Patrolling
+Chapter 1-2,Wooden Bridges,Manuel,,,Blue Watch Cap,Sickle,Very Slow,Yes,9.5,,Patrolling
+Chapter 1-2,Main Shack,José,,,Brown Hat,Pitchfork,Fast,Yes,7.9,,
+Chapter 1-2,Main Shack,Manuel,,,Brown Hat,Inf. Sickle,Slow,Yes,6.3,,
+Chapter 1-2,Main Shack,Esteban,,,Blue Hat,Unarmed,Medium,Yes,9.5,,
+Chapter 1-2,Main Shack Roof,Esteban,,,None,Inf. Sickle (Left),Fast,Yes,9.5,,Sniper
+Chapter 1-2,Yellow Herb Shack Roof,Esteban,,,Brown Hat,Dynamite,Very Fast,Yes,7.9,,Defensive. Sniper. Patrolling. Tall
+Chapter 1-2,Tower,José,,,None,Inf. Sickle,Slow,Yes,7.9,,Defensive. Sniper. Patrolling
+Chapter 1-2,Hilltop,Diego,,,None,Inf. Axe (Left),Very Slow,Yes,7.9,,Sniper. Patrolling
+Chapter 1-2,Going Through Gate [Hilltop],José,,,None,Pitchfork,Very Fast,Yes,9.5,,
+Chapter 1-2,Going Through Gate [Hilltop],Manuel,,,None,Dynamite (Left),Very Fast,Yes,6.3,,
+Chapter 1-2,Going Through Gate [Hilltop],Esteban,,,None,Dynamite,Slow,Yes,7.9,,
+Chapter 1-2,Hilltop,Manuel,,,None,Dynamite,Medium,Yes,7.9,,
+Chapter 1-2,Hilltop,Diego,,,Blue Watch Cap,Sickle (Left),Very Fast,Yes,7.9,,
+Chapter 1-2,Hilltop,Esteban,,,None,Pitchfork,Very Slow,Yes,6.3,,
+Chapter 1-2,Behind Yellow Herb Shack,José,,,None,Axe (Left),Fast,Yes,9.5,,
+Chapter 1-2,Behind Yellow Herb Shack,Esteban,,,None,Unarmed,Very Fast,Yes,6.3,,
+Chapter 1-2,Behind Yellow Herb Shack,Diego,,,None,Pitchfork,Slow,Yes,7.9,,
+Chapter 1-2,Behind Main Shack,José,,,Brown Hat,Pitchfork,Fast,Yes,7.9,,
+Chapter 1-2,Behind Main Shack,Manuel,,,Green Watch Cap,Unarmed,Medium,Yes,6.3,,
+Chapter 1-2,Behind Main Shack,Diego,,,Green Watch Cap,Axe,Slow,Yes,9.5,,
+Chapter 1-2,Inside Main Shack,Manuel,,,None,Unarmed,Very Fast,Yes,9.5,,
+Chapter 1-2,Inside Main Shack,Esteban,,,None,Pitchfork (Left),Slow,Yes,7.9,,
+Chapter 1-2,Inside Main Shack,José,,,None,Sickle (Left),Very Slow,Yes,7.9,,
+Chapter 1-2,Factory Ruins,José,,,None,Unarmed,Fast,Yes,9.5,,Sniper
+Chapter 1-2,Factory Ruins,Esteban,,,None,Pitchfork (Left),Very Slow,Yes,6.3,,Sniper. Tall
+Chapter 1-2,Factory Ruins,Manuel,,,None,Inf. Axe (Left),Medium,Yes,7.9,,Sniper
+Chapter 1-2,Factory Ruins,Diego,,,None,Pitchfork,Very Fast,Yes,7.9,,Sniper
+Chapter 1-2,Dynamite Blockade,José,,,Blue Hat,Pitchfork (Left),Slow,Yes,9.5,,Sniper
+Chapter 1-2,Dynamite Blockade,Manuel,,,Blue Watch Cap,Dynamite,Fast,Yes,7.9,,Sniper
+Chapter 1-2,Dynamite Blockade,Diego,,,Green Watch Cap,Unarmed,Very Slow,Yes,7.9,,Sniper
+Chapter 1-2,Dynamite Blockade,Esteban,,,Brown Hat,Dynamite (Left),Medium,Yes,6.3,,Sniper
+Chapter 1-2,Past Blockade,Esteban,,,None,Pitchfork (Left),Very Fast,Yes,9.5,,Sniper
+Chapter 1-2,Past Blockade,Diego,,,None,Inf. Sickle,Slow,Yes,7.9,,Sniper
+Chapter 1-2,Past Blockade,José,,,None,Pitchfork (Left),Fast,Yes,6.3,,Sniper
+Chapter 1-2,In Pursuit,Diego,,,None,Unarmed,Very Fast,Yes,9.5,,
+Chapter 1-2,In Pursuit,Esteban,,,None,Unarmed,Slow,Yes,9.5,,
+Chapter 1-2,In Pursuit,José,,,None,Sickle,Fast,Yes,9.5,,
+Chapter 1-2,Farmers,José,,,Straw Hat,Unarmed,Medium,No,6.3,,Patrolling (pushing a wheelbarrow)
+Chapter 1-2,Farmers,Maria,,,None,Sickle,Very Slow,No,6.3,,Patrolling (carrying a bucket of water). Weapon is tucked in the back
+Chapter 1-2,Farmers,Esteban,,,None,Axe,Very Fast,No,6.3,,Patrolling (carrying a bucket of water). Weapon is tucked in the back
+Chapter 1-2,Farmers,Diego,,,Leather Cowboy Hat,Pitchfork,Slow,No,6.3,,Loading a hay cart. Tall
+Chapter 1-2,Farmers,Maria,,,Blue Headscarf,Pitchfork,Fast,No,6.3,,Loading a hay cart
+Chapter 1-2,Farmers,José,,,Straw Hat,Pitchfork,Medium,No,6.3,,Loading a hay cart
+Chapter 1-2,Rooftop Snipers,Esteban,,,Brown Hat,Inf. Axe,Medium,No,7.9,,Sniper
+Chapter 1-2,Rooftop Snipers,Diego,,,Straw Hat,Inf. Sickle,Very Slow,No,7.9,,Sniper
+Chapter 1-3,Toilet,Esteban,,,None,Unarmed,Fast,Yes,7.9,,
+Chapter 1-3,Dr. Salvador Trio,Dr. Salvador Diego,,,,Chainsaw,,,39.4,-,Drops a 'Ruby'
+Chapter 1-3,Dr. Salvador Trio,Esteban,,,None,Unarmed,Very Slow,Yes,9.5,,
+Chapter 1-3,Dr. Salvador Trio,José,,,None,Inf. Axe (Left),Very Fast,Yes,7.9,,
+Chapter 1-3,Shack,Diego,,,None,Pitchfork,Fast,Yes,6.3,,
+Chapter 1-3,Shack,Maria,,,None,Knife,Medium,Yes,7.9,,
+Chapter 1-3,Near Village Gate,Esteban,,,Brown Hat,Unarmed,Very Fast,Yes,9.5,,
+Chapter 1-3,Near Village Gate,Diego,,,None,Unarmed,Slow,Yes,7.9,,
+Chapter 1-3,Near Village Gate,Maria,,,Blue Headscarf,Pitchfork (Left),Fast,Yes,6.3,,
+Chapter 1-3,Near Village Gate,José,,,Blue Hat,Inf. Sickle,Medium,Yes,7.9,,
+Chapter 1-3,Graveyard Shack,Isabel,,,None,Sickle (Left),Very Slow,Yes,9.5,,
+Chapter 1-3,Graveyard,Manuel,,,None,Unarmed,Medium,Yes,7.9,,
+Chapter 1-3,Church Entrance,Manuel,,,None,Dynamite,Fast,Yes,7.9,,
+Chapter 1-3,Church Entrance,José,,,Blue Hat,Pitchfork (Left),Slow,Yes,6.3,,
+Chapter 1-3,Church Entrance,Esteban,,,Brown Hat,Unarmed,Medium,Yes,9.5,,
+Chapter 1-3,Green Catseye Container,Isabel,,,Blue Headscarf,Knife,Very Slow,Yes,7.9,,
+Chapter 1-3,Green Catseye Container,José,,,None,Dynamite (Left),Medium,Yes,7.9,,
+Chapter 1-3,Wooden Bridges,Isabel,,,None,Unarmed,Very Fast,Yes,7.9,,
+Chapter 1-3,Wooden Bridges,Manuel,,,None,Inf. Axe,Slow,Yes,7.9,,Defensive
+Chapter 1-3,Wooden Bridges,Esteban,,,None,Unarmed,Very Fast,Yes,6.3,,Defensive
+Chapter 1-3,Door to Quarry,José,,,None,Pitchfork,Fast,Yes,9.5,,Defensive
+Chapter 1-3,Inside Fence - First Time,Manuel,,,None,Unarmed,Very Slow,Yes,9.5,,
+Chapter 1-3,Inside Fence - First Time,José,,,None,Axe,Very Fast,Yes,7.9,,
+Chapter 1-3,Inside Fence - First Time,Esteban,,,None,Pitchfork,Medium,Yes,6.3,,
+Chapter 1-3,Inside Fence - Second Time,Manuel,,,Brown Hat,Unarmed,Fast,Yes,7.9,,
+Chapter 1-3,Inside Fence - Second Time,José,,,Blue Hat,Dynamite,Slow,Yes,9.5,,
+Chapter 1-3,Inside Fence - Second Time,Isabel,,,None,Knife (Left),Very Slow,Yes,7.9,,
+Chapter 1-3,Outside Fence - First Time,José,,,None,Pitchfork,Very Fast,Yes,9.5,,
+Chapter 1-3,Outside Fence - First Time,Esteban,,,None,Unarmed,Very Slow,Yes,6.3,,Tall
+Chapter 1-3,Outside Fence - First Time,Isabel,,,None,Axe (Left),Medium,Yes,7.9,,
+Chapter 1-3,Outside Fence - Second Time,Manuel,,,None,Unarmed,Slow,Yes,7.9,,Tall
+Chapter 1-3,Outside Fence - Second Time,José,,,Brown Hat,Dynamite,Very Slow,Yes,6.3,,
+Chapter 1-3,Wetlands,Manuel,,,Blue Watch Cap,Unarmed,Medium,Yes,6.3,,
+Chapter 1-3,Wetlands,José,,,Brown Hat,Inf. Axe (Left),Very Fast,Yes,6.3,,
+Chapter 1-3,Wetlands,Diego,,,None,Unarmed,Slow,Yes,9.5,,Tall
+Chapter 1-3,Wetlands,Esteban,,,Blue Hat,Inf. Sickle,Fast,Yes,9.5,,
+Chapter 1-3,Wetlands,José,,,Blue Hat,Axe,Fast,Yes,7.9,,
+Chapter 1-3,Wetlands,Esteban,,,None,Unarmed,Very Fast,Yes,7.9,,
+Chapter 1-3,Wetlands,Manuel,,,Green Watch Cap,Unarmed,Slow,Yes,7.9,,
+Chapter 1-3,Wetlands,José,,,None,Inf. Sickle (Left),Medium,Yes,7.9,,
+Chapter 1-3,Wetlands,Manuel,,,None,Pitchfork (Left),Very Slow,Yes,6.3,,
+Chapter 1-3,Wetlands,Esteban,,,Brown Hat,Unarmed,Very Slow,Yes,7.9,,
+Chapter 1-3,Killing Five Enemies,Manuel,,,None,Axe,Very Fast,Yes,11.9,,
+Chapter 1-3,Killing Five Enemies,Diego,,,None,Unarmed,Fast,Yes,11.9,,Tall
+Chapter 1-3,Killing Five Enemies,José,,,Blue Hat,Sickle (Left),Fast,Yes,7.9,,
+Chapter 1-3,Killing Five Enemies,José,,,None,Unarmed,Very Slow,Yes,11.9,,
+Chapter 1-3,Killing Five Enemies,Esteban,,,None,Pitchfork,Slow,Yes,11.9,,
+Chapter 1-3,Killing Ten Enemies,Manuel,,,Blue Watch Cap,Unarmed,Fast,Yes,9.5,,
+Chapter 1-3,Killing Ten Enemies,Esteban,,,Blue Hat,Axe,Fast,Yes,7.9,,
+Chapter 1-3,Killing Ten Enemies,Manuel,,,Green Watch Cap,Sickle (Left),Fast,Yes,9.5,,
+Chapter 1-3,Killing Ten Enemies,José,,,Brown Hat,Unarmed,Medium,Yes,7.9,,
+Chapter 1-3,Killing Ten Enemies,Diego,,,Green Watch Cap,Pitchfork,Slow,Yes,6.3,,
+Chapter 1-3,Lake,Del Lago,,,,,,,,-,Mandatory Kill
+Chapter 2-1,Lake II,Colmillo Plaga,,,,,,,6.3,-,
+Chapter 2-1,Lake II,Colmillo,,,,,,,9.5,-,
+Chapter 2-1,Lake II,Colmillo,,,,,,,9.5,-,
+Chapter 2-1,Lake II,Colmillo,,,,,,,7.9,-,
+Chapter 2-1,Plaga Cutscene,Villager Bladed Plaga,,Esteban,,Unarmed,Fast,?,35.3,-,Drops '5000 pesetas' in gold bars
+Chapter 2-1,Plaga Cutscene,Diego,,,None,Axe,Slow,Yes,11.9,Bladed,
+Chapter 2-1,Tower,Manuel,,,None,Inf. Sickle,Very Slow,Yes,2.4,,Sniper
+Chapter 2-1,Tunnel Attack,José,,,None,Unarmed,Very Slow,Yes,9.5,Bladed,
+Chapter 2-1,Tunnel Attack,Manuel,,,None,Axe (Left),Very Fast,Yes,7.9,,Tall
+Chapter 2-1,Tunnel Attack,Diego,,,Blue Watch Cap + Glasses,Sickle,Very Fast,Yes,6.3,,
+Chapter 2-1,Tunnel Attack,Esteban,,,None,Pitchfork,Slow,Yes,6.3,,
+Chapter 2-1,Tunnel Attack,Diego,,,None,Torch [Blow],Very Slow,Yes,7.9,,
+Chapter 2-1,Enemies from behind,Diego,,,None,Sickle,Fast,Yes,7.9,,
+Chapter 2-1,Enemies from behind,José,,,Blue Hat,Torch [Blow] (Left),Medium,Yes,9.5,Bladed,
+Chapter 2-1,Wetlands (Backtracking),Esteban,,,None,Unarmed,Medium,Yes,9.5,Bladed,
+Chapter 2-1,Wetlands (Backtracking),Diego,,,None,Pitchfork (Left),Very Fast,Yes,7.9,,
+Chapter 2-1,Wetlands (Backtracking),Manuel,,,None,Sickle (Left),Very Slow,Yes,9.5,,
+Chapter 2-1,Wetlands (Backtracking),Diego,,,None,Inf. Axe,Fast,Yes,6.3,,
+Chapter 2-1,Wetlands (Backtracking),Diego,,,None,Torch [Blow],Medium,Yes,7.9,Bladed,
+Chapter 2-1,Wetlands (Backtracking),Esteban,,,None,Pitchfork,Slow,Yes,7.9,,
+Chapter 2-1,Wetlands (Backtracking),Diego,,,None,Inf. Axe (Left),Fast,Yes,6.3,Bladed,
+Chapter 2-1,Wetlands (Backtracking),José,,,None,Unarmed,Very Slow,Yes,7.9,Bladed,
+Chapter 2-1,Wetlands (Backtracking),Esteban,,,None,Torch [Blow] (Left),Slow,Yes,7.9,Bladed,
+Chapter 2-1,Wetlands (Backtracking),Diego,,,None,Sickle (Left),Fast,Yes,6.3,,
+Chapter 2-1,Wetlands (Backtracking),Manuel,,,None,Pitchfork (Left),Very Fast,Yes,9.5,,
+Chapter 2-1,Quarry,Gigante,,,,,,,16.7,-,Mandatory Kill. Drops '15000 pesetas' in gold bars
+Chapter 2-1,Cemetery II,Colmillo,,,,,,,6.3,-,
+Chapter 2-1,Cemetery II,Colmillo,,,,,,,9.5,-,
+Chapter 2-1,Cemetery II,Colmillo,,,,,,,7.9,-,
+Chapter 2-1,Village III,José,,,None,Sickle,Very Fast,Yes,7.9,Bladed,Tall
+Chapter 2-1,Village III,Esteban,,,None,Pitchfork,Very Slow,Yes,7.9,Bladed,
+Chapter 2-1,Village III,Isabel,,,Blue Headscarf,Knife,Very Slow,Yes,6.3,,
+Chapter 2-1,Village III,Manuel,,,None,Axe (Left),Slow,Yes,7.9,Bladed,
+Chapter 2-1,Footpath to the Farm,Isabel,,,None,Torch [Blow] (Left),Fast,Yes,9.5,,
+Chapter 2-1,Footpath to the Farm,Esteban,,,None,Axe,Medium,Yes,7.9,Bladed,
+Chapter 2-1,Footpath to the Farm,José,,,None,Pitchfork (Left),Medium,Yes,9.5,,
+Chapter 2-1,Footpath to the Farm,Manuel,,,None,Torch [Blow],Very Fast,Yes,6.3,Bladed,
+Chapter 2-1,Small Barn,Esteban,,,None,Pitchfork,Very Fast,Yes,6.3,,
+Chapter 2-1,Large Barn,José,,,None,Unarmed,Medium,Yes,9.5,,
+Chapter 2-1,Under Catwalk,Esteban,,,Blue Hat,Torch [Blow] (Left),Medium,Yes,7.9,Bladed,
+Chapter 2-1,Under Catwalk,José,,,Brown Hat,Torch [Hit],Fast,Yes,9.5,,
+Chapter 2-1,Under Catwalk,Isabel,,,None,Axe,Slow,Yes,7.9,Bladed,
+Chapter 2-1,Catwalk,Manuel,,,Brown Hat,Inf. Sickle,Very Fast,Yes,6.3,,Sniper
+Chapter 2-1,Catwalk,Isabel,,,Yellow Headscarf,Inf. Axe (Left),Slow,Yes,7.9,Bladed,Sniper
+Chapter 2-1,Cabin Gate,Manuel,,,None,Axe,Very Slow,Yes,7.9,Bladed,
+Chapter 2-2,Church,Black Zealot,A,Insignia,Gold Necklace,Crossbow,Very Slow,Yes,17,,Drops '5000 pesetas'
+Chapter 2-2,Church,Black Zealot,B,Plain,Silver Necklace,Crossbow (Left),Medium,?,17,,Drops 'Handgun Ammo (10)'
+Chapter 2-2,Cemetery III,José,,,None,Torch [Blow],Very Slow,Yes,9.5,Bladed,
+Chapter 2-2,Cemetery III,Esteban,,,None,Torch [Blow],Slow,Yes,6.3,Bladed,
+Chapter 2-2,Cemetery III,Isabel,,,None,Torch [Blow] (Left),Fast,Yes,7.9,,
+Chapter 2-2,Cemetery III,Manuel,,,Blue Hat,Torch [Blow] (Left),Very Slow,Yes,7.9,,
+Chapter 2-2,Cemetery III,Esteban,,,Blue Hat,Torch [Blow],Very Fast,Yes,6.3,Bladed,
+Chapter 2-2,Cemetery III,Manuel,,,None,Torch [Blow] (Left),Very Fast,Yes,7.9,,
+Chapter 2-2,Cemetery III,José,,,Brown Hat,Torch [Hit],Medium,Yes,9.5,Bladed,
+Chapter 2-2,Window I,Manuel,,,None,Inf. Axe,Very Fast,Yes,7.9,,
+Chapter 2-2,Window I,Esteban,,,None,Unarmed,Slow,Yes,6.3,Bladed,
+Chapter 2-2,Window I,José,,,None,Torch [Hit],Very Slow,Yes,9.5,Bladed,
+Chapter 2-2,Window II,Diego,,,None,Unarmed,Fast,Yes,7.9,,
+Chapter 2-2,Window II,José,,,None,Torch [Hit],Medium,Yes,9.5,Bladed,
+Chapter 2-2,Window II,Manuel,,,None,Inf. Sickle,Very Slow,Yes,7.9,,
+Chapter 2-2,Window III,Diego,,,None,Unarmed,Slow,Yes,7.9,,
+Chapter 2-2,Window III,Esteban,,,None,Unarmed,Very Fast,Yes,6.3,Bladed,
+Chapter 2-2,Window III,José,,,None,Torch [Hit] (Left),Fast,Yes,9.5,Bladed,
+Chapter 2-3,Second Level (Near beginning),Maria,,,None,Knife,Slow,Yes,7.9,,
+Chapter 2-3,Second Level (Near beginning),Diego,,,None,Inf. Axe,Medium,Yes,7.9,Bladed,Sniper
+Chapter 2-3,Ground Level,Isabel,,,None,Torch [Blow],Fast,Yes,9.5,Bladed,
+Chapter 2-3,Ground Level,Diego,,,None,Torch [Blow],Slow,Yes,9.5,,
+Chapter 2-3,Ground Level,Maria,,,None,Knife,Very Fast,Yes,7.9,Bladed,
+Chapter 2-3,Ground Level,Esteban,,,Blue Hat,Pitchfork,Fast,Yes,7.9,Bladed,
+Chapter 2-3,Second Level,Esteban,,,None,Inf. Sickle (Left),Very Slow,Yes,6.3,,Sniper. Patrolling
+Chapter 2-3,Second Level,Isabel,,,Blue Headscarf,Pitchfork,Very Slow,Yes,6.3,,Patrolling
+Chapter 2-3,Second Level,Diego,,,None,Axe (Left),Very Fast,Yes,7.9,Bladed,Patrolling
+Chapter 2-3,Second Level,Maria,,,Yellow Headscarf,Knife,Medium,Yes,7.9,,Patrolling
+Chapter 2-3,Second Level,Esteban,,,Brown Hat,Torch [Hit],Very Slow,Yes,6.3,Bladed,Patrolling. Tall
+Chapter 2-3,Ambush,Bella Sister Maria,,,,Chainsaw,,,31.5,-,Drops the 'Camp Key'
+Chapter 2-3,Ambush,Bella Sister Isabel,,,,Chainsaw,,,31.5,-,Drops a 'Ruby'
+Chapter 2-3,Ambush,Isabel,,,None,Unarmed,Very Fast,Yes,6.3,Bladed,
+Chapter 2-3,Ambush,Esteban,,,None,Torch [Blow],Very Fast,Yes,7.9,,
+Chapter 2-3,Ambush,Diego,,,None,Torch [Blow] (Left),Slow,Yes,9.5,Bladed,
+Chapter 2-3,Snipers,Diego,,,None,Inf. Axe,Fast,Yes,9.5,Bladed,Sniper
+Chapter 2-3,Snipers,Esteban,,,None,Inf. Sickle (Left),Slow,Yes,7.9,Bladed,Sniper
+Chapter 2-3,Camp,Isabel,,,None,Knife,Fast,Yes,7.9,,
+Chapter 2-3,Camp,Esteban,,,Blue Hat,Torch [Blow] (Left),Fast,Yes,7.9,,
+Chapter 2-3,Camp,Diego,,,None,Pitchfork,Medium,Yes,6.3,Bladed,
+Chapter 2-3,Camp,Maria,,,Yellow Headscarf,Sickle (Left),Slow,Yes,9.5,Bladed,
+Chapter 2-3,Capped Spawn (11),Isabel,,,None,Torch [Blow] (Left),Medium,Yes,9.5,,
+Chapter 2-3,Capped Spawn (11),Esteban,,,Blue Hat,Pitchfork (Left),Medium,Yes,7.9,,Tall
+Chapter 2-3,Capped Spawn (11),Maria,,,None,Knife,Very Slow,Yes,7.9,,
+Chapter 2-3,Capped Spawn (11),Diego,,,Brown Hat,Sickle,Very Slow,Yes,6.3,,
+Chapter 2-3,Capped Spawn (11),Esteban,,,Blue Hat,Pitchfork (Left),Very Fast,Yes,6.3,Bladed,
+Chapter 2-3,Capped Spawn (11),Diego,,,None,Unarmed,Very Fast,Yes,7.9,Bladed,
+Chapter 2-3,Capped Spawn (11),Diego,,,None,Unarmed,Slow,Yes,7.9,,
+Chapter 2-3,Capped Spawn (11),Isabel,,,Yellow Headscarf,Knife,Slow,Yes,9.5,,
+Chapter 2-3,Capped Spawn (11),Isabel,,,Blue Headscarf,Axe,Fast,Yes,9.5,Bladed,
+Chapter 2-3,Capped Spawn (11),Maria,,,Blue Headscarf,Torch [Blow] (Left),Fast,Yes,7.9,Bladed,
+Chapter 2-3,Right Path,Gigante,,,,,,,16.7,-,Drops '15000 pesetas' in gold bars
+Chapter 2-3,Jumpers,José,,,None,Axe,?,?,0.1,,
+Chapter 2-3,Jumpers,Diego,,,None,Axe,?,?,0.1,,
+Chapter 2-3,Cart I,José,,,None,Inf. Axe,?,?,7.9,,
+Chapter 2-3,Cart II,Manuel,,,Blue Watch Cap,Inf. Sickle (Left),?,?,6.3,,Tall
+Chapter 2-3,Cart II,Diego,,,None,Inf. Sickle,?,?,9.5,,
+Chapter 2-3,Cart II,Esteban,,,None,Inf. Axe,?,?,7.9,,
+Chapter 2-3,Cart II,José,,,Blue Hat,Inf. Axe (Left),?,?,7.9,,
+Chapter 2-3,Cart II,Manuel,,,None,Inf. Sickle (Left),?,?,6.3,,
+Chapter 2-3,Cart IV,Esteban,,,Brown Hat,Inf. Axe,?,?,9.5,,
+Chapter 2-3,Cart V,Manuel,,,Blue Watch Cap,Inf. Sickle,?,?,7.9,,
+Chapter 2-3,Cart V,Diego,,,Blue Hat,Inf. Sickle,?,?,7.9,,
+Chapter 2-3,Cart V,José,,,None,Inf. Axe (Left),?,?,6.3,,
+Chapter 2-3,Cart VI,Esteban,,,Brown Hat,Inf. Axe,?,?,9.5,,
+Chapter 2-3,Sacrifice Cave,Manuel,,,None,Inf. Axe,Very Fast,Yes,7.9,,
+Chapter 2-3,Sacrifice Cave,José,,,None,Dynamite (Left),Very Slow,Yes,9.5,,
+Chapter 2-3,Sacrifice Cave,Esteban,,,None,Pitchfork (Left),Slow,Yes,6.3,Bladed,Defensive. Sniper
+Chapter 2-3,Slaughterhouse,Bitores Mendez I,,,,,,,125,-,
+Chapter 2-3,Slaughterhouse,Bitores Mendez II,,,,,,,58.4,-,Mandatory Kill. Drops the 'False Eye' key item + '30000 ptas' in gold bars
+Chapter 2-3,Village Exit,Esteban,,,None,Torch [Blow],Slow,Yes,7.9,,Tall
+Chapter 2-3,Village Exit,Diego,,,None,Torch [Blow],Fast,Yes,7.9,,
+Chapter 2-3,Village Exit,José,,,None,Torch [Blow] (Left),Very Slow,Yes,7.9,,
+Chapter 2-3,Onslaught,Manuel,,,Blue Watch Cap,Torch [Blow],Very Slow,Yes,7.9,,
+Chapter 2-3,Onslaught,José,,,None,Unarmed,Medium,No,7.9,Bladed,
+Chapter 2-3,Onslaught,José,,,Brown Hat,Axe (Left),Fast,Yes,7.9,,
+Chapter 2-3,Onslaught,Esteban,,,Blue Hat,Torch [Blow],Slow,Yes,7.9,,
+Chapter 2-3,Onslaught,Manuel,,,None,Inf. Axe,Very Fast,?,7.9,Bladed,
+Chapter 2-3,Onslaught,José,,,Brown Hat,Torch [Hit],Very Fast,Yes,7.9,Bladed,
+Chapter 2-3,Onslaught,Esteban,,,None,Unarmed,Very Slow,No,7.9,Bladed,
+Chapter 2-3,Onslaught,José,,,None,Torch [Blow],Medium,No,7.9,,
+Chapter 3-1,Patrolling,Black Zealot,B,Plain,None,Unarmed,Fast,Yes,14.1,,Patrolling
+Chapter 3-1,Patrolling,Black Zealot,B,Plain,None,Unarmed,Medium,No,14.1,,Patrolling
+Chapter 3-1,Spawn Behinds (Crossing Archway),Black Zealot,A,Plain,Silver Necklace,Unarmed,Slow,No,9.9,,
+Chapter 3-1,Spawn Behinds (Crossing Archway),Black Zealot,B,Plain,Silver Necklace,Unarmed,Fast,No,9.9,,
+Chapter 3-1,Yellow Herb House,Black Skull,A,Insignia,None,Scythe,Fast,No,14.1,,
+Chapter 3-1,Catapult Attack,Red Goat,C,Black Insignia,Silver Necklace,Unarmed,Very Fast,No,14.1,,Stationary
+Chapter 3-1,Catapult Attack,Black Zealot,B,Plain,Tattoo 1,Unarmed,?,?,0.1,,Catapult operator
+Chapter 3-1,Catapult Attack,Black Zealot,A,Plain,None,Unarmed,?,?,0.1,,Catapult operator
+Chapter 3-1,Catapult Attack,Black Zealot,A,Plain,Tattoo 1,Unarmed,?,?,0.1,,Catapult operator
+Chapter 3-1,Catapult Attack,Black Zealot,A,Plain,None,Unarmed,?,?,0.1,,Catapult operator
+Chapter 3-1,Two Swords Room,Black Zealot,A,Insignia,None,Unarmed,Very Fast,No,14.1,,
+Chapter 3-1,Two Swords Room,Black Zealot,B,Insignia,Silver Necklace,Unarmed,Slow,No,14.1,Head-Eater,
+Chapter 3-1,Two Swords Room,Black Zealot,B,Insignia,Tattoo 1,Unarmed,Very Slow,No,14.1,,
+Chapter 3-1,Attack Leader,Red Baldie,C,Plain,Tattoo 1 + Silver Necklace,Flail,Very Slow,No,35.3,Head-Eater,Defensive. Drops '4500 pesetas'
+Chapter 3-1,Wave I,Black Zealot,A,Plain,Silver Necklace,Flail,Slow,No,14.1,,
+Chapter 3-1,Wave I,Black Baldie,B,Plain,Tattoo 1 + Silver Necklace,Flail,Very Fast,No,14.1,Head-Eater,
+Chapter 3-1,Wave II,Black Zealot,B,Plain,Silver Necklace,Flail,Fast,No,14.1,,
+Chapter 3-1,Wave II,Black Zealot,A,Plain,Silver Necklace,Flail,Medium,No,14.1,,Tall
+Chapter 3-1,Wave III,Black Zealot,A,Plain,None,Flail,Fast,No,14.1,,
+Chapter 3-1,Wave III,Black Zealot,B,Plain,Tattoo 1,Flail,Slow,No,14.1,,
+Chapter 3-1,Sentinel,Black Zealot,A,Plain,Tattoo 1,Unarmed,Very Fast,No,14.1,,
+Chapter 3-1,Response Team,Black Baldie,B,Plain,Tattoo 1,Flail,Medium,No,14.1,Head-Eater,
+Chapter 3-1,Response Team,Black Zealot,A,Plain,None,Unarmed,Fast,No,14.1,Head-Eater,
+Chapter 3-1,Response Team,Black Zealot,B,Insignia,Silver Necklace,Unarmed,Slow,No,14.1,,
+Chapter 3-1,Inside Barrack,Black Zealot,B,Plain,None,Flail,Very Fast,No,14.1,Head-Eater,
+Chapter 3-1,Inside Barrack,Black Zealot,A,Insignia,Silver Necklace,Flail,Very Slow,No,14.1,,Tall
+Chapter 3-1,Archway,Black Zealot,A,Plain,None,Crossbow,Medium,No,7.1,,Stationary. Tall
+Chapter 3-1,Gate Key Room Door,Black Zealot,A,Plain,None,Flail & Shield,Fast,No,14.1,,
+Chapter 3-1,Gate Key Room Door,Black Zealot,B,Plain,None,Flail & Shield,Slow,No,14.1,,
+Chapter 3-1,Picking up 'Castle Gate Key',Black Zealot,A,Plain,None,Unarmed,Very Fast,No,14.1,Head-Eater,
+Chapter 3-1,Picking up 'Castle Gate Key',Black Zealot,A,Plain,Silver Necklace,Unarmed,Fast,No,14.1,Head-Eater,
+Chapter 3-1,Picking up 'Castle Gate Key',Black Zealot,A,Plain,None,Flail,Medium,No,14.1,Head-Eater,
+Chapter 3-1,Picking up 'Castle Gate Key',Black Zealot,B,Plain,None,Flail,Very Slow,No,14.1,,
+Chapter 3-1,Picking up 'Castle Gate Key',Black Zealot,B,Plain,Silver Necklace,Flail,Slow,No,14.1,,
+Chapter 3-1,Two Swords Room Door,Black Zealot,A,Plain,None,Flail,Very Slow,Yes,14.1,,
+Chapter 3-1,Two Swords Room Door,Black Zealot,A,Plain,Tattoo 1,Flail,Fast,Yes,14.1,,Tall
+Chapter 3-1,Patrolling at West Area,Black Zealot,B,Plain,None,Flail,Very Fast,No,14.1,,
+Chapter 3-1,Patrolling at West Area,Black Skull,A,Plain,Gold Necklace,Flail,Slow,No,14.1,,
+Chapter 3-1,Patrolling at West Area,Black Zealot,B,Plain,Tattoo 1,Flail,Fast,No,14.1,,
+Chapter 3-1,Prison,Garrador,,,,,,,444.5,-,Mandatory Kill. Drops '15000 pesetas'
+Chapter 3-1,Path to Water Hall,Black Baldie,A,Plain,Tattoo 1 + Silver Necklace,Unarmed,Very Fast,Yes,14.1,,Tall
+Chapter 3-1,Path to Water Hall,Black Baldie,B,Plain,Tattoo 1 + Silver Necklace,Flail,Very Fast,Yes,14.1,,
+Chapter 3-1,Path to Water Hall,Black Baldie,A,Plain,Tattoo 1 + Silver Necklace,Unarmed,Very Slow,Yes,14.1,Head-Eater,
+Chapter 3-1,Path to Water Hall,Black Zealot,B,Insignia,None,Dynamite,Medium,No,14.1,,Defensive
+Chapter 3-1,Path to Water Hall,Black Hooded,A,Plain,Gold Necklace,Crossbow,Fast,?,8.5,,Defensive
+Chapter 3-1,Path to Water Hall,Black Hooded,B,Plain,Gold Necklace,Crossbow,Slow,?,5.7,,Defensive
+Chapter 3-1,Red Zealot's Company,Red Zealot,C,Golden Insignia,Tattoo 2 + Gold Necklace,Flail,Slow,Yes,39.5,Head-Eater,Drops '4500 pesetas'
+Chapter 3-1,Red Zealot's Company,Black Hooded,A,Plain,None,Flail & Shield,Medium,No,11.3,,
+Chapter 3-1,Red Zealot's Company,Black Hooded,B,Plain,None,Flail & Shield,Very Slow,No,11.3,,
+Chapter 3-1,Red Zealot's Company,Black Zealot,A,Insignia,None,Flail,Very Fast,No,14.1,,
+Chapter 3-1,Red Zealot's Company,Black Zealot,A,Insignia,Tattoo 2,Flail,Very Slow,No,14.1,,
+Chapter 3-1,Red Zealot's Company,Black Hooded,B,Plain,Silver Necklace,Unarmed,Very Fast,No,11.3,,
+Chapter 3-1,Red Zealot's Company,Black Hooded,B,Plain,Silver Necklace,Unarmed,Fast,Yes,11.3,,
+Chapter 3-1,Balcony Crossbowmen,Black Baldie,B,Plain,Tattoo 1 + Gold Necklace,Crossbow,Medium,?,7.1,,Stationary
+Chapter 3-1,Balcony Crossbowmen,Black Baldie,A,Plain,Tattoo 2,Crossbow,Very Slow,?,7.1,,Stationary
+Chapter 3-1,Downstairs,Black Zealot,B,Plain,Tattoo 1,Unarmed,Slow,No,11.3,Head-Eater,
+Chapter 3-1,Downstairs,Black Baldie,A,Plain,Tattoo 1 + Silver Necklace,Unarmed,Very Fast,No,17,,Tall
+Chapter 3-1,Switch Room Corridor (Idle),Black Hooded,A,Plain,Gold Necklace,Flail & Shield,Medium,No,14.1,,
+Chapter 3-1,Switch Room Corridor (Idle),Black Skull,A,Insignia,Gold Necklace,Flail,Medium,No,14.1,,
+Chapter 3-1,Lateral Doors (In Pursuit),Black Zealot,A,Plain,Tattoo 2 + Gold Necklace,Flail,Slow,No,14.1,Head-Eater,
+Chapter 3-1,Lateral Doors (In Pursuit),Black Zealot,A,Plain,Tattoo 2 + Gold Necklace,Flail,Medium,Yes,11.3,,
+Chapter 3-1,Lateral Doors (In Pursuit),Black Zealot,B,Insignia,Tattoo 1 + Silver Necklace,Flail,Fast,No,11.3,,
+Chapter 3-1,Lateral Doors (In Pursuit),Black Zealot,B,Plain,Tattoo 2 + Gold Necklace,Flail & Shield,Very Slow,Yes,11.3,,
+Chapter 3-1,Right Door,Black Zealot,A,Insignia,None,Flail & Shield,Very Fast,No,14.1,,
+Chapter 3-1,Right Door,Black Zealot,B,Insignia,Tattoo 2 + Gold Necklace,Flail,Slow,No,11.3,,
+Chapter 3-1,Left Door,Black Zealot,A,Insignia,Silver Necklace,Flail & Shield,Medium,No,14.1,,
+Chapter 3-1,Left Door,Black Zealot,B,Insignia,Tattoo 1 + Silver Necklace,Flail,Very Slow,No,11.3,,
+Chapter 3-1,Fixed Spawn (1st and 6th slots),Black Zealot,A,Insignia,Tattoo 2 + Gold Necklace,Flail & Shield,Medium,Yes,14.1,Head-Eater,
+Chapter 3-1,Alternating Spawn,Black Zealot,A,Plain,Tattoo 1 + Silver Necklace,Unarmed,Medium,No,11.3,,
+Chapter 3-1,Alternating Spawn,Black Zealot,A,Insignia,Tattoo 1 + Silver Necklace,Flail,Medium,No,11.3,,
+Chapter 3-1,Fixed Spawn (1st and 6th slots),Black Zealot,A,Insignia,Gold Necklace,Flail,Medium,Yes,11.3,Head-Eater,
+Chapter 3-1,Fixed Spawn (4th slot),Black Zealot,A,Insignia,Tattoo 2 + Gold Necklace,Flail & Shield,Medium,Yes,14.1,Head-Eater,
+Chapter 3-1,Alternating Spawn,Black Zealot,A,Insignia,Gold Necklace,Unarmed,Medium,No,14.1,,
+Chapter 3-1,Alternating Spawn,Black Zealot,A,Insignia,Tattoo 2,Flail & Shield,Medium,Yes,14.1,,
+Chapter 3-1,Replacement Enemies (Exiting and Reentering Water Hall),Black Hooded,B,Plain,Gold Necklace,Flail & Shield,Very Fast,No,14.1,,
+Chapter 3-1,Replacement Enemies (Exiting and Reentering Water Hall),Black Skull,B,Insignia,Gold Necklace,Flail,Fast,No,14.1,,
+Chapter 3-1,Replacement Enemies (Exiting and Reentering Water Hall),Black Zealot,B,Insignia,Tattoo 2 + Gold Necklace,Flail & Shield,Medium,Yes,14.1,Head-Eater,
+Chapter 3-1,Replacement Enemies (Exiting and Reentering Water Hall),Black Zealot,B,Plain,Tattoo 1 + Silver Necklace,Unarmed,Medium,No,11.3,,
+Chapter 3-1,Replacement Enemies (Exiting and Reentering Water Hall),Black Zealot,B,Insignia,Tattoo 1 + Silver Necklace,Flail,Medium,No,11.3,,
+Chapter 3-1,Replacement Enemies (Exiting and Reentering Water Hall),Black Zealot,A,Insignia,Gold Necklace,Flail,Very Slow,Yes,11.3,Head-Eater,
+Chapter 3-1,Replacement Enemies (Exiting and Reentering Water Hall),Black Zealot,A,Insignia,Gold Necklace,Unarmed,Medium,No,14.1,,
+Chapter 3-1,Replacement Enemies (Exiting and Reentering Water Hall),Black Zealot,B,Insignia,Tattoo 2,Flail & Shield,Fast,Yes,14.1,,
+Chapter 3-1,Lowering Stairs,Red Zealot,C,Black Insignia,Tattoo 1 + Gold Necklace,Scythe,Very Fast,No,32.4,,Drops '5500 pesetas'
+Chapter 3-1,Lowering Stairs,Black Zealot,B,Insignia,Tattoo 2,Scythe,Medium,Yes,14.1,,
+Chapter 3-1,Lowering Stairs,Black Zealot,A,Insignia,None,Scythe,Slow,No,11.3,,
+Chapter 3-1,Lowering Stairs,Black Zealot,B,Insignia,Gold Necklace,Scythe,Fast,No,14.1,,
+Chapter 3-1,Lowering Stairs,Black Zealot,A,Insignia,None,Scythe,Very Slow,Yes,11.3,,
+Chapter 3-1,Ashley's Level Enemies,Black Hooded,A,Plain,Gold Necklace,Unarmed,Slow,No,8.5,,Tall
+Chapter 3-1,Ashley's Level Enemies,Black Zealot,B,Insignia,Tattoo 2 + Gold Necklace,Unarmed,Very Fast,No,8.5,,
+Chapter 3-1,Ashley's Level Enemies,Black Hooded,B,Plain,Gold Necklace,Flail,Fast,No,11.3,,
+Chapter 3-1,Ashley's Level Enemies,Black Hooded,A,Insignia,Gold Necklace,Flail,Medium,No,8.5,,
+Chapter 3-1,Continuous Spawn (Ashley's Level),Black Hooded,A,Insignia,Gold Necklace,Flail,Medium,No,8.5,,
+Chapter 3-1,Continuous Spawn (Ashley's Level),Black Zealot,A,Insignia,Tattoo 2 + Gold Necklace,Unarmed,Medium,No,11.3,,
+Chapter 3-1,Continuous Spawn (Ashley's Level),Black Zealot,A,Insignia,Tattoo 1 + Silver Necklace,Flail,Medium,No,11.3,,
+Chapter 3-1,Continuous Spawn (Ashley's Level),Black Zealot,A,Insignia,Tattoo 2 + Silver Necklace,Unarmed,Medium,No,11.3,,
+Chapter 3-1,Continuous Spawn (Leon's Level),Black Zealot,A,Insignia,Tattoo 1 + Silver Necklace,Flail,Medium,No,11.3,,
+Chapter 3-1,Continuous Spawn (Leon's Level),Black Zealot,A,Insignia,Tattoo 1 + Silver Necklace,Flail,Medium,No,11.3,,
+Chapter 3-1,Continuous Spawn (Leon's Level),Black Zealot,A,Insignia,Gold Necklace,Unarmed,Medium,No,14.1,,
+Chapter 3-1,Continuous Spawn (Leon's Level),Black Zealot,A,Insignia,Tattoo 1 + Silver Necklace,Flail,Medium,No,11.3,,
+Chapter 3-1,Continuous Spawn (Leon's Level),Black Zealot,A,Insignia,Tattoo 1 + Silver Necklace,Flail,Medium,No,11.3,,
+Chapter 3-1,Continuous Spawn (Leon's Level),Black Zealot,A,Insignia,Tattoo 2,Flail & Shield,Medium,Yes,14.1,,
+Chapter 3-1,Continuous Spawn (Leon's Level),Black Zealot,A,Insignia,Tattoo 2,Flail & Shield,Medium,Yes,14.1,,
+Chapter 3-1,Continuous Spawn (Leon's Level),Black Zealot,A,Insignia,Tattoo 1 + Silver Necklace,Flail,Medium,No,11.3,,
+Chapter 3-2,Sewers,Stealth Novistador,,,,,,,23.8,-,
+Chapter 3-2,Sewers,Stealth Novistador,,,,,,,23.8,-,
+Chapter 3-2,Sewers,Stealth Novistador,,,,,,,23.8,-,
+Chapter 3-2,Sewers,Stealth Novistador,,,,,,,23.8,-,
+Chapter 3-2,Sewers,Stealth Novistador,,,,,,,23.8,-,
+Chapter 3-2,Sewers,Stealth Novistador,,,,,,,23.8,-,
+Chapter 3-2,After Turning Valve,Stealth Novistador,,,,,,,23.8,-,
+Chapter 3-2,After Turning Valve,Stealth Novistador,,,,,,,23.8,-,
+Chapter 3-2,After Turning Valve,Stealth Novistador,,,,,,,23.8,-,
+Chapter 3-2,After Turning Valve,Stealth Novistador,,,,,,,23.8,-,
+Chapter 3-2,After Turning Valve,Stealth Novistador,,,,,,,23.8,-,
+Chapter 3-2,After Turning Valve,Stealth Novistador,,,,,,,23.8,-,
+Chapter 3-2,Sacrifice Hall,Red Goat,C,Golden Insignia,Gold Necklace + Illuminados Pendant,Unarmed,Very Slow,No,25.4,Head-Eater,Defensive. Drops an 'Illuminados Pendant'
+Chapter 3-2,Sacrifice Hall,Black Hooded,B,Insignia,Silver Necklace + Spinel,Unarmed,Very Fast,No,14.1,,Drops a 'Spinel'
+Chapter 3-2,Sacrifice Hall,Black Hooded,A,Insignia,Silver Necklace + Spinel,Unarmed,Very Fast,No,14.1,Head-Eater,Drops a 'Spinel'
+Chapter 3-2,Sacrifice Hall,Black Hooded,A,Insignia,Silver Necklace + Spinel,Unarmed,Slow,No,14.1,,Drops a 'Spinel'
+Chapter 3-2,Sacrifice Hall,Black Hooded,B,Insignia,Silver Necklace + Spinel,Unarmed,Fast,No,14.1,,Drops a 'Spinel'
+Chapter 3-2,Sacrifice Hall,Black Hooded,B,Insignia,Silver Necklace + Spinel,Unarmed,Medium,No,14.1,,Drops a 'Spinel'
+Chapter 3-2,Sacrifice Hall,Black Hooded,B,Insignia,Silver Necklace + Spinel,Unarmed,Very Slow,No,14.1,,Drops a 'Spinel'
+Chapter 3-2,Sacrifice Hall,Black Hooded,B,Insignia,Silver Necklace + Spinel,Unarmed,Slow,No,14.1,,Drops a 'Spinel'
+Chapter 3-2,Sacrifice Hall,Black Hooded,A,Insignia,Silver Necklace + Spinel,Unarmed,Medium,No,14.1,Head-Eater,Drops a 'Spinel'
+Chapter 3-2,Sacrifice Hall,Black Hooded,A,Insignia,Silver Necklace + Spinel,Unarmed,Fast,No,14.1,,Drops a 'Spinel'
+Chapter 3-2,Sacrifice Hall,Black Hooded,B,Insignia,Silver Necklace + Spinel,Unarmed,Fast,No,14.1,,Drops a 'Spinel'
+Chapter 3-2,Red Goat Masked Zealot Section,Black Hooded,B,Insignia,None,Flail,Fast,Yes,14.1,Head-Eater,
+Chapter 3-2,Red Goat Masked Zealot Section,Black Hooded,A,Insignia,None,Flail,Slow,Yes,14.1,,
+Chapter 3-2,Red Goat Masked Zealot Section,Black Skull,B,Plain,Gold Necklace,Unarmed,Slow,Yes,17,,Defensive
+Chapter 3-2,Balcony,Black Zealot,A,Plain,Tattoo 2,Crossbow,Fast,?,8.5,,Stationary
+Chapter 3-2,Balcony,Black Zealot,A,Plain,None,Crossbow,Very Slow,?,8.5,,Stationary
+Chapter 3-2,Balcony,Black Skull,B,Insignia,Silver Necklace,Flail,Very Slow,No,17,,Defensive
+Chapter 3-2,Balcony,Black Skull,A,Insignia,Gold Necklace,Flail,Very Fast,No,17,,Defensive
+Chapter 3-2,Upper Door (After Red Zealot's Flight),Black Baldie,A,Plain,None,Flail & Shield,Very Slow,Yes,14.1,,
+Chapter 3-2,Red Zealot,Red Goat,C,Plain,Gold Necklace + Key,Unarmed,Medium,No,84.6,,Mandatory Kill*. Drops the 'Gallery Key'
+Chapter 3-2,Goat Ornament Section,Black Zealot,A,Insignia,Gold Necklace,Scythe,Very Fast,No,14.1,,
+Chapter 3-2,Goat Ornament Section,Black Zealot,B,Insignia,Gold Necklace,Scythe,Slow,No,14.1,,
+Chapter 3-2,Goat Ornament Section,Black Zealot,A,Insignia,Gold Necklace,Scythe,Fast,No,14.1,,
+Chapter 3-2,Goat Ornament Section,Black Zealot,B,Insignia,Gold Necklace,Scythe,Medium,No,14.1,,
+Chapter 3-2,Goat Ornament Section,Black Zealot,B,Insignia,Silver Necklace,Unarmed,Very Slow,Yes,11.3,,
+Chapter 3-2,Goat Ornament Section,Black Baldie,A,Plain,Tattoo 2 + Gold Necklace,Unarmed,Very Fast,Yes,14.1,,
+Chapter 3-2,Killing Two Scythe Zealots,Black Baldie,A,Plain,None,Rocket Launcher,?,?,1.5,,
+Chapter 3-2,Killing Two Scythe Zealots,Black Baldie,B,Plain,None,Rocket Launcher,?,?,1.5,,
+Chapter 3-2,Crossbowmen - First Wave (Killing Four Fixed Enemies),Black Zealot,B,Insignia,None,Crossbow,Very Fast,?,11.3,,
+Chapter 3-2,Crossbowmen - First Wave (Killing Four Fixed Enemies),Black Zealot,A,Insignia,None,Crossbow,Slow,?,9.9,,
+Chapter 3-2,Crossbowmen - First Wave (Killing Four Fixed Enemies),Black Baldie,A,Plain,Gold Necklace + Tattoo 1,Crossbow,Medium,?,11.3,,
+Chapter 3-2,Crossbowmen - First Wave (Killing Four Fixed Enemies),Black Baldie,B,Plain,Silver Necklace,Crossbow,Fast,Yes,8.5,Head-Eater,
+Chapter 3-2,Crossbowmen - Second Wave (Killing Two Crossbowmen),Black Zealot,B,Insignia,None,Crossbow,Fast,?,11.3,Head-Eater,
+Chapter 3-2,Crossbowmen - Second Wave (Killing Two Crossbowmen),Black Baldie,A,Plain,None,Crossbow,Medium,Yes,11.3,Head-Eater,
+Chapter 3-2,Security Switch,Black Zealot,B,Insignia,None,Rocket Launcher,?,?,1.5,,
+Chapter 3-2,Security Switch,Black Zealot,A,Insignia,None,Rocket Launcher,?,?,1.5,,
+Chapter 3-2,Goat Ornament Chest,Black Zealot,A,Insignia,None,Rocket Launcher,Very Slow,No,1.5,,
+Chapter 3-2,Goat Ornament Chest,Black Zealot,B,Insignia,None,Rocket Launcher,Very Fast,No,1.5,,
+Chapter 3-2,Ground Level,Black Skull,A,Insignia,Gold Necklace,Scythe,Slow,No,14.1,,
+Chapter 3-2,Ground Level,Black Skull,B,Insignia,Gold Necklace,Scythe,Fast,No,14.1,,
+Chapter 3-2,Ground Level,Black Skull,A,Insignia,Gold Necklace,Scythe,Medium,No,14.1,,
+Chapter 3-2,Entering Maze,Colmillo,,,,,,,7.9,-,
+Chapter 3-2,South Cage,Colmillo,,,,,,,7.9,-,
+Chapter 3-2,South Cage,Colmillo,,,,,,,7.9,-,
+Chapter 3-2,South Cage,Colmillo,,,,,,,7.9,-,
+Chapter 3-2,Northwest Cage,Colmillo,,,,,,,23.7,-,
+Chapter 3-2,Hidden,Colmillo,,,,,,,7.9,-,
+Chapter 3-2,Hidden,Colmillo,,,,,,,7.9,-,
+Chapter 3-2,Hidden,Colmillo,,,,,,,7.9,-,
+Chapter 3-2,Hidden,Colmillo,,,,,,,7.9,-,
+Chapter 3-2,Hidden,Colmillo,,,,,,,7.9,-,
+Chapter 3-2,Picking up 'Shotgun Shells (5)' from Chest,Colmillo,,,,,,,7.9,-,
+Chapter 3-2,Picking up 'Shotgun Shells (5)' from Chest,Colmillo,,,,,,,7.9,-,
+Chapter 3-2,Picking up 'Moonstone (Left half)',Colmillo,,,,,,,7.9,-,
+Chapter 3-2,Picking up 'Moonstone (Left half)',Colmillo,,,,,,,7.9,-,
+Chapter 3-2,Picking up 'Moonstone (Left half)',Colmillo,,,,,,,7.9,-,
+Chapter 3-2,Picking up 'Moonstone (Left half)',Colmillo,,,,,,,7.9,-,
+Chapter 3-3,Outside Cage,Black Zealot,A,Plain,Silver Necklace,Flail,Slow,No,11.3,,
+Chapter 3-3,Outside Cage,Black Hooded,B,Plain,None,Crossbow,Fast,?,1.5,,
+Chapter 3-3,Outside Cage,Black Zealot,A,Insignia,Gold Necklace,Flail,Slow,Yes,11.3,,
+Chapter 3-3,Outside Cage,Black Zealot,B,Insignia,Gold Necklace,Unarmed,Medium,Yes,14.1,,
+Chapter 3-3,Cage Enemies,Garrador,,,,,,,444.5,-,Drops '15000 pesetas'
+Chapter 3-3,Cage Enemies,Black Baldie,B,Plain,Tattoo 1 + Silver Necklace,Unarmed,Slow,Yes,14.1,,
+Chapter 3-3,Cage Enemies,Black Zealot,A,Plain,Silver Necklace,Unarmed,Very Fast,No,11.3,,
+Chapter 3-3,Cage Enemies,Black Zealot,A,Insignia,Tattoo 2 + Silver Necklace,Flail,Medium,Yes,14.1,,Tall
+Chapter 3-3,Cage Enemies,Black Baldie,B,Plain,Tattoo 1,Unarmed,Slow,Yes,11.3,Spider,
+Chapter 3-3,Cage Enemies,Black Zealot,B,Plain,Gold Necklace,Unarmed,Very Slow,Yes,14.1,Spider,
+Chapter 3-3,Defending Lever,Red Zealot,C,Black Insignia,Tattoo 1 + Gold Necklace,Flail,Slow,No,14.1,Spider,Defensive
+Chapter 3-3,Defending Lever,Red Zealot,C,Black Insignia,Tattoo 2 + Gold Necklace,Flail,Fast,No,14.1,,Defensive
+Chapter 3-3,Defending Lever,Black Hooded,B,Insignia,None,Flail,Very Slow,No,14.1,,Patrolling
+Chapter 3-3,Dining Hall Door,Black Baldie,A,Plain,None,Unarmed,Fast,Yes,17,Spider,
+Chapter 3-3,Dining Hall Door,Black Zealot,B,Insignia,Tattoo 1,Unarmed,Medium,No,11.3,Spider,
+Chapter 3-3,Shield Trio,Black Hooded,B,Insignia,Gold Necklace,Flail & Shield,Fast,No,11.3,,
+Chapter 3-3,Shield Trio,Black Hooded,A,Plain,Gold Necklace,Flail & Shield,Slow,No,14.1,,
+Chapter 3-3,Shield Trio,Black Hooded,A,Plain,Gold Necklace,Flail & Shield,Very Fast,No,14.1,,
+Chapter 3-3,Left Area,Black Hooded,A,Insignia,Silver Necklace,Flail,Medium,No,14.1,,Patrolling
+Chapter 3-3,Left Area,Black Zealot,B,Insignia,Gold Necklace,Flail & Shield,Medium,No,14.1,,Patrolling
+Chapter 3-3,Left Area,Black Skull,A,Plain,None,Crossbow,Medium,No,8.5,,Stationary
+Chapter 3-3,Left Area,Black Zealot,B,Plain,Silver Necklace,Flail,Very Slow,No,11.3,,
+Chapter 3-4,First Wave,Black Zealot,B,Plain,None,Unarmed,Very Slow,?,8.5,,Mandatory Kill
+Chapter 3-4,First Wave,Black Zealot,A,Plain,None,Unarmed,Very Fast,?,8.5,,Mandatory Kill
+Chapter 3-4,First Wave,Black Zealot,B,Plain,None,Unarmed,Slow,?,12.7,,Mandatory Kill
+Chapter 3-4,Second Wave,Red Skull,C,Plain,Gold Necklace + Key,Unarmed,Slow,?,22.6,,Mandatory Kill. Drops a key
+Chapter 3-4,Second Wave,Black Zealot,A,Plain,None,Unarmed,Very Slow,?,11.3,,Mandatory Kill
+Chapter 3-4,Second Wave,Black Zealot,B,Plain,Tattoo 1,Crossbow,Very Fast,?,12.7,,Mandatory Kill
+Chapter 3-4,Second Wave,Black Zealot,B,Plain,None,Crossbow,Medium,?,11.3,,Mandatory Kill
+Chapter 3-4,Third Wave,Black Zealot,A,Plain,None,Unarmed,Slow,?,8.5,,
+Chapter 3-4,Third Wave,Black Zealot,B,Plain,None,Unarmed,Very Fast,?,11.3,,
+Chapter 3-4,Fourth Wave,Black Zealot,B,Plain,Silver Necklace,Unarmed,Fast,?,11.3,,
+Chapter 3-4,Fourth Wave,Black Zealot,A,Plain,None,Unarmed,Medium,?,9.9,,
+Chapter 3-4,Library,Black Baldie,B,Plain,Tattoo 2 + Silver Necklace,Unarmed,Fast,No,28.2,,
+Chapter 3-4,Library,Black Baldie,A,Plain,Tattoo 1 + Gold Necklace,Unarmed,Medium,No,28.2,,
+Chapter 3-4,Serpent Ornament Room,White Armadura,,,,Halberd,,,83.4,-,
+Chapter 3-4,Serpent Ornament Room,Black Armadura,,,,Halberd,,,83.4,-,
+Chapter 3-4,Serpent Ornament Room,Black Armadura,,,,Halberd,,,83.4,-,
+Chapter 3-4,Serpent Ornament Room,White Armadura,,,,Halberd,,,83.4,-,
+Chapter 4-1,Cage,Black Skull,B,Insignia,None,Scythe,Fast,Yes,11.3,,
+Chapter 4-1,Cage,Black Skull,A,Plain,None,Unarmed,Slow,Yes,14.1,,
+Chapter 4-1,Cage,Black Skull,A,Plain,None,Scythe,Very Slow,Yes,11.3,,
+Chapter 4-1,Cage,Black Skull,B,Insignia,None,Unarmed,Medium,Yes,17,,
+Chapter 4-1,Door to Western Castle Wall,Black Skull,B,Insignia,None,Scythe,Very Fast,Yes,11.3,,
+Chapter 4-1,Path to Hedge Maze,Black Skull,B,Insignia,Silver Necklace,Unarmed,Fast,Yes,14.1,,
+Chapter 4-1,Path to Hedge Maze,Black Skull,A,Insignia,Silver Necklace,Unarmed,Medium,Yes,11.3,,
+Chapter 4-1,Dragon Riders,Purple Baldie,B,Red Stripe,Tattoo 1,Unarmed,?,?,0.1,,Dragon Rider
+Chapter 4-1,Dragon Riders,Purple Baldie,A,Red Stripe,Tattoo 1,Unarmed,?,?,0.1,,Dragon Rider
+Chapter 4-1,Dragon Riders,Red Skull,C,Golden Insignia,None,Unarmed,?,?,,,Mandatory Kill. Dragon Rider
+Chapter 4-1,Dragon Riders,Purple Hooded,B,Red Stripe,None,Flail,Fast,Yes,14.1,,Defensive
+Chapter 4-1,Dragon Riders,Purple Baldie,A,Red Stripe,Tattoo 1 + Gold Necklace,Unarmed,Slow,Yes,14.1,,Defensive. Tall
+Chapter 4-1,Capped Spawn (4),Purple Zealot,A,Golden Insignia,Tattoo 2 + Gold Necklace,Unarmed,Medium,Yes,14.1,,
+Chapter 4-1,Capped Spawn (4),Purple Hooded,A,Red Stripe,None,Flail,Medium,Yes,14.1,,
+Chapter 4-1,Capped Spawn (4),Purple Baldie,A,Red Stripe,Tattoo 1,Flail,Medium,Yes,14.1,Head-Eater,
+Chapter 4-1,Capped Spawn (4),Purple Zealot,A,Golden Insignia,Tattoo 2 + Gold Necklace,Unarmed,Medium,Yes,14.1,,
+Chapter 4-1,Capped Spawn (4),Purple Hooded,A,Red Stripe,None,Flail,Medium,Yes,14.1,,
+Chapter 4-1,Capped Spawn (4),Purple Baldie,A,Red Stripe,Tattoo 1,Flail,Medium,Yes,14.1,Head-Eater,
+Chapter 4-1,Capped Spawn (4),Purple Zealot,A,Golden Insignia,Tattoo 2 + Gold Necklace,Unarmed,Medium,Yes,14.1,,
+Chapter 4-1,Capped Spawn (4),Purple Hooded,A,Red Stripe,None,Flail,Medium,Yes,14.1,,
+Chapter 4-1,First Wave,White Armadura,,,,Broadsword,,,83.4,-,Mandatory Kill. Drops 'Shotgun Shells (10)'
+Chapter 4-1,First Wave,White Armadura,,,,Halberd,,,83.4,-,Mandatory Kill. Drops 'Handgun Ammo (15)'
+Chapter 4-1,First Wave,White Armadura,,,,Broadsword,,,83.4,-,Mandatory Kill. Drops a 'Green Herb'
+Chapter 4-1,Second Wave,Black Armadura,,,,Broadsword,,,83.4,-,Mandatory Kill. Drops '6500 pesetas'
+Chapter 4-1,Second Wave,Black Armadura,,,,Halberd,,,100,-,Mandatory Kill. Drops '6500 pesetas'
+Chapter 4-1,Second Wave,Black Armadura,,,,Halberd,,,83.4,-,Mandatory Kill. Drops '6500 pesetas'
+Chapter 4-1,Lobby,Purple Skull,A,Golden Insignia,Silver Necklace,Scythe,Slow,No,17,,
+Chapter 4-1,Lobby,Purple Skull,B,Golden Insignia,Silver Necklace,Scythe,Very Fast,No,17,,
+Chapter 4-1,Lobby,Purple Zealot,B,Golden Insignia,Silver Necklace,Scythe,Medium,No,14.1,,
+Chapter 4-1,Lobby,Purple Zealot,A,Golden Insignia,Silver Necklace,Scythe,Very Slow,No,14.1,,
+Chapter 4-1,Lobby,Purple Hooded,B,Golden Insignia,Gold Necklace,Flail & Shield,Fast,Yes,17,,
+Chapter 4-1,Lobby,Purple Hooded,A,Golden Insignia,Gold Necklace,Flail & Shield,Medium,Yes,14.1,,
+Chapter 4-1,Nest,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-1,Nest,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-1,Nest,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-1,Nest,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-1,Nest,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-1,Nest,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-1,Nest,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-1,Nest,Flying Novistador,,,,,,,,-,
+Chapter 4-1,Nest,Flying Novistador,,,,,,,,-,
+Chapter 4-1,Patrolling Sentinels,Purple Zealot,A,Red Stripe,Gold Necklace,Unarmed,Very Fast,Yes,14.1,,
+Chapter 4-1,Patrolling Sentinels,Purple Zealot,B,Red Stripe,None,Flail,Very Slow,Yes,14.1,,
+Chapter 4-1,Catapult Caller,Purple Zealot,B,Red Stripe,Gold Necklace,Unarmed,Fast,Yes,14.1,,
+Chapter 4-1,Idle,Purple Hooded,B,Golden Insignia,None,Scythe,Slow,Yes,14.1,,
+Chapter 4-1,Idle,Purple Hooded,A,Red Stripe,Gold Necklace,Scythe,Fast,Yes,14.1,,
+Chapter 4-1,Catapult Operators,Purple Hooded,?,Red Stripe,None,Unarmed,?,?,0.1,,Catapult operator
+Chapter 4-1,Catapult Operators,Purple Hooded,?,Red Stripe,None,Unarmed,?,?,0.1,,Catapult operator
+Chapter 4-1,Catapult Operators,Purple Baldie,?,Red Stripe,None,Unarmed,?,?,0.1,,Catapult operator
+Chapter 4-1,Third Level,Purple Skull,A,Black Insignia,Silver Necklace,Crossbow,?,?,8.5,,
+Chapter 4-1,Second Level,Purple Skull,B,Black Insignia,Silver Necklace,Crossbow,?,?,8.5,,
+Chapter 4-1,Second Level,Purple Skull,A,Black Insignia,Silver Necklace,Crossbow,?,?,8.5,,
+Chapter 4-1,Bridge Gate,Purple Hooded,B,Golden Insignia,Gold Necklace,Scythe,Medium,Yes,14.1,,
+Chapter 4-1,Bridge Gate,Purple Hooded,B,Red Stripe,Silver Necklace,Scythe,Very Fast,Yes,14.1,Spider,
+Chapter 4-1,Bridge Gate,Purple Zealot,A,Red Stripe,Silver Necklace,Scythe,Very Slow,Yes,14.1,,
+Chapter 4-1,Bridge Gate,Purple Zealot,B,Golden Insignia,Silver Necklace,Crossbow,Fast,?,9.9,,Stationary
+Chapter 4-1,Near Barred Gate,Purple Hooded,A,Red Stripe,Silver Necklace,Unarmed,Slow,Yes,14.1,,
+Chapter 4-1,Second Level,Purple Zealot,A,Black Insignia,Tattoo 1,Flail,Very Slow,No,14.1,,
+Chapter 4-1,Second Level,Purple Baldie,B,Red Stripe,Tattoo 1,Dynamite,Medium,No,8.5,,Defensive
+Chapter 4-1,Bridge (Backtracking),Purple Zealot,A,Red Stripe,Gold Necklace,Unarmed,Fast,Yes,14.1,,
+Chapter 4-1,Bridge (Backtracking),Purple Zealot,A,Red Stripe,Gold Necklace,Unarmed,Very Fast,No,14.1,,
+Chapter 4-1,Bridge (Backtracking),Purple Zealot,B,Red Stripe,Gold Necklace,Unarmed,Slow,No,14.1,,
+Chapter 4-1,Bridge II,Purple Hooded,A,Golden Insignia,Silver Necklace,Flail & Shield,Slow,Yes,14.1,,
+Chapter 4-1,Bridge II,Purple Hooded,B,Golden Insignia,Silver Necklace,Flail & Shield,Fast,Yes,14.1,,
+Chapter 4-1,Bridge II,Purple Hooded,A,Golden Insignia,Silver Necklace,Flail & Shield,Medium,No,14.1,,
+Chapter 4-1,Purple Goat Masked Zealot's Company,Purple Goat,B,Golden Insignia,Gold Necklace,Rocket Launcher,Medium,No,35.3,,Defensive. Drops a 'Gold Bangle'
+Chapter 4-1,Purple Goat Masked Zealot's Company,Purple Hooded,A,Golden Insignia,Silver Necklace,Flail,Very Slow,Yes,11.3,,
+Chapter 4-1,Purple Goat Masked Zealot's Company,Purple Hooded,B,Golden Insignia,Silver Necklace,Flail,Very Fast,Yes,14.1,Spider,
+Chapter 4-1,Purple Goat Masked Zealot's Company,Purple Hooded,B,Golden Insignia,Silver Necklace,Unarmed,Slow,Yes,14.1,Spider,
+Chapter 4-1,Purple Goat Masked Zealot's Company,Purple Hooded,A,Golden Insignia,Silver Necklace,Unarmed,Fast,Yes,11.3,,
+Chapter 4-1,Clock Tower,Purple Zealot,A,Golden Insignia,None,Flail,Very Fast,No,12.7,,Tall
+Chapter 4-1,Clock Tower,Purple Zealot,B,Golden Insignia,Tattoo 1,Unarmed,Very Slow,Yes,14.1,,
+Chapter 4-1,Clock Tower,Purple Baldie,A,Red Stripe,None,Unarmed,Medium,Yes,14.1,,
+Chapter 4-1,Elevated Doors,Purple Hooded,A,Golden Insignia,None,Unarmed,Slow,Yes,17,,
+Chapter 4-1,Elevated Doors,Purple Zealot,B,Golden Insignia,Silver Necklace,Unarmed,Fast,Yes,14.1,,
+Chapter 4-1,Elevated Doors,Purple Hooded,A,Golden Insignia,Gold Necklace,Unarmed,Very Slow,Yes,11.3,,
+Chapter 4-1,Elevated Doors,Purple Baldie,B,Red Stripe,Tattoo 1,Flail,Very Fast,Yes,17,Spider,
+Chapter 4-1,Elevated Doors,Purple Baldie,A,Red Stripe,Tattoo 1,Flail,Slow,Yes,11.3,Spider,
+Chapter 4-1,Elevated Doors,Purple Hooded,B,Golden Insignia,Silver Necklace,Unarmed,Fast,Yes,11.3,,
+Chapter 4-1,Dos Garradores,Garrador,,,,,,,388.9,-,Mandatory Kill*. Drops '15000 pesetas'
+Chapter 4-1,Dos Garradores,Armored Garrador,,,,,,,611.2,-,Mandatory Kill*. Drops '15000 pesetas'
+Chapter 4-1,Dos Garradores,Purple Baldie,A,Red Stripe,Tattoo 1 + Silver Necklace,Unarmed,Slow,Yes,11.3,,
+Chapter 4-1,Dos Garradores,Purple Baldie,B,Red Stripe,Tattoo 2 + Gold Necklace,Unarmed,Fast,Yes,11.3,,
+Chapter 4-1,Dos Garradores,Purple Skull,B,Golden Insignia,Silver Necklace,Flail,Very Fast,Yes,11.3,,Drops a 'First Aid Spray'
+Chapter 4-1,Baldie Avengers - Going up stairs,Purple Skull,A,Golden Insignia,Gold Necklace,Unarmed,Very Fast,Yes,11.3,,
+Chapter 4-1,Baldie Avengers - Going up stairs,Purple Skull,B,Golden Insignia,Gold Necklace,Unarmed,Slow,Yes,14.1,,
+Chapter 4-1,Baldie Avengers - Going up stairs,Purple Skull,A,Golden Insignia,Gold Necklace,Unarmed,Fast,No,14.1,,
+Chapter 4-1,Aqueduct,Verdugo,,,,,,,952.4,-,Drops the 'Crown Jewel'
+Chapter 4-2,Upper Level,Esteban,,,Brown Hat,Torch [Hit],Very Slow,Yes,15.8,,
+Chapter 4-2,Upper Level,Diego,,,None,Torch [Blow] (Left),Medium,Yes,15.8,Bladed,Defensive
+Chapter 4-2,Lower Level,Diego,,,None,Inf. Axe,Medium,?,15.8,,Defensive. Tall
+Chapter 4-2,Lower Level,Esteban,,,Blue Hat,Inf. Axe,Slow,Yes,15.8,Bladed,
+Chapter 4-2,Lower Level,Esteban,,,Brown Hat,Inf. Axe,Very Fast,No,12.6,,Patrolling
+Chapter 4-2,Lower Level,Esteban,,,Blue Hat,Inf. Axe,Fast,Yes,17.4,,Defensive
+Chapter 4-2,Past Boulder,Diego,,,Blue Hat,Inf. Axe,Medium,?,12.6,,
+Chapter 4-2,Past Boulder,Diego,,,Brown Hat,Torch [Hit],Fast,Yes,13.4,,
+Chapter 4-2,Inf. Axe Esteban (Brown Hat),Esteban,,,None,Torch [Blow],Slow,Yes,14.2,Bladed,
+Chapter 4-2,Inf. Axe Esteban (Blue Hat - Near Electric Switch),Esteban,,,None,Dynamite,Very Fast,Yes,15.8,,
+Chapter 4-2,Replacement Spawn (2),Esteban,,,None,Inf. Axe,Fast,?,12.6,,
+Chapter 4-2,Single Enemy,Esteban,,,None,Single Dynamite,Slow,Yes,15.8,,
+Chapter 4-2,Operating Lever,Diego,,,None,Single Dynamite,Fast,Yes,15.8,,
+Chapter 4-2,Jumping down near Lever,Dr. Salvador Diego,,,,Chainsaw,,,35.5,-,Drops '10000 pesetas'
+Chapter 4-2,Upper Level,Esteban,,,Brown Hat,Torch [Hit],Very Slow,Yes,15.8,Bladed,
+Chapter 4-2,Upper Level,Esteban,,,None,Inf. Axe,Very Fast,?,12.6,,
+Chapter 4-2,Upper Level,Diego,,,None,Axe,Medium,No,14.2,,
+Chapter 4-2,Upper Level,Diego,,,None,Torch [Blow],Slow,No,15.8,,
+Chapter 4-2,Furnace,Armored Gigante,,,,,,,62.6,-,Mandatory Kill^. Drops '15000 pesetas'
+Chapter 4-2,Furnace,Masked Gigante,,,,,,,62.6,-,Mandatory Kill^. Drops '15000 pesetas'
+Chapter 4-2,Hovering above the Pit,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Hovering above the Pit,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Hovering above the Pit,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Hovering above the Pit,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Going near Higher Cave,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Going near Higher Cave,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Going near Higher Cave,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Going near Higher Cave,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Pressing one Switch [Hovering above the Pit],Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Pressing one Switch [Hovering above the Pit],Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Pressing Lower Cave Switch [Outside Lower Cave],Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Pressing Lower Cave Switch [Outside Lower Cave],Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Pressing Lower Cave Switch [Outside Lower Cave],Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Pressing both Switches,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Pressing both Switches,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Pressing both Switches,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Pressing both Switches,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Pressing both Switches,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Pressing both Switches,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Pressing both Switches,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Pressing both Switches,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Pressing both Switches,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Pressing both Switches,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Fixed Novistadores above the Pit,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Fixed Novistadores above the Pit,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Fixed Novistadores above the Pit,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Fixed Novistadores above the Pit,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Fixed Novistadores above the Pit,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Fixed Novistadores above the Pit,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Fixed Novistadores above the Pit,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Fixed Novistadores above the Pit,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Fixed Novistadores above the Pit,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Fixed Novistadores above the Pit,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Fixed Novistadores above the Pit,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Hovering in Higher Cave's Entrance,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Hovering in Higher Cave's Entrance,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Hovering in Higher Cave's Entrance,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Hovering in Higher Cave's Entrance,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Hovering in Higher Cave's Entrance,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Hovering in Higher Cave's Entrance,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Hovering in Higher Cave's Entrance,Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Hovering above the Pit (Pressing Lower Cave Switch First),Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Hovering above the Pit (Pressing Lower Cave Switch First),Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Hovering above the Pit (Pressing Lower Cave Switch First),Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Hovering above the Pit (Pressing Lower Cave Switch First),Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Hovering above the Pit (Pressing Lower Cave Switch First),Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Hovering above the Pit (Pressing Lower Cave Switch First),Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Hovering above the Pit (Pressing Higher Cave Switch First),Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Hovering above the Pit (Pressing Higher Cave Switch First),Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Hovering above the Pit (Pressing Higher Cave Switch First),Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Hovering above the Pit (Pressing Higher Cave Switch First),Flying Novistador,,,,,,,23.8,-,
+Chapter 4-2,Hovering above the Pit (Pressing Higher Cave Switch First),Flying Novistador,,,,,,,23.8,-,
+Chapter 4-3,Ruins,José,,,None,Torch [Blow],Fast,Yes,7.9,,
+Chapter 4-3,Ruins,Manuel,,,None,Torch [Blow],Slow,Yes,7.9,,
+Chapter 4-3,Around Bonfire,Esteban,,,None,Unarmed,Medium,No,7.9,,
+Chapter 4-3,Around Bonfire,Manuel,,,Blue Watch Cap,Axe,Slow,Yes,7.9,,
+Chapter 4-3,Around Bonfire,Esteban,,,None,Torch [Blow] (Left),Slow,No,7.9,Bladed,
+Chapter 4-3,Around Bonfire,Manuel,,,None,Unarmed,Fast,No,7.9,,
+Chapter 4-3,Around Bonfire,Esteban,,,Brown Hat,Torch [Hit],Medium,No,7.9,Bladed,
+Chapter 4-3,Around Bonfire,Esteban,,,None,Unarmed,Very Slow,No,7.9,,
+Chapter 4-3,Around Bonfire,Manuel,,,Green Watch Cap,Torch [Blow],Very Fast,Yes,7.9,,Tall
+Chapter 4-3,Around Bonfire,Esteban,,,None,Unarmed,Very Fast,Yes,7.9,,
+Chapter 4-3,Around Bonfire,Manuel,,,Blue Hat,Inf. Axe,Very Slow,?,7.9,Bladed,
+Chapter 4-3,Underground Ruins,Esteban,,,None,Inf. Axe,Very Fast,?,15.8,,
+Chapter 4-3,Underground Ruins,José,,,Brown Hat,Torch [Hit],Fast,No,15.8,,
+Chapter 4-3,Underground Ruins,Esteban,,,None,Axe,Slow,Yes,15.8,Bladed,
+Chapter 4-3,Underground Ruins,Diego,,,None,Inf. Axe,Medium,Yes,15.8,Bladed,
+Chapter 4-3,Underground Ruins,Esteban,,,None,Torch [Blow],Slow,Yes,15.8,,Defensive
+Chapter 4-3,Tomb,José,,,None,Torch [Blow],Very Slow,Yes,15.8,Bladed,
+Chapter 4-3,Salvador Cave,Dr. Salvador Diego,,,,Chainsaw,,,47.3,-,Drops '10000 pesetas'
+Chapter 4-3,Salvador Cave,Dr. Salvador Esteban,,,,Chainsaw,,,47.3,-,Drops '10000 pesetas'. Patrolling
+Chapter 4-3,In Pursuit,José,,,None,Torch [Blow],Very Slow,Yes,15.8,Bladed,
+Chapter 4-3,In Pursuit,Esteban,,,Blue Hat,Axe,Medium,Yes,17.4,Bladed,
+Chapter 4-3,Idle,Maria,,,None,Knife,Very Fast,Yes,15.8,Bladed,
+Chapter 4-3,Idle,Esteban,,,None,Inf. Axe,Medium,?,15.8,,
+Chapter 4-3,Idle,Maria,,,None,Knife,Slow,Yes,15.8,Bladed,
+Chapter 4-3,Idle,Diego,,,Brown Hat,Unarmed,Fast,Yes,14.2,,
+Chapter 4-3,Picking up 'Key to the Mine',Esteban,,,None,Unarmed,Fast,No,15.8,,
+Chapter 4-3,Picking up 'Key to the Mine',Diego,,,None,Axe,Medium,No,15.8,Bladed,
+Chapter 4-3,Picking up 'Key to the Mine',José,,,Blue Hat,Sickle,Very Slow,No,15.8,Bladed,
+Chapter 4-3,Falling Ceiling Trap,Detached Spider Plaga,,,,,,,4,-,
+Chapter 4-3,Falling Ceiling Trap,Detached Spider Plaga,,,,,,,4,-,
+Chapter 4-3,Falling Ceiling Trap,Detached Spider Plaga,,,,,,,4,-,
+Chapter 4-3,Falling Ceiling Trap,Detached Spider Plaga,,,,,,,4,-,
+Chapter 4-3,Attack I,José,,,None,Axe,Very Slow,Yes,7.9,,Unavoidable Kill*^
+Chapter 4-3,Attack I,José,,,None,Axe,Medium,Yes,7.9,,Unavoidable Kill*^
+Chapter 4-3,Attack I,Esteban,,,None,Inf. Sickle,Very Slow,Yes,7.9,,Unavoidable Kill*^
+Chapter 4-3,Attack II,Diego,,,None,Axe,Very Fast,Yes,7.9,,Unavoidable Kill^
+Chapter 4-3,Attack II,Esteban,,,None,Axe,Very Fast,Yes,7.9,,Unavoidable Kill (30 FPS); Unavoidable Kill^ (60 FPS)
+Chapter 4-3,Attack II,Maria,,,None,Sickle,Slow,Yes,7.9,Bladed,Unavoidable Kill^
+Chapter 4-3,Attack III,Diego,,,None,Axe,Fast,Yes,9.5,Bladed,Unavoidable Kill^
+Chapter 4-3,Attack III,Esteban,,,None,Inf. Axe,Slow,Yes,7.9,,Unavoidable Kill^
+Chapter 4-3,Attack III,Maria,,,None,Knife,Medium,Yes,7.9,,Unavoidable Kill^
+Chapter 4-3,Attack III,José,,,None,Inf. Axe,Very Slow,Yes,9.5,,Unavoidable Kill^
+Chapter 4-3,Attack III,Maria,,,None,Knife,Fast,Yes,7.9,,Unavoidable Kill^
+Chapter 4-3,Attack IV,Esteban,,,Blue Hat,Axe,Slow,Yes,7.9,,Unavoidable Kill^
+Chapter 4-3,Attack IV,José,,,None,Torch [Blow],Very Fast,Yes,9.5,,Unavoidable Kill^. Tall
+Chapter 4-3,Attack IV,Maria,,,None,Axe,Medium,Yes,6.3,,Unavoidable Kill^
+Chapter 4-3,Attack IV,Dr. Salvador Diego,,,,Chainsaw,,,31.5,-,Unavoidable Kill^. Drops '10000 pesetas'
+Chapter 4-3,Lever,Esteban,,,Blue Hat,Torch [Blow],Fast,Yes,0.1,,Unavoidable Kill^. Defensive
+Chapter 4-3,Replacement Spawn (13),Maria,,,Blue Headscarf,Inf. Knife,Slow,Yes,7.9,Bladed,
+Chapter 4-3,Replacement Spawn (13),Maria,,,Yellow Headscarf,Axe,Very Slow,Yes,6.3,,
+Chapter 4-3,Replacement Spawn (13),Diego,,,None,Axe,Fast,Yes,6.3,,
+Chapter 4-3,Replacement Spawn (13),Esteban,,,None,Inf. Axe,Fast,Yes,7.9,Bladed,
+Chapter 4-3,Replacement Spawn (13),José,,,Brown Hat,Inf. Axe,Very Fast,Yes,9.5,,
+Chapter 4-3,Replacement Spawn (13),José,,,Brown Hat,Torch [Hit],Medium,Yes,9.5,,Tall
+Chapter 4-3,Attack V,Diego,,,None,Pitchfork,Very Slow,Yes,7.9,,Unavoidable Kill^
+Chapter 4-3,Attack V,Esteban,,,None,Inf. Axe,Slow,Yes,6.3,,Unavoidable Kill^
+Chapter 4-3,Attack V,Maria,,,None,Knife,Very Fast,Yes,9.5,Bladed,Unavoidable Kill^
+Chapter 4-3,Attack VI,Diego,,,None,Inf. Axe,Fast,Yes,6.3,,Unavoidable Kill^
+Chapter 4-3,Attack VI,Dr. Salvador Esteban,,,,Chainsaw,,,31.5,-,Unavoidable Kill^. Drops '10000 pesetas'
+Chapter 4-3,Attack VI,José,,,None,Inf. Axe,Medium,Yes,7.1,Bladed,Unavoidable Kill^
+Chapter 4-3,Attack VI,José,,,None,Inf. Axe,Very Fast,Yes,9.5,,Unavoidable Kill^
+Chapter 4-3,Attack VII,Diego,,,Brown Hat,Unarmed,Slow,Yes,7.9,,Unavoidable Kill^
+Chapter 4-3,Attack VII,Diego,,,None,Axe,Very Fast,Yes,7.9,Bladed,Unavoidable Kill^
+Chapter 4-3,Attack VII,José,,,Brown Hat,Inf. Axe (Left),Fast,Yes,6.3,,Unavoidable Kill^
+Chapter 4-3,Attack VII,Diego,,,Blue Hat,Unarmed,Medium,Yes,7.9,,Unavoidable Kill^
+Chapter 4-4,West Side - First Level,Black Zealot,B,Insignia,Silver Necklace,Flail,Very Fast,Yes,14.1,,
+Chapter 4-4,West Side - Second Level,Black Zealot,A,Insignia,None,Flail,Very Slow,Yes,17,,
+Chapter 4-4,West Side - Third Level (Defending Lever I),Black Baldie,A,Plain,None,Flail,Very Slow,Yes,14.1,,
+Chapter 4-4,West Side - Third Level (Defending Lever I),Black Skull,B,Insignia,None,Flail,Medium,Yes,17,,
+Chapter 4-4,West Side - Third Level (Defending Lever I),Black Baldie,A,Plain,None,Crossbow,Slow,Yes,9.9,,Stationary. Tall
+Chapter 4-4,West Side - Third Level (Defending Lever I),Black Zealot,A,Insignia,None,Flail,Fast,Yes,11.3,,Defensive
+Chapter 4-4,Middle Platform,Black Zealot,B,Insignia,None,Flail,Very Fast,Yes,12.7,,
+Chapter 4-4,Middle Platform,Black Zealot,B,Insignia,None,Flail,Fast,Yes,14.1,,
+Chapter 4-4,East Side - Second Level,Black Zealot,A,Insignia,None,Flail,Fast,Yes,17,,
+Chapter 4-4,East Side - Second Level,Black Zealot,B,Insignia,None,Flail,Slow,Yes,14.1,,
+Chapter 4-4,East Side - Third Level,Black Baldie,B,Plain,None,Flail,Very Slow,Yes,14.1,,
+Chapter 4-4,East Side - Third Level,Black Skull,A,Insignia,None,Flail,Very Fast,Yes,11.3,,
+Chapter 4-4,East Side - First Level (Defending Lever II),Red Skull,C,Golden Insignia,Gold Necklace,Flail,Medium,Yes,31,,Drops '5000 pesetas' in gold bars
+Chapter 4-4,East Side,Purple Zealot,A,Golden Insignia,Tattoo 1 + Silver Necklace,Crossbow,Medium,Yes,11.3,,Stationary
+Chapter 4-4,East Side,Purple Skull,B,Golden Insignia,Gold Necklace,Flail,Very Slow,Yes,19.8,,
+Chapter 4-4,East Side,Purple Skull,A,Golden Insignia,Gold Necklace,Flail,Very Fast,Yes,19.8,,
+Chapter 4-4,Jumping from above,Purple Zealot,B,Golden Insignia,Gold Necklace,Flail,Fast,Yes,14.1,,
+Chapter 4-4,Jumping from above,Purple Zealot,B,Golden Insignia,Gold Necklace,Flail,Very Slow,Yes,14.1,,
+Chapter 4-4,Jumping from above,Purple Zealot,A,Golden Insignia,Gold Necklace,Flail,Medium,Yes,14.1,,
+Chapter 4-4,West Side,Purple Zealot,B,Black Insignia,None,Crossbow,Very Fast,Yes,11.3,,Stationary
+Chapter 4-4,West Side,Purple Skull,B,Golden Insignia,None,Flail,Medium,Yes,17,,
+Chapter 4-4,West Side,Purple Skull,A,Golden Insignia,None,Flail,Very Slow,Yes,14.1,,
+Chapter 4-4,First Cutscene,Purple Zealot,B,Golden Insignia,Gold Necklace,Scythe,Medium,Yes,14.1,,
+Chapter 4-4,First Cutscene,Purple Baldie,A,Red Stripe,Tattoo 1,Scythe,Very Slow,Yes,14.1,,Defensive. Tall
+Chapter 4-4,First Cutscene,Purple Zealot,A,Golden Insignia,Silver Necklace,Unarmed,Very Fast,Yes,14.1,,Lever Operator. Defensive
+Chapter 4-4,First Cutscene,Purple Baldie,A,Red Stripe,Tattoo 1,Dynamite,?,?,11.3,,
+Chapter 4-4,Purple Goat Masked Zealot's Company,Purple Goat,B,Golden Insignia,Gold Necklace,Flail,Medium,Yes,35.3,,Defensive. Drops '5500 pesetas'
+Chapter 4-4,Purple Goat Masked Zealot's Company,Purple Baldie,B,Red Stripe,Tattoo 1,Flail,Very Fast,Yes,14.1,,
+Chapter 4-4,Purple Goat Masked Zealot's Company,Purple Baldie,A,Red Stripe,Tattoo 1,Flail,Very Slow,Yes,14.1,,
+Chapter 4-4,Purple Goat Masked Zealot's Company,Purple Hooded,B,Red Stripe,Gold Necklace,Unarmed,Slow,Yes,11.3,,
+Chapter 4-4,Purple Goat Masked Zealot's Company,Purple Hooded,A,Red Stripe,Gold Necklace,Unarmed,Fast,Yes,11.3,,
+Chapter 4-4,Purple Goat Masked Zealot's Company,Purple Skull,A,Golden Insignia,None,Scythe,Very Fast,Yes,14.1,,Tall
+Chapter 4-4,Purple Goat Masked Zealot's Company,Purple Skull,A,Golden Insignia,None,Flail & Shield,Medium,Yes,14.1,,
+Chapter 4-4,Crossbowmen,Purple Hooded,A,Red Stripe,None,Crossbow,?,?,1.5,,
+Chapter 4-4,Crossbowmen,Purple Hooded,B,Red Stripe,Gold Necklace,Crossbow,?,?,1.5,,
+Chapter 4-4,Replacement Spawn (18),Red Zealot,C,Golden Insignia,Gold Necklace,Unarmed,Medium,Yes,25.4,,
+Chapter 4-4,Replacement Spawn (18),Red Zealot,C,Black Insignia,Tattoo 2 + Gold Necklace,Unarmed,Fast,No,22.6,,
+Chapter 4-4,Replacement Spawn (18),Red Baldie,C,Plain,Gold Necklace,Unarmed,Very Slow,Yes,25.4,Head-Eater,
+Chapter 4-4,Replacement Spawn (18),Red Skull,C,Black Insignia,Gold Necklace,Flail,Very Fast,Yes,22.6,,
+Chapter 4-4,Ramon Salazar,Ramon Salazar,,,,,,,249.9,-,Mandatory Kill^ (30 FPS); Mandatory Kill (60 FPS). Drops '50000 pesetas'
+Chapter 4-4,Endless Spawn,Detached Spider Plaga,,,,,,,4,-,
+Chapter 5-1,Spotlight Alarm,Guy,,Light Gray,None,Flail,Medium,Yes,17.3,,
+Chapter 5-1,Spotlight Alarm,Guy,,Light Gray w/Straps,Red Bandana,Stun Rod (Left),Slow,Yes,17.3,,
+Chapter 5-1,Spotlight Alarm,Jove,,Light Gray w/Gray Vest,None,Flail (Left),Fast,Yes,17.3,Bladed,
+Chapter 5-1,Jumping into Military Base,Jove,,Light Gray,Black Mask,Axe,Very Fast,Yes,17.3,Bladed,
+Chapter 5-1,Jumping into Military Base,Jove,,Light Gray,Helmet,Inf. Axe,Very Slow,Yes,17.3,Bladed,
+Chapter 5-1,Jumping into Military Base,Lee,,Light Gray w/Straps,Black Mask,Flail (Left),Very Fast,Yes,17.3,,Tall
+Chapter 5-1,Jumping into Military Base,Bob,,Light Gray,None,Flail & Shield,Medium,Yes,17.3,,
+Chapter 5-1,Jumping into Military Base,Lee,,Light Gray,Helmet,Stun Rod,Very Slow,Yes,17.3,Bladed,
+Chapter 5-1,J.J.,J.J.,,,,,,,128.3,-,Drops '15000 pesetas' in gold bars
+Chapter 5-1,Capped Spawn (5),Guy,,Light Gray,None,Flail,Slow,Yes,17.3,,
+Chapter 5-1,Capped Spawn (5),Jove,,Light Gray,Black Mask,Axe,Medium,Yes,17.3,Bladed,
+Chapter 5-1,Capped Spawn (5),Guy,,Light Gray w/Gray Vest,Red Bandana,Stun Rod,Medium,Yes,17.3,,
+Chapter 5-1,Capped Spawn (5),Lee,,Light Gray w/Gray Vest,None,Flail (Left),Very Fast,Yes,17.3,Bladed,
+Chapter 5-1,Capped Spawn (5),Guy,,Light Gray,Bulletproof Helmet,Stun Rod (Left),Very Fast,Yes,17.3,,
+Chapter 5-1,Capped Spawn (5),Guy,,Light Gray w/Gray Vest,Black Hood,Crossbow,Very Slow,Yes,17.3,Bladed,
+Chapter 5-1,Capped Spawn (5),Lee,,Light Gray,Red Bandana,Unarmed (Left),Very Slow,Yes,17.3,,
+Chapter 5-1,Capped Spawn (5),Bob,,Light Gray w/Straps,Helmet + Black Mask,Stun Rod,Fast,Yes,17.3,Bladed,
+Chapter 5-1,Ladder to Cliff,Guy,,Light Gray w/Gray Vest,Black Hood,Crossbow,Fast,Yes,17.3,,Defensive
+Chapter 5-1,Ladder to Cliff,Bob,,Light Gray,None,Unarmed,Slow,Yes,17.3,Bladed,
+Chapter 5-1,Guard,Alex,,Black Vest,None,Flail,Medium,Yes,17.3,,Defensive
+Chapter 5-1,Cave,Gas Mask Soldier A,,,,Stun Rod (Left),Medium,Yes,22.5,Bladed,
+Chapter 5-1,Cave,Gas Mask Soldier B,,,,Stun Rod,Very Fast,Yes,25.9,,
+Chapter 5-1,Cave,Gas Mask Soldier A,,,,Stun Rod,Slow,Yes,22.5,,
+Chapter 5-1,Sentinel,Mel,,Black Vest w/White Jacket,None,Unarmed,Very Fast,Yes,17.3,,Defensive
+Chapter 5-1,Crossbowmen,Alex,,Black Vest w/Straps,Helmet + Metal Mask,Crossbow,Slow,Yes,17.3,,Defensive
+Chapter 5-1,Crossbowmen,Alex,,Black Vest w/Straps,None,Crossbow,Fast,Yes,17.3,Bladed,Defensive
+Chapter 5-1,Crossbowmen,Mel,,Black Vest w/White Jacket,Bulletproof Helmet,Crossbow,Medium,Yes,17.3,,Defensive
+Chapter 5-1,Explosive Backup,Mel,,Black Vest,Helmet + Metal Mask,Rocket Launcher,Very Fast,Yes,17.3,,Defensive
+Chapter 5-1,Explosive Backup,Mel,,Black Vest w/White Jacket,None,Dynamite,Fast,Yes,17.3,,Defensive
+Chapter 5-1,Explosive Backup,Mel,,Black Vest,Helmet,Dynamite,Slow,Yes,17.3,,Defensive. Tall
+Chapter 5-1,Advancing,Mel,,Black Vest w/Straps,None,Axe,Very Slow,Yes,17.3,Bladed,
+Chapter 5-1,Crossbow Alex (Helmet + Metal Mask),Alex,,Black Vest w/Straps,None,Axe (Left),Slow,Yes,17.3,,
+Chapter 5-1,Crossbow Alex (Helmet + Metal Mask),Gas Mask Soldier B,,,,Stun Rod,Fast,Yes,25.9,Bladed,
+Chapter 5-1,Crossbow Mel,Gas Mask Soldier A,,,,Stun Rod (Left),Very Slow,Yes,31.1,,Defensive
+Chapter 5-1,Crossbow Mel,Gas Mask Soldier B,,,,Stun Rod,Very Slow,Yes,25.9,Bladed,
+Chapter 5-1,Rocket Launcher Mel,Alex,,Black Vest w/White Jacket,Green Bandana,Dynamite,Fast,Yes,17.3,,
+Chapter 5-1,Dynamite Mel,Alex,,Black Vest,None,Dynamite,Medium,Yes,17.3,,
+Chapter 5-1,Tall Dynamite Mel (Helmet),Gas Mask Soldier A,,,,Stun Rod (Left),Very Slow,Yes,17.3,Bladed,
+Chapter 5-1,Tall Dynamite Mel (Helmet),Alex,,Black Vest w/White Jacket,None,Flail (Left),Very Fast,Yes,17.3,Bladed,
+Chapter 5-1,Past Gate,Alex,,Black Vest,Helmet,Crossbow,Slow,Yes,17.3,,
+Chapter 5-1,Past Gate,Gas Mask Soldier A,,,,Stun Rod,Fast,Yes,22.5,,
+Chapter 5-1,Past Gate,Gas Mask Soldier B,,,,Stun Rod (Left),Very Fast,Yes,25.9,,
+Chapter 5-1,Past Gate,Mel,,Black Vest w/White Jacket,Helmet + White Mask,Axe (Left),Very Fast,Yes,17.3,,
+Chapter 5-1,Past Gate,Alex,,Black Vest,Green Bandana,Flail,Slow,Yes,17.3,,
+Chapter 5-1,Kitchen,Gas Mask Soldier B,,,,Unarmed,Medium,No,25.9,Bladed,
+Chapter 5-1,Kitchen,Oven Man,,,,Unarmed,Slow,Yes,2.1,,
+Chapter 5-1,Monitor Room,Hammer Soldier,,,,Hammer,Very Fast,?,34.5,,Defensive
+Chapter 5-1,Monitor Room,Hammer Soldier,,,,Hammer,Slow,?,34.5,,Defensive
+Chapter 5-1,Monitor Room,Hal,,Light Blue w/Red Vest,Red Hood,Crossbow,Medium,Yes,17.3,Spider,
+Chapter 5-1,Going down Storage Area,Ron,,Light Blue,Blue Bandana,Axe,Slow,Yes,34.5,Spider,
+Chapter 5-1,Going down Storage Area,Phil,,Light Blue,None,Flail & Shield,Very Fast,Yes,20.7,Spider,
+Chapter 5-1,Dynamiters,Mel,,Black Vest,Bulletproof Helmet,Dynamite,?,Yes,25.9,,Mandatory Kill*^
+Chapter 5-1,Dynamiters,Mel,,Black Vest w/White Jacket,White Mask,Dynamite,?,Yes,31.1,,Mandatory Kill*^
+Chapter 5-1,Crossbowmen,Mel,,Black Vest w/White Jacket,Bulletproof Helmet,Crossbow,Slow,Yes,27.6,,Mandatory Kill*^
+Chapter 5-1,Crossbowmen,Mel,,Black Vest w/Straps,Bulletproof Helmet,Crossbow,Fast,Yes,25.9,,Mandatory Kill*^. Tall
+Chapter 5-1,Crossbowmen,Mel,,Black Vest,Bulletproof Helmet,Crossbow,Medium,Yes,22.5,,Mandatory Kill*^
+Chapter 5-1,Door Operator,Mel,,Black Vest w/Straps,None,Flail,Slow,Yes,17.3,,Defensive
+Chapter 5-1,Armory (Backtracking),Gas Mask Soldier A,,,,Stun Rod,Very Slow,Yes,25.9,Bladed,Tall
+Chapter 5-1,Armory (Backtracking),Gas Mask Soldier B,,,,Stun Rod,Very Fast,Yes,22.5,,
+Chapter 5-1,Operation Room,Regenerador,,,,,,,235.3,-,Drops '5000 pesetas' in gold bars
+Chapter 5-1,Hallway,Regenerador,,,,,,,235.3,-,Drops '5000 pesetas' in gold bars
+Chapter 5-1,Hallway,Regenerador,,,,,,,235.3,-,Drops '5000 pesetas' in gold bars
+Chapter 5-1,Freezer,Regenerador,,,,,,,235.3,-,Drops '5000 pesetas' in gold bars
+Chapter 5-1,Waste Disposal Area,Phil,,Light Blue w/Green Vest,Red Hood,Crossbow,Slow,Yes,17.3,,Defensive. Patrolling
+Chapter 5-1,Waste Disposal Area,Ron,,Light Blue w/Green Vest,None,Axe,Fast,Yes,17.3,,Defensive
+Chapter 5-1,Waste Disposal Area,Hal,,Light Blue w/Green Vest,None,Unarmed,Very Fast,Yes,17.3,,
+Chapter 5-1,Waste Disposal Area,Phil,,Light Blue w/Green Vest,Helmet,Flail,Slow,Yes,17.3,,Defensive. Patrolling
+Chapter 5-1,Storage Room,Hammer Soldier,,,,Hammer,Fast,?,34.5,,
+Chapter 5-1,Storage Room,Hammer Soldier,,,,Hammer,Medium,?,38,,
+Chapter 5-1,Doctor's Office,Gas Mask Soldier A,,,,Stun Rod,Slow,Yes,25.9,Bladed,
+Chapter 5-1,Doctor's Office,Gas Mask Soldier B,,,,Stun Rod (Left),Very Fast,Yes,22.5,,
+Chapter 5-1,Doctor's Office,Alex,,Black Vest w/White Jacket,Metal Mask,Crossbow,Very Fast,Yes,17.3,Bladed,
+Chapter 5-1,Doctor's Office,Mel,,Black Vest w/Straps,None,Flail & Shield,Fast,Yes,17.3,Bladed,Defensive
+Chapter 5-1,Doctor's Office,Gas Mask Soldier B,,,,Stun Rod (Left),Very Slow,Yes,17.3,Bladed,
+Chapter 5-1,Doctor's Office,Alex,,Black Vest,None,Flail,Medium,Yes,17.3,,
+Chapter 5-1,Culture Room,Iron Maiden,,,,,,,294.2,-,Mandatory Kill. Drops the 'Storage Room Card Key'
+Chapter 5-1,Doctor's Office II,Alex,,Black Vest w/White Jacket,Metal Mask,Crossbow,Very Slow,Yes,17.3,Bladed,
+Chapter 5-1,Doctor's Office II,Mel,,Black Vest,Bulletproof Helmet,Crossbow,Fast,Yes,17.3,,Defensive. Tall
+Chapter 5-1,Doctor's Office II,Mel,,Black Vest w/Straps,Green Bandana,Crossbow,Slow,Yes,17.3,Bladed,Defensive
+Chapter 5-1,Doctor's Office II,Mel,,Black Vest,White Mask,Axe (Left),Slow,Yes,17.3,,
+Chapter 5-1,Doctor's Office II,Gas Mask Soldier A,,,,Stun Rod (Left),Medium,Yes,17.3,Bladed,
+Chapter 5-1,Doctor's Office II,Mel,,Black Vest w/White Jacket,Helmet,Flail,Very Fast,Yes,17.3,,
+Chapter 5-2,Storage Room II,Hal,,Light Blue,Red Hood,Crossbow,Slow,Yes,17.3,,Tall
+Chapter 5-2,Storage Room II,Hammer Soldier,,,,Hammer,Slow,?,34.5,,
+Chapter 5-2,Storage Room II,Phil,,Light Blue w/Red Vest,None,Stun Rod (Left),Slow,Yes,17.3,Spider,
+Chapter 5-2,Storage Room II,Ron,,Light Blue,None,Flail & Shield,Fast,Yes,17.3,Spider,
+Chapter 5-2,Storage Room II,Ron,,Light Blue,Orange Mask,Inf. Axe,Fast,Yes,17.3,Spider,
+Chapter 5-2,Hammer Soldier Replacement Duo,Hal,,Light Blue,None,Flail,Very Fast,Yes,34.5,,Tall
+Chapter 5-2,Hammer Soldier Replacement Duo,Phil,,Light Blue,None,Flail,Very Slow,Yes,34.5,,
+Chapter 5-2,Waste Disposal Area II,Ron,,Light Blue w/Green Vest,Orange Mask,Flail,Very Slow,Yes,17.3,Bladed,
+Chapter 5-2,Waste Disposal Area II,Hal,,Light Blue w/Red Vest,None,Stun Rod,Fast,Yes,17.3,Bladed,
+Chapter 5-2,Waste Disposal Area II,Ron,,Light Blue w/Red Vest,Red Hood,Crossbow,Slow,Yes,17.3,,
+Chapter 5-2,Door Locking Cutscene,Ron,,Light Blue w/Red Vest,None,Inf. Axe,Very Fast,Yes,20.7,Bladed,
+Chapter 5-2,Pressing Security Switch,Phil,,Light Blue w/Red Vest,Bulletproof Helmet,Crossbow,Medium,Yes,22.5,,
+Chapter 5-2,Pressing Security Switch,Phil,,Light Blue w/Green Vest,Bulletproof Helmet,Stun Rod,Medium,Yes,17.3,,Tall
+Chapter 5-2,Pressing Security Switch,Phil,,Light Blue w/Red Vest,Bulletproof Helmet,Flail,Very Slow,Yes,17.3,,
+Chapter 5-2,Waste Dump,Iron Maiden,,,,,,,294.2,-,Drops '20000 pesetas' in gold bars
+Chapter 5-2,Waste Dump,Iron Maiden,,,,,,,294.2,-,Drops '20000 pesetas' in gold bars
+Chapter 5-2,Wrecking Ball Area,Hammer Soldier,,,,Hammer,Very Fast,?,34.5,,
+Chapter 5-2,Wrecking Ball Area,Ron,,Light Blue w/Green Vest,Helmet,Inf. Axe (Left),Medium,Yes,17.3,,
+Chapter 5-2,Wrecking Ball Area,Hal,,Light Blue w/Green Vest,Orange Mask,Stun Rod,Very Slow,Yes,17.3,Bladed,
+Chapter 5-2,Lower Door,Ron,,Light Blue w/Green Vest,None,Stun Rod,Slow,Yes,17.3,Bladed,
+Chapter 5-2,Lower Door,Hammer Soldier,,,,Hammer,Fast,?,34.5,,
+Chapter 5-2,Lower Door,Phil,,Light Blue w/Green Vest,Helmet,Inf. Axe,Medium,Yes,17.3,Bladed,
+Chapter 5-2,Lower Door,Hal,,Light Blue w/Green Vest,None,Inf. Axe (Left),Very Slow,Yes,17.3,Bladed,
+Chapter 5-2,Upper Door,Phil,,Light Blue,Red Hood,Crossbow,Very Slow,Yes,17.3,Bladed,
+Chapter 5-2,Upper Door,Ron,,Light Blue,Bulletproof Helmet,Stun Rod (Left),Very Fast,Yes,17.3,,
+Chapter 5-2,Upper Door,Hammer Soldier,,,,Hammer,Slow,?,34.5,,
+Chapter 5-2,Tunnel,Phil,,Light Blue,Helmet + Orange Mask,Flail (Left),Very Fast,Yes,17.3,Bladed,Tall
+Chapter 5-2,Tunnel,Ron,,Light Blue w/Green Vest,None,Inf. Axe,Medium,Yes,17.3,,
+Chapter 5-2,Upper Door,Phil,,Light Blue w/Green Vest,Helmet,Inf. Axe,Slow,Yes,17.3,Bladed,
+Chapter 5-2,Upper Door,Hal,,Light Blue w/Green Vest,Blue Bandana,Axe,Fast,Yes,17.3,Bladed,
+Chapter 5-2,Underground Passage,Regenerador,,,,,,,235.3,-,Drops '5000 pesetas' in gold bars
+Chapter 5-2,Underground Passage,Regenerador,,,,,,,235.3,-,Drops '5000 pesetas' in gold bars
+Chapter 5-2,Left Passage,Phil,,Light Blue w/Red Vest,Helmet,Inf. Axe,Slow,Yes,5.2,,
+Chapter 5-2,Left Passage,Hal,,Light Blue w/Red Vest,None,Flail,Very Fast,Yes,8.7,,
+Chapter 5-2,Right Passage,Ron,,Light Blue w/Green Vest,Helmet,Crossbow,Medium,Yes,3.5,,
+Chapter 5-2,Road,Ron,,Light Blue w/Red Vest,None,Inf. Axe,Fast,Yes,6.9,,
+Chapter 5-2,Road,Ron,,Light Blue w/Red Vest,None,Stun Rod (Left),Slow,Yes,3.5,,
+Chapter 5-2,Road,Phil,,Light Blue,Helmet + Orange Mask,Stun Rod,Medium,Yes,3.5,,
+Chapter 5-2,Road,Hal,,Light Blue w/Red Vest,None,Inf. Axe,Medium,Yes,5.2,,
+Chapter 5-2,Road,Phil,,Light Blue w/Red Vest,Blue Bandana,Flail,Fast,Yes,1.8,,
+Chapter 5-2,Road,Hal,,Light Blue w/Red Vest,None,Flail,Very Slow,Yes,3.5,,
+Chapter 5-2,Lateral Doors,Phil,,Light Blue w/Red Vest,None,Flail,Very Slow,Yes,17.3,,
+Chapter 5-2,Lateral Doors,Ron,,Light Blue w/Red Vest,Blue Bandana,Unarmed (Left),Very Fast,Yes,17.3,,
+Chapter 5-2,Lateral Doors,Ron,,Light Blue w/Red Vest,Orange Mask,Stun Rod (Left),Fast,Yes,1.8,,
+Chapter 5-2,Lateral Doors,Hal,,Light Blue w/Red Vest,None,Flail,Medium,Yes,1.8,,
+Chapter 5-2,Road,Phil,,Light Blue w/Red Vest,Helmet + Orange Mask,Inf. Axe (Left),Very Slow,Yes,8.7,,
+Chapter 5-2,Road,Ron,,Light Blue w/Red Vest,Blue Bandana,Unarmed,Very Fast,Yes,13.8,,
+Chapter 5-2,Road,Ron,,Light Blue w/Red Vest,Helmet,Flail (Left),Slow,Yes,12.1,,
+Chapter 5-2,Road,Hal,,Light Blue w/Red Vest,None,Stun Rod,Fast,Yes,13.8,,
+Chapter 5-2,Road,Phil,,Light Blue w/Red Vest,Orange Mask,Flail,Slow,Yes,1.8,,Tall
+Chapter 5-2,Road,Phil,,Light Blue w/Red Vest,Orange Mask,Inf. Axe,Very Slow,Yes,1.8,,
+Chapter 5-2,Jumping from above,Phil,,Light Blue w/Green Vest,Blue Bandana,Stun Rod (Left),Very Slow,Yes,8.7,,
+Chapter 5-2,Jumping from above,Hal,,Light Blue w/Green Vest,None,Inf. Axe,Medium,Yes,10.4,,Tall
+Chapter 5-2,Left Passage,Ron,,Light Blue w/Green Vest,Blue Bandana,Flail (Left),Very Slow,Yes,5.2,,
+Chapter 5-2,Left Passage,Phil,,Light Blue w/Red Vest,Helmet + Orange Mask,Flail,Very Fast,Yes,10.4,,
+Chapter 5-2,Left Passage,Hal,,Light Blue w/Green Vest,None,Crossbow,Very Fast,Yes,3.5,,
+Chapter 5-2,Left Passage,Phil,,Light Blue w/Red Vest,None,Stun Rod (Left),Fast,Yes,13.8,,
+Chapter 5-2,Right Passage,Ron,,Light Blue,Blue Bandana,Flail,Slow,Yes,8.7,,
+Chapter 5-2,Right Passage,Ron,,Light Blue w/Red Vest,None,Flail,Fast,Yes,1.8,,
+Chapter 5-2,Right Passage,Ron,,Light Blue w/Red Vest,None,Flail,Medium,Yes,3.5,,
+Chapter 5-2,Right Passage,Phil,,Light Blue,Red Hood,Crossbow,Very Slow,Yes,17.3,,
+Chapter 5-2,Jumping from above,Ron,,Light Blue w/Green Vest,Blue Bandana,Stun Rod (Left),Very Fast,Yes,1.8,,
+Chapter 5-2,Jumping from above,Phil,,Light Blue w/Green Vest,Red Hood,Stun Rod,Slow,Yes,8.7,,
+Chapter 5-2,Second Right Passage,Phil,,Light Blue w/Green Vest,Blue Bandana,Unarmed,Very Fast,Yes,1.8,,Tall
+Chapter 5-2,Second Right Passage,Ron,,Light Blue w/Red Vest,None,Flail (Left),Very Fast,Yes,5.2,,
+Chapter 5-2,Second Right Passage,Hal,,Light Blue w/Red Vest,None,Flail,Slow,Yes,10.4,,
+Chapter 5-2,Ground Level,Hal,,Light Blue w/Green Vest,None,Flail,Very Fast,Yes,13.8,,
+Chapter 5-2,Ground Level,Phil,,Light Blue w/Green Vest,Helmet,Flail,Fast,Yes,13.8,,
+Chapter 5-2,Ground Level,Ron,,Light Blue w/Green Vest,None,Stun Rod (Left),Very Slow,Yes,13.8,,
+Chapter 5-2,Left Platform,Ron,,Light Blue w/Green Vest,None,Stun Rod,Medium,Yes,12.1,,
+Chapter 5-2,Left Platform,Phil,,Light Blue w/Green Vest,Blue Bandana,Stun Rod (Left),Medium,Yes,13.8,,
+Chapter 5-2,Left Platform,Hal,,Light Blue w/Green Vest,None,Inf. Axe,Slow,Yes,13.8,,
+Chapter 5-2,Left Platform,Phil,,Light Blue w/Green Vest,Red Hood + Helmet,Crossbow,Very Slow,Yes,6.9,,Tall
+Chapter 5-2,Right Platform,Hal,,Light Blue w/Green Vest,Blue Bandana,Unarmed,Slow,Yes,12.1,,
+Chapter 5-2,Right Platform,Phil,,Light Blue w/Green Vest,Blue Bandana,Stun Rod,Fast,Yes,13.8,,
+Chapter 5-2,Right Platform,Ron,,Light Blue w/Green Vest,None,Flail (Left),Very Fast,Yes,6.9,,
+Chapter 5-2,Jumping from above,Hal,,Light Blue,None,Stun Rod,Fast,Yes,6.9,,
+Chapter 5-2,Jumping from above,Ron,,Light Blue,None,Flail,Very Slow,Yes,3.5,,
+Chapter 5-2,Jumping from above I,Phil,,Light Blue w/Red Vest,Blue Bandana,Unarmed,Medium,Yes,17.3,Bladed,
+Chapter 5-2,Jumping from above I,Hal,,Light Blue w/Red Vest,None,Stun Rod (Left),Fast,Yes,6.9,,
+Chapter 5-2,Left Door,Ron,,Light Blue,Orange Mask,Stun Rod,Very Fast,Yes,10.4,Bladed,
+Chapter 5-2,Left Door,Phil,,Light Blue,Helmet,Inf. Axe (Left),Slow,Yes,3.5,,
+Chapter 5-2,Road I,Phil,,Light Blue,Helmet,Flail,Very Slow,Yes,5.2,,
+Chapter 5-2,Road II,Ron,,Light Blue,Blue Cap,Stun Rod,Very Fast,Yes,13.8,Bladed,
+Chapter 5-2,Road II,Phil,,Light Blue,Red Hood,Flail,Fast,Yes,5.2,,
+Chapter 5-2,Jumping from above II,Phil,,Light Blue w/Red Vest,None,Inf. Axe,Medium,Yes,5.2,Bladed,
+Chapter 5-2,Jumping from above II,Ron,,Light Blue w/Red Vest,None,Flail,Very Fast,Yes,5.2,Bladed,
+Chapter 5-2,Destroying Obstacle,Phil,,Light Blue w/Red Vest,Helmet + Orange Mask,Flail,Slow,Yes,5.2,,
+Chapter 5-2,Destroying Obstacle,Ron,,Light Blue w/Red Vest,None,Stun Rod (Left),Fast,Yes,10.4,Bladed,
+Chapter 5-2,Destroying Obstacle,Phil,,Light Blue w/Green Vest,None,Unarmed,Very Fast,Yes,12.1,,
+Chapter 5-2,Destroying Obstacle,Hal,,Light Blue w/Red Vest,Orange Mask,Flail,Very Slow,Yes,5.2,Bladed,
+Chapter 5-3,Boilers,Gas Mask Soldier B,,,,Unarmed,Medium,Yes,22.5,Bladed,
+Chapter 5-3,Boilers,Gas Mask Soldier A,,,,Stun Rod (Left),Medium,Yes,25.9,Bladed,
+Chapter 5-3,Boilers,Alex,,Black Vest w/Straps,Green Bandana,Crossbow,Very Slow,Yes,17.3,,
+Chapter 5-3,Office,Gas Mask Soldier B,,,,Stun Rod,Very Fast,Yes,22.5,,Defensive
+Chapter 5-3,Killing One Enemy,Alex,,Black Vest w/White Jacket,White Mask,Inf. Axe,Very Fast,Yes,17.3,Bladed,Tall
+Chapter 5-3,Killing One Enemy,Mel,,Black Vest w/White Jacket,Helmet,Crossbow,Fast,Yes,17.3,,
+Chapter 5-3,Killing Three Enemies,Alex,,Black Vest w/Straps,None,Flail & Shield,Very Slow,Yes,17.3,Bladed,
+Chapter 5-3,Boiler Room (Backtracking),Alex,,Black Vest,None,Crossbow,Slow,Yes,17.3,,
+Chapter 5-3,Boiler Room (Backtracking),Alex,,Black Vest w/Straps,Helmet,Flail (Left),Slow,Yes,17.3,Bladed,
+Chapter 5-3,Boiler Room (Backtracking),Alex,,Black Vest w/White Jacket,White Mask,Flail,Fast,Yes,17.3,,
+Chapter 5-3,Cave,It,,,,,,,375,-,Mandatory Kill. Drops '50000 pesetas' in gold bars
+Chapter 5-3,Near Wagon,Alex,,Black Vest w/Straps,Helmet + White Mask,Unarmed,Fast,Yes,17.3,,Defensive
+Chapter 5-3,Near Wagon,Mel,,Black Vest,Green Bandana,Axe,Slow,Yes,17.3,,Defensive
+Chapter 5-3,Around Bonfire,Alex,,Black Vest,None,Flail (Left),Very Slow,Yes,17.3,,
+Chapter 5-3,Around Bonfire,Mel,,Black Vest w/White Jacket,None,Axe,Very Slow,Yes,17.3,,
+Chapter 5-3,Around Bonfire,Alex,,Black Vest,White Mask,Flail,Very Fast,Yes,17.3,Bladed,
+Chapter 5-3,Around Bonfire,Alex,,Black Vest w/White Jacket,None,Inf. Axe (Left),Fast,Yes,17.3,,
+Chapter 5-3,Around Bonfire,Mel,,Black Vest w/Straps,Helmet,Unarmed,Medium,Yes,17.3,Bladed,
+Chapter 5-3,Between Gasoline Barrels,Alex,,Black Vest w/White Jacket,Green Bandana,Flail & Shield,Slow,Yes,17.3,,
+Chapter 5-3,House,Machine Gun Robot,,,,,,,1.6,-,
+Chapter 5-3,House,Machine Gun Robot,,,,,,,1.6,-,
+Chapter 5-3,Beginning of Pathway to Krauser,Explosive Robot,,,,,,,1.6,-,
+Chapter 5-3,Beginning of Pathway to Krauser,Explosive Robot,,,,,,,1.6,-,
+Chapter 5-3,Left Path,Explosive Robot,,,,,,,,-,Buried
+Chapter 5-3,Left Path,Missile Launcher Robot,,,,,,,1.6,-,
+Chapter 5-3,Right Path,Explosive Robot,,,,,,,1.6,-,
+Chapter 5-3,Right Path,Explosive Robot,,,,,,,1.6,-,
+Chapter 5-3,Right Path,Machine Gun Robot,,,,,,,1.6,-,
+Chapter 5-3,Corridor,Explosive Robot,,,,,,,1.6,-,
+Chapter 5-3,Corridor,Explosive Robot,,,,,,,,-,Buried
+Chapter 5-3,Ending,Explosive Robot,,,,,,,,-,Buried
+Chapter 5-3,Ending,Machine Gun Robot,,,,,,,1.6,-,
+Chapter 5-3,Jack Krauser,Jack Krauser,,,,,,,583.4,-,"Mandatory Kill. Drops the 'Piece of the Holy Beast, Serpent' key item"
+Chapter 5-4,Initial Defense,Guy,,Light Gray,None,Unarmed,?,Yes,17.3,,Turret Gunner
+Chapter 5-4,Initial Defense,Guy,,Light Gray w/Gray Vest,Black Hood,Crossbow,Medium,Yes,17.3,,
+Chapter 5-4,Upper Path - Fixed Enemies,Bob,,Light Gray w/Gray Vest,None,Rocket Launcher,Slow,Yes,17.3,,
+Chapter 5-4,Upper Path - Fixed Enemies,Jove,,Light Gray w/Gray Vest,Black Hood,Crossbow,Medium,Yes,17.3,,Defensive
+Chapter 5-4,Upper Path - Fixed Enemies,Lee,,Light Gray,Black Hood,Crossbow,Fast,Yes,17.3,,
+Chapter 5-4,Upper Path - Fixed Enemies,Guy,,Light Gray w/Gray Vest,Red Bandana,Dynamite,Slow,Yes,17.3,,Defensive
+Chapter 5-4,Lower Level Building - Upper Door (Two Enemies),Bob,,Light Gray w/Gray Vest,Black Hood,Crossbow,Slow,Yes,17.3,,
+Chapter 5-4,Rocket Launcher Bob Avenger,Guy,,Light Gray w/Gray Vest,Black Hood,Crossbow,Fast,Yes,17.3,,
+Chapter 5-4,Crossbow Lee Avenger,Guy,,Light Gray w/Gray Vest,None,Dynamite,Medium,Yes,17.3,,
+Chapter 5-4,Lower Path - Fixed Enemies,Guy,,Light Gray w/Gray Vest,Red Bandana,Unarmed,Very Fast,Yes,17.3,,
+Chapter 5-4,Lower Path - Fixed Enemies,Guy,,Light Gray w/Gray Vest,Bulletproof Helmet,Flail & Shield,Very Fast,Yes,17.3,,
+Chapter 5-4,Lower Path - Fixed Enemies,Lee,,Light Gray w/Gray Vest,Black Mask,Flail & Shield,Very Slow,Yes,17.3,,
+Chapter 5-4,Stun Rod Lee Avenger [Upper Path Door),Bob,,Light Gray,Bulletproof Helmet,Stun Rod (Left),Very Slow,Yes,17.3,,
+Chapter 5-4,Going to Lower Level (Two Enemies),Jove,,Light Gray w/Gray Vest,None,Stun Rod (Left),Very Fast,Yes,17.3,,
+Chapter 5-4,Going to Lower Level (One Enemy),Lee,,Brown,None,Inf. Axe,Medium,Yes,17.3,,
+Chapter 5-4,Replacement Spawn (9),Lee,,Light Gray w/Gray Vest,None,Stun Rod,Fast,Yes,17.3,,
+Chapter 5-4,Replacement Spawn (9),Bob,,Light Gray w/Straps,Helmet,Flail (Left),Medium,Yes,17.3,,
+Chapter 5-4,Killing One Enemy,Jove,,Light Gray,None,Flail,Very Slow,Yes,17.3,,
+Chapter 5-4,Turret Gunner,Guy,,Light Gray,None,Unarmed,?,Yes,17.3,,Turret Gunner
+Chapter 5-4,First Floor,Bob,,Light Gray w/Gray Vest,None,Stun Rod,Very Fast,Yes,52.1,,Tall
+Chapter 5-4,First Floor,Jove,,Light Gray w/Straps,Black Mask,Inf. Axe,Very Slow,Yes,17.3,Bladed,
+Chapter 5-4,Rooftop,Guy,,Light Gray w/Gray Vest,Helmet,Flail,Very Slow,Yes,52.1,Bladed,
+Chapter 5-4,Rooftop,Bob,,Light Gray w/Gray Vest,None,Flail & Shield,Fast,Yes,17.3,,
+Chapter 5-4,Rooftop,Guy,,Light Gray,Red Bandana,Flail & Shield,Slow,Yes,17.3,,
+Chapter 5-4,Bottom Path,Jove,,Light Gray w/Gray Vest,None,Flail & Shield,Very Fast,Yes,51.8,,Defensive
+Chapter 5-4,Outside First Floor (Entering Bottom Path),Lee,,Brown,Helmet,Inf. Axe,Medium,Yes,17.3,Bladed,
+Chapter 5-4,Lower Level,Guy,,Light Gray w/Gray Vest,Red Bandana,Unarmed,Very Fast,Yes,17.3,,
+Chapter 5-4,Third Phase,J.J.,,,,,,,128.3,-,Drops '15000 pesetas' in gold bars
+Chapter 5-4,Third Phase,Jove,,Light Gray w/Gray Vest,None,Stun Rod,Very Slow,Yes,17.3,Bladed,
+Chapter 5-4,Third Phase,Bob,,Light Gray w/Gray Vest,Red Bandana,Flail & Shield,Very Fast,Yes,17.3,,
+Chapter 5-4,Third Phase,Lee,,Light Gray w/Gray Vest,None,Flail,Medium,Yes,17.3,Bladed,
+Chapter 5-4,Third Phase,Guy,,Light Gray,Black Hood,Crossbow,Fast,Yes,17.3,,
+Chapter 5-4,Stun Rod Jove Avenger,Guy,,Light Gray w/Gray Vest,Red Bandana,Unarmed,Very Fast,Yes,17.3,,
+Chapter 5-4,Shield Bob Avenger (One Enemy),Guy,,Light Gray w/Gray Vest,None,Dynamite,Medium,Yes,17.3,,
+Chapter 5-4,Flail Lee Avenger,Jove,,Light Gray w/Gray Vest,None,Flail & Shield,Very Fast,Yes,51.8,,Defensive
+Chapter 5-4,Early Spawns,Lee,,Brown,None,Unarmed,Medium,Yes,17.3,,Defensive
+Chapter 5-4,Early Spawns,Jove,,Brown w/Straps,Black Mask,Flail & Shield,Fast,Yes,17.3,,
+Chapter 5-4,Ground Level,Bob,,Brown w/Straps,None,Unarmed,Very Slow,Yes,17.3,,Turret Gunner. Defensive. Drops a 'First Aid Spray'
+Chapter 5-4,Ground Level,Guy,,Brown,Bulletproof Helmet,Unarmed,Medium,Yes,17.3,,
+Chapter 5-4,Left Platform,Bob,,Brown w/Straps,None,Unarmed,Very Fast,Yes,17.3,,Turret Gunner. Defensive. Drops 'Magnum Ammo (5)'
+Chapter 5-4,Left Platform,Bob,,Brown,Helmet,Rocket Launcher,Very Fast,Yes,51.8,,Defensive
+Chapter 5-4,Left Platform,Jove,,Brown w/Gray Vest,Black Mask,Flail (Left),Slow,Yes,17.3,,
+Chapter 5-4,Right Platform,Guy,,Light Gray,Bulletproof Helmet,Unarmed,Slow,Yes,17.3,,Turret Gunner. Defensive. Drops 'TMP Ammo (50)'
+Chapter 5-4,Right Platform,Lee,,Brown,Black Mask,Flail & Shield,Very Slow,Yes,17.3,,
+Chapter 5-4,Right Platform,Jove,,Brown,None,Dynamite,Very Fast,Yes,17.3,,
+Chapter 5-4,Unarmed Lee,Guy,,Brown,Black Hood,Crossbow,Very Fast,Yes,17.3,,
+Chapter 5-4,Shield Jove,Guy,,Brown w/Straps,Red Bandana,Flail,Medium,Yes,17.3,,
+Chapter 5-4,Flail Jove - Double,Guy,,Brown,None,Inf. Axe,Very Slow,Yes,17.3,,
+Chapter 5-4,Flail Jove - Double,Guy,,Brown w/Straps,None,Dynamite,Medium,Yes,17.3,,Tall
+Chapter 5-4,Dynamite Jove - Double,Guy,,Brown,Black Mask,Flail & Shield,Slow,Yes,17.3,,
+Chapter 5-4,Dynamite Jove - Double,Lee,,Brown w/Straps,Black Hood,Crossbow,Very Fast,Yes,17.3,,
+Chapter 5-4,Left Side Turret Gunner Bob - Double,Bob,,Brown,None,Unarmed,Fast,Yes,17.3,,
+Chapter 5-4,Left Side Turret Gunner Bob - Double,Jove,,Brown w/Gray Vest,None,Dynamite,Very Slow,Yes,17.3,,
+Chapter 5-4,Ground Level Turret Gunner Bob - Double,Jove,,Brown w/Gray Vest,None,Flail,Fast,Yes,17.3,,
+Chapter 5-4,Ground Level Turret Gunner Bob - Double,Bob,,Brown w/Straps,None,Dynamite,Slow,Yes,17.3,,
+Chapter 5-4,Helicopter Crash Site,Hal,,Light Blue,None,?,?,?,0,,Unavoidable Kill
+Chapter 5-4,Helicopter Crash Site,Hal,,Light Blue,Helmet,?,?,?,0,,Unavoidable Kill
+Chapter 5-4,Helicopter Crash Site,Ron,,Light Blue,None,?,?,?,0,,Unavoidable Kill
+Chapter 5-4,Helicopter Crash Site,Ron,,Light Blue,None,?,?,?,0,,Unavoidable Kill
+Chapter 5-4,Prison,Regenerador,,,,,,,294.2,-,Drops '5000 pesetas' in gold bars
+Chapter 5-4,Ground Level,Bob,,Brown w/Gray Vest,Helmet,Crossbow,Very Fast,Yes,17.3,Bladed,
+Chapter 5-4,Ground Level,Guy,,Brown w/Gray Vest,Black Hood,Crossbow,Fast,Yes,25.9,,
+Chapter 5-4,Ground Level,Guy,,Brown w/Gray Vest,None,Inf. Axe,Medium,Yes,17.3,,
+Chapter 5-4,Ground Level,Bob,,Brown,Helmet,Flail & Shield,Medium,Yes,22.5,Bladed,
+Chapter 5-4,Ground Level,Lee,,Brown w/Gray Vest,None,Stun Rod,Slow,Yes,17.3,Bladed,
+Chapter 5-4,Table Room,Bob,,Brown w/Gray Vest,Black Hood,Crossbow,Fast,Yes,22.5,,Defensive
+Chapter 5-4,Table Room,Guy,,Brown w/Gray Vest,Black Mask,Stun Rod (Left),Very Slow,Yes,17.3,,Defensive
+Chapter 5-4,Steel Grid Corridor,Jove,,Light Gray w/Straps,Black Mask,Stun Rod,Very Slow,Yes,22.5,Bladed,
+Chapter 5-4,Steel Grid Corridor,Jove,,Brown w/Gray Vest,None,Inf. Axe,Very Fast,Yes,25.9,,
+Chapter 5-4,Square Room,Bob,,Brown w/Gray Vest,Helmet,Flail (Left),Slow,Yes,22.5,Bladed,
+Chapter 5-4,Square Room,Guy,,Light Gray w/Gray Vest,Bulletproof Helmet,Inf. Axe,Very Fast,Yes,17.3,,Defensive
+Chapter 5-4,Emergency Lock Room,Lee,,Brown w/Gray Vest,Helmet,Axe,Slow,Yes,20.7,,
+Chapter 5-4,Regular,J.J.,,,,,,,128.3,-,Drops '15000 pesetas' in gold bars
+Chapter 5-4,Alternative,J.J.,,,,,,,41.1,-,
+Chapter 5-4,Fixed Spawn [Bottom of Tallest Ladder],Guy,,Light Gray,Red Bandana,Stun Rod,Medium,Yes,17.3,,Mandatory Kill*^. Drops the 'Emergency Lock Card Key'
+Chapter 5-4,Fixed Spawn [Bottom of Tallest Ladder],Bob,,Brown w/Straps,Helmet,Stun Rod,Medium,Yes,22.5,,
+Chapter 5-4,Fixed Spawn [Bottom of Tallest Ladder],Jove,,Brown w/Gray Vest,Black Mask,Inf. Axe,Slow,Yes,17.3,Bladed,
+Chapter 5-4,Fixed Spawn [Bottom of Tallest Ladder],Lee,,Brown w/Gray Vest,None,Flail (Left),Very Slow,Yes,24.2,Bladed,
+Chapter 5-4,Complete Cutscene [Emergency Lock Room],Jove,,Brown w/Gray Vest,Helmet,Stun Rod,Very Fast,Yes,17.3,,
+Chapter 5-4,Complete Cutscene [Emergency Lock Room],Guy,,Brown w/Gray Vest,None,Inf. Axe,Very Slow,Yes,17.3,Bladed,Tall
+Chapter 5-4,Complete Cutscene [Emergency Lock Room],Bob,,Brown w/Gray Vest,Black Mask,Flail,Slow,Yes,22.5,Bladed,
+Chapter 5-4,Complete Cutscene [Emergency Lock Room],Jove,,Brown w/Straps,None,Crossbow,Fast,Yes,24.2,Bladed,
+Chapter 5-4,Table Room,Lee,,Brown w/Straps,None,Crossbow,Fast,Yes,17.3,Bladed,
+Chapter 5-4,Table Room,Bob,,Light Gray w/Gray Vest,None,Stun Rod,Fast,Yes,17.3,Bladed,
+Chapter 5-4,Square Room,Guy,,Brown w/Gray Vest,Helmet,Stun Rod (Left),Very Slow,Yes,17.3,Bladed,
+Chapter 5-4,Square Room,Lee,,Light Gray,None,Axe,Very Fast,Yes,17.3,Bladed,
+Chapter 5-4,Third Level Room,Guy,,Brown w/Gray Vest,None,Flail,Slow,Yes,20.7,Bladed,
+Chapter 5-4,Third Level Room,Bob,,Brown w/Gray Vest,Black Mask,Axe,Medium,Yes,24.2,Bladed,Tall
+Chapter 5-4,Third Level Room,Lee,,Brown w/Straps,Helmet,Stun Rod (Left),Very Slow,Yes,17.3,,
+Chapter 5-4,Emergency Lock Room,Guy,,Brown,Black Hood,Crossbow,Very Fast,Yes,17.3,,
+Chapter 5-4,Emergency Lock Room,Lee,,Brown w/Gray Vest,None,Flail (Left),Slow,Yes,20.7,Bladed,
+Chapter 5-4,Past Gate,Bob,,Brown w/Gray Vest,None,Flail & Shield,Very Slow,Yes,25.9,Bladed,
+Chapter 5-4,Past Gate,Guy,,Brown w/Gray Vest,None,Flail & Shield,Very Fast,Yes,29.4,Bladed,
+Chapter 5-4,Plaga Removal Room,Hammer Soldier,,,,Hammer,Fast,?,34.5,Bladed,
+Chapter 5-4,Plaga Removal Room,Hammer Soldier,,,,Hammer,Medium,?,34.5,,
+Chapter 5-4,Plaga Removal Room,Hal,,Light Blue w/Green Vest,Helmet,Flail (Left),Very Slow,Yes,20.7,Bladed,
+Chapter 5-4,Plaga Removal Room,Ron,,Light Blue w/Green Vest,Blue Bandana,Unarmed,Very Fast,Yes,17.3,,
+Chapter 5-4,Construction Site,Osmund Saddler,,,,,,,4000,-,Does not count as an 'Enemy Killed'. Drops '100000 pesetas' in gold bars
