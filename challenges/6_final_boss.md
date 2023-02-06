@@ -19,7 +19,7 @@ Yes, it's time to face the final boss putting all your newfound skills and abili
 Below are three challenges for you to choose from:
 - **Chart a path to victory!** - with datasets to explore different bosses and enemies
 - **Design Challenge** - 
-- **Data Prep Challenge** - 
+- **Learn a new way** - to prep data with help from the community
 
 Submissions 
 - The deadline is midnight PST on 2nd April 2023, the next challenge will be released shortly afterwards
@@ -68,6 +68,47 @@ Here are some vizzes to check out for inspiration.
 
 Your content may be different but focus on the choices the authors have made in presenting the data, what would you do differently? And what aspects would you like to emulate?
 
+<a href='https://public.tableau.com/app/profile/max.zilla/viz/FinalFantasyVIIEnemyDatabase/Dashboard'>
+  <img src = "https://public.tableau.com/thumb/views/FinalFantasyVIIEnemyDatabase/Dashboard" width="30%">
+</a>
+<a href='https://public.tableau.com/app/profile/michael.manning4527/viz/MinecraftRealmsAioniaMapTest/AioniaRealmsMap'>
+  <img src = "https://public.tableau.com/thumb/views/MinecraftRealmsAioniaMapTest/AioniaRealmsMap" width="30%">
+</a>
+<a href='https://public.tableau.com/app/profile/ant.pulley/viz/TableauSouls/PickCharacter'>
+  <img src = "https://public.tableau.com/thumb/views/TableauSouls/PickCharacter" width="30%">
+</a>
+<a href='https://public.tableau.com/app/profile/oscar1115/viz/GoodvsEvilMonstersofDD/FinalSubmit'>
+  <img src = "https://public.tableau.com/thumb/views/GoodvsEvilMonstersofDD/FinalSubmit" width="30%">
+</a>
+<a href='https://public.tableau.com/app/profile/mohammad24633/viz/MarioEnemies-DataVizChallenge/MarioEnemiesFinalAfterFeedback'>
+  <img src = "https://public.tableau.com/thumb/views/MarioEnemies-DataVizChallenge/MarioEnemiesFinalAfterFeedback" width="30%">
+</a>
+<a href='https://public.tableau.com/app/profile/maria.catherine4989/viz/Elden_Ring_Analysis_Final/BossCompletionofEldenRingOwnersonSteam'>
+  <img src = "https://public.tableau.com/thumb/views/Elden_Ring_Analysis_Final/StatusEffect" width="30%">
+</a>
+
+<a href='https://public.tableau.com/app/profile/louisyu/viz/TheNostalgiaofFinalFantasyTactics/FinalFantasyTactics'>
+  <img src = "https://public.tableau.com/thumb/views/TheNostalgiaofFinalFantasyTactics/FinalFantasyTactics" width="30%">
+</a>
+<a href='https://public.tableau.com/app/profile/ricardo.mart.nez.barona.perdomo/viz/UmfrageDarkSouls/Historia1'>
+  <img src = "https://public.tableau.com/thumb/views/UmfrageDarkSouls/Historia1" width="30%">
+</a>
+<a href='https://public.tableau.com/app/profile/jason.yeo3566/viz/ResidentEvil25thHistory/Dashboard1'>
+  <img src = "https://public.tableau.com/thumb/views/ResidentEvil25thHistory/Dashboard1" width="30%">
+</a>
+
+
+Vizzes and Authors:
+
+- Final Fantasy VII Enemy Database by Max Zilla
+- Minecraft Realms: Aionia Map by Michael Manning
+- Tableau Souls by Ant Pulley
+- Good vs Evil: Monsters of D&D by Oscar Ko
+- Mario Enemies - DataViz Challenge by Mohammad Ahmed
+- Elden Ring Boss Analysis by Maria_Catherine
+- The Nostalgia of Final Fantasy Tactics by Louis Yu
+- Umfrage Dark Souls by Ricardo Martínez-Barona Perdomo
+- Resident Evil History by Jason Yeo
 
 
 ---
