@@ -76,7 +76,30 @@ Your content may be different but focus on the choices the authors have made in 
 
 ---
 
-## Data preparation challenge: To Do
+## Data preparation challenge: Learn a new way
+
+This challenge is all about starting the year by tackling a new language or tool for data preparation. It can be very limiting in our careers when we have to pick up a colleague's work, only to hand it back because: "I don't know python", "I haven't used Tableau Prep before", "I had training on dbt a while ago, then didn't use it again..." - any of these sound familiar? 
+
+To keep our skills in tip-top condition we'll be completing any of the first 4 weeks of Preppin' Data challenges from 2023 - the beginner series - with a new tool/language. 
+
+To assist you in this task I've browsed the [#preppindata community on Twitter](https://twitter.com/search?q=%23preppindata&src=typed_query&f=live) to find  contributors across different tools and languages. Please note this is not an exhaustive list of all contributors, do check for other contributors on for your tool/language. 
+
+### Task
+
+Complete one of the following tasks using a new, or rarely used, tool/language.
+
+[Week 01](https://preppindata.blogspot.com/2023/01/2023-week-1-data-source-bank.html), [Week 02](https://preppindata.blogspot.com/2023/01/2023-week-2-international-bank-account.html), [Week 03](https://preppindata.blogspot.com/2023/01/2023-week-3-targets-for-dsb.html) & [Week 04](https://preppindata.blogspot.com/2023/01/2023-week-4-new-customers.html)
+
+### Solutions
+
+- Alteryx - [Pallav Shah](https://twitter.com/Pallav_1) [Solution](https://twitter.com/Pallav_1/status/1620368305042358272?s=20&t=3waNG0y0qp3zt4SM-nIY-g)
+- dbt - [Jeremy Harris](https://twitter.com/jeremy__harris) [Solution](https://jharris126.github.io/preppin-data-dbt/#!/model/model.preppin_data.202301_solution_1)
+- Enso (formerly Luna) - [James Dunkerley](https://twitter.com/jdunkerley) [Solution](https://twitter.com/jdunkerley/status/1614939420897034241?s=20&t=HIaoH8C3IIbMGdaoPBHKNg)
+- Excel & Power Query - [Chris Aragao](https://twitter.com/aragaocb) [Solution](https://www.vizforvets.com/2023/01/19/preppin-data-2023-week-one-with-power-query/)
+- Python - [Will Sutton](https://twitter.com/WJSutton12) [Solution](https://github.com/wjsutton/preppin-data)
+- R - [Darragh Murray](https://twitter.com/dbfmurray) [Solution](https://github.com/dbmurray/preppin_data_rstats_chapter)
+- SQL - [Shahzad Zia](https://twitter.com/Ziacol) [Solution](https://twitter.com/Ziacol/status/1614692217804791809?s=20&t=MsstkyY15Re4Fx8yioM_DA)
+- Tableau Prep - [Rosario Gauna](https://twitter.com/rosariogaunag) [Solution](https://twitter.com/rosariogaunag/status/1611818461096996865?s=20&t=1x3-F7y7DcesF95FYM5t9Q)
 
 --- 
 
