@@ -93,8 +93,8 @@ Your content may be different but focus on the choices the authors have made in 
 <a href='https://public.tableau.com/app/profile/ricardo.mart.nez.barona.perdomo/viz/UmfrageDarkSouls/Historia1'>
   <img src = "https://public.tableau.com/thumb/views/UmfrageDarkSouls/Historia1" width="30%">
 </a>
-<a href='https://public.tableau.com/app/profile/jason.yeo3566/viz/ResidentEvil25thHistory/Dashboard1'>
-  <img src = "https://public.tableau.com/thumb/views/ResidentEvil25thHistory/Dashboard1" width="30%">
+<a href='https://public.tableau.com/app/profile/darrell.peters/viz/NovaSolar-BWL1026-RaidBossFightCastBreakdown/Sheet1'>
+  <img src = "https://public.tableau.com/thumb/views/NovaSolar-BWL1026-RaidBossFightCastBreakdown/Sheet1" width="30%">
 </a>
 
 
@@ -108,7 +108,7 @@ Vizzes and Authors:
 - Elden Ring Boss Analysis by Maria_Catherine
 - The Nostalgia of Final Fantasy Tactics by Louis Yu
 - Umfrage Dark Souls by Ricardo Martínez-Barona Perdomo
-- Resident Evil History by Jason Yeo
+- Nova Solar - BWL 10/26 - Raid Boss Fight Cast Breakdown by Darrell Peters
 
 
 ---
