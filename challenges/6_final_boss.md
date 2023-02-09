@@ -113,7 +113,35 @@ Vizzes and Authors:
 
 ---
 
-## Visual design challenge: To Do
+## Visual design challenge: Boss the Gestalt Principles
+
+The goal of this challenge is to create a data visualisation that effectively communicates insights using the Gestalt principles of perception.
+
+Gestalt principles are a set of visual guidelines that help to create visual representations that are easily understood by the human mind. The principles include:
+
+- Proximity
+- Similarity
+- Continuation
+- Closure
+- Connection
+- Enclosure
+- Symmetry
+
+### Task 
+
+Create a data visualisation using at least 3 of the Gestalt principles.
+
+Here are a few blog post were you can learn more about the principles and see them in action
+
+- [Utilizing Gestalt Principles to Improve Your Data Visualization Design by Lindsay Betzendahl](https://vizzendata.com/2020/07/06/utilizing-gestalt-principles-to-improve-your-data-visualization-design/)
+- [Gestalt in visualizations by Arushi Singh](https://bootcamp.uxdesign.cc/gestalt-in-visualizations-b2e35d3f701)
+- [Gestalt Laws Applied to Data Visualization by Vidya](http://daydreamingnumbers.com/blog/gestalt-laws-data-visualization/)
+
+<a href='https://public.tableau.com/app/profile/lindsay.betzendahl/viz/UnderstandingGestaltPrinciples/GestaltPrinciples'>
+  <img src = "https://public.tableau.com/thumb/views/UnderstandingGestaltPrinciples/GestaltPrinciples" width="30%">
+</a>
+
+- Understanding Gestalt Principles by Lindsay Betzendahl
 
 ---
 
