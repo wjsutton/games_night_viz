@@ -47,8 +47,8 @@ Pick one of the data sets below, or a data set you've found, and visualise it.
 
 | Name | Difficulty | Source | Data |
 |---|---|---|---|
-| JRose11's Pokemon Red/Blue Solo Tier list (so far!) | Easy | [reddit r/Jrose11](https://www.reddit.com/r/Jrose11/comments/v0ugf4/current_jrose11_tier_lists/) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/5_montages/jrose_pkmn_gen1_solo_runs.csv)
-| Elden Ring Best Melee Damage Weapons by Level | Easy | [fextralife](https://eldenring.wiki.fextralife.com/Weapons) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/5_montages/elden_ring_best_melee_damage_weapon_per_level.csv) |
+| JRose11's Pokemon Red/Blue Solo Tier list (so far!) | Casual | [reddit r/Jrose11](https://www.reddit.com/r/Jrose11/comments/v0ugf4/current_jrose11_tier_lists/) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/5_montages/jrose_pkmn_gen1_solo_runs.csv)
+| Elden Ring Best Melee Damage Weapons by Level | Casual | [fextralife](https://eldenring.wiki.fextralife.com/Weapons) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/5_montages/elden_ring_best_melee_damage_weapon_per_level.csv) |
 | Call of Duty Modern Warfare Players | Normal | [kaggle](https://www.kaggle.com/datasets/aishahakami/call-of-duty-players) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/5_montages/cod_mw_players.csv) |
 | Deal or No Deal UK - Season 1 | Normal | [dond.co.uk](https://www.dond.co.uk/deal_or_no_deal_stats.php) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/5_montages/deal_or_no_deal_season_1.xlsx) |
 | Fortnite Players | Heroic | [kaggle](https://www.kaggle.com/datasets/iyadali/fortnite-players-stats) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/5_montages/Fortnite_players_stats.csv) |
