@@ -41,7 +41,7 @@ Here is a collection of all the #GamesNightViz data sets collected for previous 
 | | | | |
 | <h3>Doom</h3> |
 | **Name** | **Difficulty** | **Source** | **Data** |
-| Doom Eternal Demon's HP | Easy | [Reddit r/Doometernal](https://www.reddit.com/r/Doometernal/comments/mv7vn8/demon_hp_and_weapon_damage_chart/) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/6_final_boss/doom_external_demon_hp.csv) |
+| Doom Eternal Demon's HP | Casual | [Reddit r/Doometernal](https://www.reddit.com/r/Doometernal/comments/mv7vn8/demon_hp_and_weapon_damage_chart/) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/6_final_boss/doom_external_demon_hp.csv) |
 | | | | |
 | <h3>Dungeons & Dragons</h3> |
 | **Name** | **Difficulty** | **Source** | **Data** |
