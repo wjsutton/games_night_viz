@@ -19,6 +19,10 @@ Here is a collection of all the #GamesNightViz data sets collected for previous 
 | Chess Game Dataset (Lichess) | Legendary | [kaggle](https://www.kaggle.com/datasets/datasnaek/chess) & [Lichess](https://lichess.org/) from [Varun Jain's Iron Viz 2023](https://public.tableau.com/app/profile/varun.viz.vorkshop/viz/TheScienceofWinningIronViz2023/viz) | [link](https://www.kaggle.com/datasets/datasnaek/chess) |
 | Candy Land Places & Routes | Legendary | [Candy Land: A Sweet Little Wiki for Sweet Little Folks](https://candyland.fandom.com/wiki/Candy_Land_(1949)) from [Dennis Kao's The Changing Geography of Candy Land](https://public.tableau.com/app/profile/dennis.kao/viz/TheChangingGeographyofCandyLandIronQuestGamesNightViz/FinalViz) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/user-submitted-data/candy_land_explainer.md) |
 | | | | |
+| <h3>Call of Duty</h3> |
+| **Name** | **Difficulty** | **Source** | **Data** |
+| Call of Duty Modern Warfare Players | Normal | [kaggle](https://www.kaggle.com/datasets/aishahakami/call-of-duty-players) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/5_montages/cod_mw_players.csv) |
+| | | | |
 | <h3>Card Games</h3> |
 | **Name** | **Difficulty** | **Source** | **Data** |
 | The Top 100 Female Poker Players  | Heroic  | [TheHendonMob.com](https://pokerdb.thehendonmob.com/player.php?a=r&n=68149) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select/top_female_poker_players_and_events.xlsx) |
@@ -28,7 +32,16 @@ Here is a collection of all the #GamesNightViz data sets collected for previous 
 | HowChoo's Top 50 Most Iconic Video Game Characters | Casual | [HowChoo.com](https://howchoo.com/gaming/iconic-video-game-characters) & [VGChartz.com](https://www.vgchartz.com/) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select/howchoos_top_50_most_iconic_video_game_character.csv)  |
 | Money Raised by Games Done Quick Speedrunning Events | Casual | [gamesdonequick.com](https://gamesdonequick.com/tracker) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/4_the_need_for_speed/games_done_quick.csv) |
 | Notable Holiday Themed Or Featured Games | Casual | [Metacritic](https://www.metacritic.com/), [VGChartz](https://www.vgchartz.com/), [VGInsights](https://vginsights.com/) [Wikipedia](https://en.wikipedia.org/wiki/Category:Christmas_video_games) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/9_bonus_challenges/notable_themed_or_featured_holiday_video_games.csv) |
+| The 100 Hardest Video-Game Bosses | Normal | [vulture.com](https://www.vulture.com/article/100-hardest-video-game-bosses-ranked.html) & [rawg db](https://www.kaggle.com/datasets/jummyegg/rawg-game-dataset) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/6_final_boss/top_100_bosses.csv) 
 | Video Game Voice Actors | Hard | [IMDB](https://www.imdb.com/interfaces/) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/9_bonus_challenges/202208_dataplusmusic/video_game_voice_actors.csv) |
+| | | | |
+| <h3>Dark Souls</h3> |
+| **Name** | **Difficulty** | **Source** | **Data** |
+| Dark Souls Bosses and Scaling | Heroic | [Reddit r/darksouls](https://www.reddit.com/r/darksouls/comments/2qwtp3/health_souls_resists_damage_scaling_of_all_enemy/) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/6_final_boss/DarkSouls1_NPC_Difficulty_Scaling.xlsx) |
+| | | | |
+| <h3>Doom</h3> |
+| **Name** | **Difficulty** | **Source** | **Data** |
+| Doom Eternal Demon's HP | Easy | [Reddit r/Doometernal](https://www.reddit.com/r/Doometernal/comments/mv7vn8/demon_hp_and_weapon_damage_chart/) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/6_final_boss/doom_external_demon_hp.csv) |
 | | | | |
 | <h3>Dungeons & Dragons</h3> |
 | **Name** | **Difficulty** | **Source** | **Data** |
@@ -38,13 +51,25 @@ Here is a collection of all the #GamesNightViz data sets collected for previous 
 | Critical Role Main Campaign All Rolls | Normal | [CritRoleStats via Google Data Studio](https://datastudio.google.com/reporting/8ebbbf4a-6e80-49ec-a303-6feae10887b0/page/xGaZC?s=q-JLEqSd-xU) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/9_bonus_challenges/202206_datafamcon_dnd/Critical%20Roll%20-%20Main%20Campaign%20All%20Rolls_Roll%20Table%20and%20Natural%20Roll%20Distribution_Table.csv) |
 | Critical Role Campaign 1 Pack: Episodes, Gameplay, Combat, Dialogue and Roles with YouTube links | Heroic | [Critical Role](https://criticalrole.fandom.com/), [CritRoleStats](https://www.critrolestats.com/stats), [Kryogenix](https://kryogenix.org/crsearch/html/index.html) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/9_bonus_challenges/202206_datafamcon_dnd/Critical_Role_Campaign_1_Datapack.xlsx)
 | | | | |
+| <h3>Elden Ring</h3> |
+| **Name** | **Difficulty** | **Source** | **Data** |
+| Elden Ring Best Melee Damage Weapons by Level | Casual | [fextralife](https://eldenring.wiki.fextralife.com/Weapons) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/5_montages/elden_ring_best_melee_damage_weapon_per_level.csv) |
+| Elden Ring Bosses | Normal | [eldenring.fanapis](https://docs.eldenring.fanapis.com/) via [kaggle](https://www.kaggle.com/datasets/robikscube/elden-ring-ultimate-dataset) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/6_final_boss/elden_ring_bosses.csv) |
+| Elden Ring Melania Battles | Heroic | [kaggle](https://www.kaggle.com/datasets/jordancarlen/host-deaths-to-malenia-blade-of-miquella) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/5_montages/Elden%20Ring%20Deaths%20to%20Malenia.zip) |
+| | | | |
 | <h3>Final Fantasy</h3> |
 | **Name** | **Difficulty** | **Source** | **Data** |
+| Final Fantasy 1 Bosses | Casual | [strategywiki.org](https://strategywiki.org/wiki/Final_Fantasy/Bosses) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/6_final_boss/final_fantasy_1_bosses.csv)
 | Final Fantasy Tactics Data Pack | Heroic | [Kaggle](https://www.kaggle.com/andrewparnell/final-fantasy-tactics-battles) & [ffmages.com](http://www.ffmages.com/final-fantasy-tactics/weapons/)| [link](3_powering_up/Final%20Fantasy%20Tactics.xlsx) |
+| | | | |
+| <h3>Fortnite</h3> |
+| **Name** | **Difficulty** | **Source** | **Data** |
+| Fortnite Players | Heroic | [kaggle](https://www.kaggle.com/datasets/iyadali/fortnite-players-stats) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/5_montages/Fortnite_players_stats.csv) |
 | | | | |
 | <h3>Gameshows</h3> |
 | **Name** | **Difficulty** | **Source** | **Data** |
-| Jeopardy! Daily Double | Casual | [u/statisticallysound on Reddit](https://www.reddit.com/r/dataisbeautiful/comments/k08idu/jeopardy_daily_double_heatmap_oc/gdgite0/) & [J! Archive](https://j-archive.com/) | [link](3_powering_up/jeopardy_daily_double_locations_seasons_1-37.csv)
+| Jeopardy! Daily Double | Casual | [u/statisticallysound on Reddit](https://www.reddit.com/r/dataisbeautiful/comments/k08idu/jeopardy_daily_double_heatmap_oc/gdgite0/) & [J! Archive](https://j-archive.com/) | [link](3_powering_up/jeopardy_daily_double_locations_seasons_1-37.csv) |
+| Deal or No Deal UK - Season 1 | Normal | [dond.co.uk](https://www.dond.co.uk/deal_or_no_deal_stats.php) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/5_montages/deal_or_no_deal_season_1.xlsx) |
 | | | | |
 | <h3>Genshin Impact</h3> |
 | **Name** | **Difficulty** | **Source** | **Data** |
@@ -79,6 +104,7 @@ Here is a collection of all the #GamesNightViz data sets collected for previous 
 | <h3>Minecraft</h3> |
 | **Name** | **Difficulty** | **Source** | **Data** |
 | Minecraft Block Landscape | Casual | [Github/0xTiger](https://github.com/0xTiger/blockheights) | [link](2_hello_world/minecraft_blocks_simplified_version.csv) [full dataset](2_hello_world/minecraft_blocks_full_version.csv) |
+| Minecraft Mobs and Bosses | Casual | [sportskeeda.com](https://www.sportskeeda.com/minecraft/full-list-minecraft-mobs-health) & [minecraft.fandom](https://minecraft.fandom.com/wiki/Mob) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/6_final_boss/minecraft_mobs.csv) |
 | | | | |
 | <h3>Need for Speed</h3> |
 | **Name** | **Difficulty** | **Source** | **Data** |
@@ -91,6 +117,7 @@ Here is a collection of all the #GamesNightViz data sets collected for previous 
 | <h3>Pokemon Games</h3> |
 | **Name** | **Difficulty** | **Source** | **Data** |
 | The Population of Pokemon Red & Blue | Casual | [Reddit/u/L285](https://www.reddit.com/r/pokemon/comments/n3wesv/the_population_of_kanto_in_pokemon_red_and_blue_oc/)| [link](2_hello_world/pokemon_red_blue_population.csv)  |
+| JRose11's Pokemon Red/Blue Solo Tier list (so far!) | Casual | [reddit r/Jrose11](https://www.reddit.com/r/Jrose11/comments/v0ugf4/current_jrose11_tier_lists/) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/5_montages/jrose_pkmn_gen1_solo_runs.csv)
 | Pokemon of the Year, 2020 | Normal | [Pokemon2020.com](https://pokemon2020.pokemon.com/en-us/) & [Kaggle](https://www.kaggle.com/maca11/all-pokemon-dataset) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select/pokemon_of_the_year_2020.xlsx) |
 | Pokemon UNITE Character Stats | Normal | [Unite-DB.com](https://unite-db.com/stats) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select/Pokemon%20Unite%20Character%20Stats.xlsx) |
 | Pokemon Evolutions Trees | Normal | [Kaggle](https://www.kaggle.com/kylekohnen/complete-pokemon-data-set), [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page) & [Pokemon Fandom](https://pokemon.fandom.com/wiki/List_of_Pok%C3%A9mon_by_evolution) | [link](3_powering_up/pokemon_evolution_stats.csv) |
@@ -100,6 +127,14 @@ Here is a collection of all the #GamesNightViz data sets collected for previous 
 | <h3>Red Dead Redemption 2</h3> |
 | **Name** | **Difficulty** | **Source** | **Data** |
 | The Horses of Red Dead Redemption 2 | Normal | [gtabase.com](https://www.gtabase.com/red-dead-redemption-2/horses/#sort=attr.ct10.frontend_value&sortdir=desc) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/4_the_need_for_speed/rdr2_horses.csv) |
+| | | | |
+| <h3>Resident Evil</h3> |
+| **Name** | **Difficulty** | **Source** | **Data** |
+| Every Enemy in Resident Evil 4 | Normal | [Reddit r/residentevil4](https://www.reddit.com/r/residentevil4/comments/ptnspd/list_of_every_enemy_in_the_game/) | [link](https://github.com/wjsutton/games_night_viz/blob/main/challenges/6_final_boss/resident_evil_4_enemies.csv) |
+| | | | |
+| <h3>Rocket League</h3> |
+| **Name** | **Difficulty** | **Source** | **Data** |
+| Rocket League Championship Series 2021-2022 | Heroic | [kaggle](https://www.kaggle.com/datasets/dylanmonfret/rlcs-202122) | [link](https://www.kaggle.com/datasets/dylanmonfret/rlcs-202122) |
 | | | | |
 | <h3>Rubik Cube Solves</h3> |
 | **Name** | **Difficulty** | **Source** | **Data** |
