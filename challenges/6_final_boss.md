@@ -18,7 +18,7 @@ Yes, it's time to face the final boss putting all your newfound skills and abili
 ## The Challenges
 Below are three challenges for you to choose from:
 - **Chart a path to victory!** - with datasets to explore different bosses and enemies
-- **Design Challenge** - 
+- **Boss the Gestalt Principles** - learn from the core principle of dataviz design
 - **Learn a new way** - to prep data with help from the community
 
 Submissions 
