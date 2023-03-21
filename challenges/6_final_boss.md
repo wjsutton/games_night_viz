@@ -22,7 +22,7 @@ Below are three challenges for you to choose from:
 - **Learn a new way** - to prep data with help from the community
 
 Submissions 
-- The deadline is midnight PST on 2nd April 2023, the next challenge will be released shortly afterwards
+- The deadline is midnight PST on 30th April 2023, the next challenge will be released shortly afterwards
 - Post your submissions on Twitter with the hashtag [#GamesNightViz](https://twitter.com/search?q=%23GamesNightViz&src=typed_query&f=top), and tag the team [@WJSutton12](https://twitter.com/WJSutton12), [@Visual_Endgame](https://twitter.com/Visual_Endgame), and [@ninjavizlouis](https://twitter.com/ninjavizlouis) so we don't miss your great work!
 - Submit your work to the project tracker here: [https://docs.google.com/forms/d/e/1FAIpQLScqFaHnRcX2uBX7h5PkbigXim1kfQMsnC7ZloF8UvxzfRog4w/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLScqFaHnRcX2uBX7h5PkbigXim1kfQMsnC7ZloF8UvxzfRog4w/viewform?usp=sf_link)
 
@@ -175,6 +175,6 @@ Complete one of the following tasks using a new, or rarely used, tool/language.
 ## How to Submit
 
 Submissions 
-- The deadline is midnight PST on 2nd April 2023, the next challenge will be released shortly afterwards
+- The deadline is midnight PST on 30th April 2023, the next challenge will be released shortly afterwards
 - Post your submissions on Twitter with the hashtag [#GamesNightViz](https://twitter.com/search?q=%23GamesNightViz&src=typed_query&f=top), and tag the team [@WJSutton12](https://twitter.com/WJSutton12), [@Visual_Endgame](https://twitter.com/Visual_Endgame), and [@ninjavizlouis](https://twitter.com/ninjavizlouis) so we don't miss your great work!
 - Submit your work to the project tracker here: [https://docs.google.com/forms/d/e/1FAIpQLScqFaHnRcX2uBX7h5PkbigXim1kfQMsnC7ZloF8UvxzfRog4w/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLScqFaHnRcX2uBX7h5PkbigXim1kfQMsnC7ZloF8UvxzfRog4w/viewform?usp=sf_link)
